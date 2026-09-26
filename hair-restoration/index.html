@@ -1459,6 +1459,86 @@ body:has(#kx){padding-bottom:84px}
 #kx.kxe-theme-sport .kx-plan__price{background-image:linear-gradient(90deg,#fff,#bbf7d0)}
 #kx.kxe-theme-sport .kx-sticky__wa{background:linear-gradient(135deg,#4ade80,#15803d);color:#fff}
 #kx.kxe-theme-sport .kx-dark{background:radial-gradient(1100px 600px at 85% 0%,rgba(74,222,128,.16),transparent 60%),linear-gradient(160deg,#051628,#0b2f5c)}
+/* ---------- equipo: tarjetas que se voltean ---------- */
+#kx .kxe-flips{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+#kx .kxe-flip{perspective:1400px;min-height:400px;outline:none}
+#kx .kxe-flip--lead{grid-column:span 2;grid-row:span 2}
+#kx .kxe-flip__in{position:relative;height:100%;min-height:inherit;transition:transform .8s cubic-bezier(.2,.7,.2,1);transform-style:preserve-3d}
+#kx .kxe-flip:hover .kxe-flip__in,#kx .kxe-flip:focus-within .kxe-flip__in,#kx .kxe-flip.is-flipped .kxe-flip__in{transform:rotateY(180deg)}
+#kx .kxe-flip__f,#kx .kxe-flip__b{position:absolute;inset:0;border-radius:24px;overflow:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden}
+#kx .kxe-flip__f{background:var(--deep);box-shadow:0 30px 60px -36px rgba(10,42,82,.6)}
+#kx .kxe-flip__f img{width:100%;height:100%;object-fit:cover}
+#kx .kxe-flip__f::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,22,40,0) 45%,rgba(5,22,40,.95))}
+#kx .kxe-flip__t{position:absolute;left:20px;right:20px;bottom:18px;z-index:1;color:#fff}
+#kx .kxe-flip__t small{display:block;font:700 11px/1.3 Poppins,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mint)}
+#kx .kxe-flip__t b{display:block;margin-top:6px;font:700 20px/1.2 Poppins,sans-serif}
+#kx .kxe-flip__t span{display:block;margin-top:4px;color:rgba(255,255,255,.75);font-size:15px}
+#kx .kxe-flip--lead .kxe-flip__t b{font-size:clamp(24px,2.4vw,34px)}
+#kx .kxe-flip__hint{position:absolute;top:14px;right:14px;z-index:1;font-style:normal;padding:7px 11px;border-radius:999px;background:rgba(9,35,68,.5);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);color:#fff;font:700 11.5px/1 Poppins,sans-serif}
+#kx .kxe-flip__b{transform:rotateY(180deg);background:linear-gradient(155deg,#0a2a52,#11407a);color:#fff;padding:26px 24px;display:flex;flex-direction:column;gap:10px}
+#kx .kxe-flip__b small{font:700 11px/1 Poppins,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--mint)}
+#kx .kxe-flip__b b{font:700 20px/1.2 Poppins,sans-serif}
+#kx .kxe-flip__b ul{list-style:none;padding:0;margin:4px 0 0;display:grid;gap:10px;font-size:15px;color:rgba(255,255,255,.8);line-height:1.4}
+#kx .kxe-flip__b li b{font:600 15px/1.3 "Source Sans 3",sans-serif;color:#fff}
+#kx .kxe-flip__stat{margin-top:auto;padding-top:12px;border-top:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.7);font-size:14.5px}
+#kx .kxe-flip__stat span{display:block;font:800 30px/1 Poppins,sans-serif;color:#fff;margin-bottom:4px}
+#kx .kxe-flip__b a{color:var(--mint);font:700 14px/1 Poppins,sans-serif;text-decoration:none}
+/* ---------- pagina de doctor ---------- */
+#kx .kxe-doc{min-height:0!important}
+#kx .kxe-doc__in{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:clamp(30px,5vw,70px);align-items:center;padding:clamp(56px,7vw,100px) 0 clamp(48px,6vw,80px)}
+#kx .kxe-doc .kx-h1{font-size:clamp(40px,5.4vw,74px)}
+#kx .kxe-doc__role{margin-top:14px;font:600 clamp(16px,1.4vw,19px)/1.4 Poppins,sans-serif;color:var(--mint)}
+#kx .kxe-doc__focus{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px}
+#kx .kxe-doc__focus span{padding:8px 13px;border-radius:999px;border:1px solid rgba(255,255,255,.2);color:rgba(255,255,255,.85);font:600 13px/1 Poppins,sans-serif}
+#kx .kxe-doc__pic{position:relative;margin:0;border-radius:28px;overflow:hidden;aspect-ratio:4/5;box-shadow:0 0 0 1px rgba(255,255,255,.1),0 60px 110px -40px rgba(0,0,0,.8)}
+#kx .kxe-doc__pic img{width:100%;height:100%;object-fit:cover}
+#kx .kxe-doc__pic figcaption{position:absolute;left:16px;right:16px;bottom:16px;padding:14px 16px;border-radius:18px;background:rgba(9,35,68,.5);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.18);color:rgba(255,255,255,.8);font-size:14.5px}
+#kx .kxe-doc__pic figcaption b{display:block;color:#fff;font:700 17px/1.2 Poppins,sans-serif}
+#kx .kxe-docbio{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:clamp(30px,5vw,70px);align-items:start}
+#kx .kxe-cares{margin-top:26px}
+#kx .kxe-pill{display:inline-flex;margin:0 8px 8px 0;padding:11px 16px;border-radius:999px;background:var(--mist);border:1px solid var(--line);color:var(--deep);font:700 14px/1 Poppins,sans-serif;text-decoration:none;transition:background .2s,color .2s}
+#kx .kxe-pill:hover{background:var(--deep);color:#fff}
+#kx .kxe-dq{margin:0 0 16px;padding:30px 28px;border-radius:24px;background:linear-gradient(155deg,#0a2a52,#11407a);color:#fff}
+#kx .kxe-dq blockquote{margin:0;font:600 clamp(18px,1.6vw,22px)/1.45 Poppins,sans-serif}
+#kx .kxe-dq figcaption{margin-top:14px;color:var(--mint);font:700 13px/1 Poppins,sans-serif;letter-spacing:.1em;text-transform:uppercase}
+#kx .kxe-hl{padding:24px 24px;border-radius:24px;background:var(--mist);border:1px solid var(--line)}
+#kx .kxe-hl small{font:700 11px/1 Poppins,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--ocean)}
+#kx .kxe-hl b{display:block;margin-top:8px;font:700 18px/1.25 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-hl p{margin:8px 0 0;color:var(--mut);font-size:16px;line-height:1.5}
+#kx .kxe-cv{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,70px);align-items:start}
+#kx .kxe-cv .kx-head{margin-bottom:22px}
+#kx .kxe-cv__l{list-style:none;margin:0;padding:0 0 0 22px;border-left:2px solid var(--line);display:grid;gap:18px}
+#kx .kxe-cv__i{position:relative;display:grid;gap:6px}
+#kx .kxe-cv__i::before{content:"";position:absolute;left:-30px;top:4px;width:14px;height:14px;border-radius:50%;background:#fff;border:3px solid var(--aqua)}
+#kx .kxe-cv__y{font:800 12.5px/1 Poppins,sans-serif;letter-spacing:.08em;color:var(--ocean)}
+#kx .kxe-cv__i b{display:block;font:700 18px/1.3 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-cv__i span{color:var(--mut);font-size:16px}
+#kx .kxe-cv__i p{margin:8px 0 0;color:var(--mut);font-size:15.5px;line-height:1.55}
+#kx .kxe-xcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+#kx .kxe-xcard{padding:26px;border-radius:24px;background:var(--mist);border:1px solid var(--line)}
+#kx .kxe-xcard ul{margin:12px 0 0;padding-left:18px;display:grid;gap:10px;color:var(--mut);font-size:16px;line-height:1.5}
+#kx .kxe-practice{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:22px}
+#kx .kxe-practice img{width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:20px}
+#kx .kxe-inst{background:var(--navy);padding:26px 0}
+#kx .kxe-inst .kx-tag{color:var(--mint)}
+#kx .kxe-inst div div{display:flex;flex-wrap:wrap;gap:10px 22px}
+#kx .kxe-inst span{color:rgba(255,255,255,.75);font:600 15px/1.3 Poppins,sans-serif}
+@media (max-width:1000px){#kx .kxe-flips{grid-template-columns:1fr 1fr}#kx .kxe-flip--lead{grid-row:auto;min-height:440px}#kx .kxe-doc__in,#kx .kxe-docbio,#kx .kxe-cv{grid-template-columns:1fr}#kx .kxe-doc__pic{max-width:440px}}
+@media (max-width:620px){#kx .kxe-flips{grid-template-columns:1fr}#kx .kxe-flip--lead{grid-column:auto}#kx .kxe-flip{min-height:380px}}
+@media (hover:none){#kx .kxe-flip:hover .kxe-flip__in{transform:none}}
+/* doctor: su color de la CV (variables inline) */
+#kx.kxe-theme-doc .kx-btn--main,#kx.kxe-theme-doc .kx-sticky__wa{background:linear-gradient(135deg,var(--aqua),var(--ocean));color:#fff;box-shadow:0 14px 34px -10px rgba(0,0,0,.35)}
+#kx.kxe-theme-doc .kx-grad{background-image:linear-gradient(90deg,var(--mint),#fff 10%,var(--mint) 40%,var(--aqua))}
+#kx.kxe-theme-doc .kx-gtxt{background-image:linear-gradient(90deg,var(--ocean),var(--aqua))}
+#kx.kxe-theme-doc .kx-orb--a{background:var(--ocean)}#kx.kxe-theme-doc .kx-orb--b{background:var(--aqua)}
+#kx.kxe-theme-doc .kx-eyebrow{color:var(--mint)}#kx.kxe-theme-doc .kx-eyebrow--dark{color:var(--ocean)}
+#kx.kxe-theme-doc .kxe-doc__role{color:var(--mint)}
+#kx .kxe-flip--cta{perspective:none;grid-column:span 2;min-height:0}
+#kx .kxe-flip--cta a{display:flex;flex-direction:column;justify-content:flex-end;height:100%;min-height:190px;padding:26px;border-radius:24px;background:linear-gradient(135deg,#0a2a52,#11407a);color:#fff;text-decoration:none}
+#kx .kxe-flip--cta b{font:800 clamp(22px,2vw,28px)/1.1 Poppins,sans-serif}
+#kx .kxe-flip--cta span{margin-top:8px;color:rgba(255,255,255,.75);font-size:15.5px}
+#kx .kxe-flip--cta i{margin-top:16px;font-style:normal;font:700 14px/1 Poppins,sans-serif;color:var(--mint)}
+@media (max-width:620px){#kx .kxe-flip--cta{grid-column:auto}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -1588,7 +1668,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Your one day</p><h2 class="kx-h2">One day in Medell&iacute;n. <span class="kx-gtxt">Then you fly home.</span></h2><p class="kx-sub">No surgery, no shaving, no hospital stay. Your hotel and the treatment center share the same building, so the day is short and calm.</p></div>
 <ol class="kx-days kx-r">
 <li class="kx-day"><div class="kx-day__k"><span class="kx-day__n">First</span><span class="kx-day__t">Arrival &amp; welcome</span></div><div class="kx-day__b"><h3 class="kx-h3">Your coordinator meets you</h3><p class="kx-p">Airport pickup, check-in at the hotel, and a bilingual patient care coordinator who knows your case and stays with you all day.</p></div></li>
-<li class="kx-day"><div class="kx-day__k"><span class="kx-day__n">Then</span><span class="kx-day__t">Preparation</span></div><div class="kx-day__b"><h3 class="kx-h3">Comfortable from the start</h3><p class="kx-p">A mega-dose vitamin C IV prepares your scalp. Then local anesthesia numbs the area before the small injections, so everything is comfortable.</p></div></li>
+<li class="kx-day"><div class="kx-day__k"><span class="kx-day__n">Then</span><span class="kx-day__t">Preparation</span></div><div class="kx-day__b"><h3 class="kx-h3">Comfortable from the start</h3><p class="kx-p">Local anesthesia numbs the area before the small injections, so everything is comfortable.</p></div></li>
 <li class="kx-day"><div class="kx-day__k"><span class="kx-day__n">Your cells</span><span class="kx-day__t">The application</span></div><div class="kx-day__b"><h3 class="kx-h3">Cells and PRP into the scalp</h3><p class="kx-p">Your aesthetic doctor applies stem cells and your own PRP by mesotherapy: many small injections, like the ones used for botox, with local anesthesia. Your dose is designed for you.</p></div></li>
 <li class="kx-day"><div class="kx-day__k"><span class="kx-day__n">After</span><span class="kx-day__t">Rest &amp; take-home</span></div><div class="kx-day__b"><h3 class="kx-h3">Rest, and your spray</h3><p class="kx-p">You rest at the hotel, in the same building as the treatment center. Your medicated spray goes home with you for the next six months.</p></div></li>
 </ol>
@@ -1622,7 +1702,6 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <div class="kx-plan__price">Starting from $2,500</div>
 <p class="kx-plan__sub">USD &middot; one day &middot; cells + PRP</p>
 <ul class="kx-plan__list">
-<li>Mega-dose vitamin C IV</li>
 <li>Stem cells and your own PRP, applied by mesotherapy</li>
 <li>Local anesthesia for a comfortable application</li>
 <li>Two online consultations with your aesthetic doctor</li>
@@ -1679,7 +1758,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <div class="kx-sticky" data-kx-sticky><a href="https://wa.me/573108819333?text=Hi!%20I%27d%20like%20a%20free%20review%20of%20my%20hair%20case." target="_blank" rel="noopener" class="kx-sticky__wa">Free case review</a><a href="#kx-price" class="kx-sticky__q">Price</a></div>
 </div>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"MedicalWebPage","name":"Hair Restoration with Stem Cells in Medellín — Wharton's Jelly Cells and PRP","about":{"@type":"MedicalCondition","name":"Hair thinning"},"specialty":"https://schema.org/Dermatology"},{"@type":"TherapeuticProcedure","name":"Wharton's jelly mesenchymal stem cells and PRP for hair restoration","bodyLocation":"Scalp","procedureType":"https://schema.org/NoninvasiveProcedure","howPerformed":"Mesenchymal stem cells from Wharton's jelly with the patient's own platelet-rich plasma, applied into the scalp by mesotherapy with local anesthesia by an aesthetic doctor, in a single day."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will stem cells grow new hair where I have none?","acceptedAnswer":{"@type":"Answer","text":"The cells work with follicles that are still alive and are designed to help existing hair grow faster or thicker. They cannot create a follicle that is gone. A doctor reviews each case first and says honestly whether the treatment fits."}},{"@type":"Question","name":"How many days does hair restoration with stem cells take in Medellín?","acceptedAnswer":{"@type":"Answer","text":"One day, with one night at a 4-star hotel in the same building as the treatment center."}},{"@type":"Question","name":"How much does hair restoration with stem cells cost in Medellín?","acceptedAnswer":{"@type":"Answer","text":"Starting from $2,500 USD, all-inclusive: a mega-dose vitamin C IV, the cells and PRP, two online consultations, a medicated spray for six months, hotel, transfers and a bilingual coordinator. Face and hair together with fractional CO2 laser start from $4,500. Prices are starting prices, never fixed."}},{"@type":"Question","name":"When are results expected?","acceptedAnswer":{"@type":"Answer","text":"Between three and six months, since hair grows slowly. No result is guaranteed. A medicated spray for six months is included."}},{"@type":"Question","name":"Who cannot have hair restoration with stem cells?","acceptedAnswer":{"@type":"Answer","text":"Anyone with active cancer. The doctor reviews each patient's health in the online consultation before travel."}},{"@type":"Question","name":"What is included in the price?","acceptedAnswer":{"@type":"Answer","text":"A mega-dose vitamin C IV, the cells and PRP, two online consultations with an aesthetic doctor, a medicated spray for six months, one night at a 4-star hotel, airport pickup and transfers, and a bilingual patient care coordinator. Flights and meals are not included."}}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"MedicalWebPage","name":"Hair Restoration with Stem Cells in Medellín — Wharton's Jelly Cells and PRP","about":{"@type":"MedicalCondition","name":"Hair thinning"},"specialty":"https://schema.org/Dermatology"},{"@type":"TherapeuticProcedure","name":"Wharton's jelly mesenchymal stem cells and PRP for hair restoration","bodyLocation":"Scalp","procedureType":"https://schema.org/NoninvasiveProcedure","howPerformed":"Mesenchymal stem cells from Wharton's jelly with the patient's own platelet-rich plasma, applied into the scalp by mesotherapy with local anesthesia by an aesthetic doctor, in a single day."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will stem cells grow new hair where I have none?","acceptedAnswer":{"@type":"Answer","text":"The cells work with follicles that are still alive and are designed to help existing hair grow faster or thicker. They cannot create a follicle that is gone. A doctor reviews each case first and says honestly whether the treatment fits."}},{"@type":"Question","name":"How many days does hair restoration with stem cells take in Medellín?","acceptedAnswer":{"@type":"Answer","text":"One day, with one night at a 4-star hotel in the same building as the treatment center."}},{"@type":"Question","name":"How much does hair restoration with stem cells cost in Medellín?","acceptedAnswer":{"@type":"Answer","text":"Starting from $2,500 USD, all-inclusive: the cells and PRP, two online consultations, a medicated spray for six months, hotel, transfers and a bilingual coordinator. Face and hair together with fractional CO2 laser start from $4,500. Prices are starting prices, never fixed."}},{"@type":"Question","name":"When are results expected?","acceptedAnswer":{"@type":"Answer","text":"Between three and six months, since hair grows slowly. No result is guaranteed. A medicated spray for six months is included."}},{"@type":"Question","name":"Who cannot have hair restoration with stem cells?","acceptedAnswer":{"@type":"Answer","text":"Anyone with active cancer. The doctor reviews each patient's health in the online consultation before travel."}},{"@type":"Question","name":"What is included in the price?","acceptedAnswer":{"@type":"Answer","text":"The cells and PRP, two online consultations with an aesthetic doctor, a medicated spray for six months, one night at a 4-star hotel, airport pickup and transfers, and a bilingual patient care coordinator. Flights and meals are not included."}}]}]}</script>
 </main>
 <footer class="sccp-f"><div class="sccp-f__in"><div class="sccp-f__brand"><img src="https://stemcellscolombia.com/wp-content/uploads/2026/07/scc-logo-stemcells.png" alt="Stem Cells Colombia" width="150" height="40"><p>Regenerative medicine, practiced by specialists. Medellín, Colombia.</p><p class="sccp-f__stars"><span>★★★★★</span> Excellent on Google · <b>8,000</b> procedures · <b>7</b> specialists</p></div><div class="sccp-f__c"><b>Treatments</b><a href="/nimbus-compass-9lv9h1/knee-stem-cell-therapy/">Knee</a><a href="/nimbus-compass-9lv9h1/hip-stem-cell-therapy/">Hip</a><a href="/nimbus-compass-9lv9h1/shoulder-stem-cell-therapy/">Shoulder</a><a href="/nimbus-compass-9lv9h1/back-neck-pain-stem-cell-therapy/">Spine, neck & back</a><a href="/nimbus-compass-9lv9h1/autoimmune-stem-cell-therapy/">Autoimmune</a><a href="/nimbus-compass-9lv9h1/nervous-system-stem-cell-therapy/">Neurological</a><a href="/nimbus-compass-9lv9h1/diabetes-stem-cell-therapy/">Diabetes</a><a href="/nimbus-compass-9lv9h1/anti-aging-stem-cell-therapy/">Anti-aging</a><a href="/nimbus-compass-9lv9h1/treatments/">All treatments →</a></div><div class="sccp-f__c"><b>Company</b><a href="/nimbus-compass-9lv9h1/about/">About us</a><a href="/nimbus-compass-9lv9h1/team/">The team</a><a href="/nimbus-compass-9lv9h1/facilities/">Facilities</a><a href="/nimbus-compass-9lv9h1/our-stem-cells/">Our stem cells</a><a href="/nimbus-compass-9lv9h1/your-journey/">Your journey</a><a href="/nimbus-compass-9lv9h1/medellin/">Medellín</a><a href="/nimbus-compass-9lv9h1/testimonials/">Patient stories</a><a href="/nimbus-compass-9lv9h1/faq/">FAQ</a><a href="/nimbus-compass-9lv9h1/blog/">Blog</a><a href="/nimbus-compass-9lv9h1/book/">Book</a></div><div class="sccp-f__c"><b>Contact</b><a href="https://wa.me/573108819333?text=Hi%21%20I%E2%80%99d%20like%20a%20free%20case%20review." target="_blank" rel="noopener">WhatsApp +57 310 881 9333</a><span>US +1 213 396 6942</span><a href="mailto:info@stemcellscolombia.com">info@stemcellscolombia.com</a><span>Carrera 25 #9A Sur-162, Consultorio #3, El Poblado, Medellín</span><span>Mon–Fri 10am–6pm · Sat 10am–2pm (GMT-5)</span></div></div><div class="sccp-f__legal"><p>Stem cell therapy is not approved by the FDA, but in Colombia it is legal. Results vary from person to person, and no treatment is guaranteed.</p><p><a href="/nimbus-compass-9lv9h1/privacy-policy/">Privacy policy</a> · <a href="/nimbus-compass-9lv9h1/terms-and-conditions/">Terms and conditions</a> · <a href="/nimbus-compass-9lv9h1/sms-policy/">SMS policy</a> · © 2026 Stem Cells Colombia</p></div></footer>
 <script>
@@ -1739,6 +1818,8 @@ all('[data-kxe-filters]').forEach(function(f){var grid=root.querySelector(f.getA
     all('[data-tags]',grid).forEach(function(c){c.style.display=(k==='all'||(' '+c.getAttribute('data-tags')+' ').indexOf(' '+k+' ')>-1)?'':'none'})})})});
 /* 6. carrusel horizontal: flechas */
 all('[data-kxe-strip]').forEach(function(s){var t=s.querySelector('[data-kxe-track]');all('[data-kxe-dir]',s).forEach(function(b){b.addEventListener('click',function(){t.scrollBy({left:(+b.getAttribute('data-kxe-dir'))*Math.min(t.clientWidth*.8,520),behavior:'smooth'})})})});
+/* 8. tarjetas que se voltean al tocar (moviles) */
+all('.kxe-flip').forEach(function(c){c.addEventListener('click',function(e){if(e.target.closest('a'))return;c.classList.toggle('is-flipped')})});
 /* 7. lectura: barra de progreso del post */
 var bar=root.querySelector('[data-kxe-progress]');if(bar){var art=root.querySelector('[data-kxe-article]')||root;window.addEventListener('scroll',function(){var r=art.getBoundingClientRect(),h=r.height-window.innerHeight;bar.style.transform='scaleX('+Math.max(0,Math.min(1,-r.top/(h>0?h:1)))+')'},{passive:true})}
 })();
