@@ -2175,6 +2175,18 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-expband{background:radial-gradient(900px 500px at 50% 0%,rgba(55,198,208,.2),transparent 65%),linear-gradient(180deg,#061a30,#0b2a4d)}
 @media (max-width:980px){#kx .kxe-specs,#kx .kxe-whywrap,#kx .kxe-lead{grid-template-columns:1fr}#kx .kxe-alsos{grid-template-columns:1fr}#kx .kxe-proto{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){#kx .kxe-proto{grid-template-columns:1fr}}
+/* home: reseñas destacadas (resultados reales) */
+#kx .kxe-hrevs{display:grid;grid-template-columns:1.3fr 1fr;grid-template-rows:auto auto;gap:18px}
+#kx .kxe-hrev{margin:0;padding:26px 28px;border-radius:24px;background:#fff;border:1px solid var(--line);box-shadow:0 30px 60px -46px rgba(10,42,82,.5);display:flex;flex-direction:column;gap:14px}
+#kx .kxe-hrev--big{grid-row:span 2;background:linear-gradient(160deg,#0a2240,#11406f);border:0;color:#fff}
+#kx .kxe-hrev blockquote{margin:0;font-size:17px;line-height:1.6;color:#1d2f44}
+#kx .kxe-hrev--big blockquote{font-size:clamp(19px,1.7vw,23px);line-height:1.55;color:#fff}
+#kx .kxe-hrev figcaption{display:flex;flex-direction:column;gap:2px;margin-top:auto}
+#kx .kxe-hrev figcaption b{font:700 17px/1.2 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-hrev--big figcaption b{color:#fff;font-size:19px}
+#kx .kxe-hrev figcaption span{font-size:14.5px;color:var(--mut)}
+#kx .kxe-hrev--big figcaption span{color:var(--mint)}
+@media (max-width:860px){#kx .kxe-hrevs{grid-template-columns:1fr}#kx .kxe-hrev--big{grid-row:auto}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -2323,7 +2335,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-stats">
 <div class="kx-wrap kx-stats__grid kx-r">
-<div class="kx-stat"><span class="kx-stat__n" data-kx-count="8000" data-kx-suffix="">8,000</span><span class="kx-stat__l">procedures performed by our lead doctor</span></div>
+<div class="kx-stat"><span class="kx-stat__n" data-kx-count="8000" data-kx-suffix="">8,000</span><span class="kx-stat__l">procedures performed by the lead doctor</span></div>
 <div class="kx-stat"><span class="kx-stat__n">2 routes</span><span class="kx-stat__l">intravenous or into the spinal fluid</span></div>
 <div class="kx-stat"><span class="kx-stat__n">4 days</span><span class="kx-stat__l">for the intravenous protocol in Medellín</span></div>
 <div class="kx-stat"><span class="kx-stat__n">1</span><span class="kx-stat__l">neurologist leading your case</span></div>
@@ -2331,7 +2343,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-mist">
 <div class="kx-wrap">
-<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Who we help</p><h2 class="kx-h2">If one of these is you, keep reading.</h2></div>
+<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Who this is for</p><h2 class="kx-h2">If one of these is you, keep reading.</h2></div>
 <div class="kx-personas kx-r">
 <article class="kx-persona"><p class="kx-persona__q">"Manage it, that's all"</p><h3 class="kx-h3">Parkinson's disease</h3><p class="kx-p">The neurons that make dopamine are being lost gradually, with inflammation as part of the process. Your medication treats the symptom; you want something aimed at what drives it.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"Another relapse"</p><h3 class="kx-h3">Multiple sclerosis</h3><p class="kx-p">Your immune system is attacking the myelin around your nerves. Mesenchymal cells may help calm the immune system — the aim is to help rebalance that response.</p></article>
@@ -2340,7 +2352,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <article class="kx-persona"><p class="kx-persona__q">"They told us there's nothing"</p><h3 class="kx-h3">ALS / motor neuron disease</h3><p class="kx-p">Motor neurons lose the natural support signals they depend on to keep firing. Restoring that support is exactly what this protocol aims at, with a plan your neurologist designs around your case.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"He forgets names now"</p><h3 class="kx-h3">Alzheimer's &amp; cognitive decline</h3><p class="kx-p">Neuro-inflammation accelerates the loss of neurons. The earlier the diagnosis, the more there is to protect — so reaching out early matters.</p></article>
 </div>
-<p class="kx-personas__more kx-r">Don't see your condition here? We evaluate other neurological conditions case by case too, and our neurologist is open to reviewing any case &mdash; send us yours on WhatsApp.</p>
+<p class="kx-personas__more kx-r">Don't see your condition here? The doctors also evaluate other neurological conditions case by case, and the neurologist is open to reviewing any case &mdash; send yours on WhatsApp.</p>
 </div>
 </section>
 <section class="kx-sec kx-light kx-routesec" id="kx-route">
@@ -2360,11 +2372,11 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </article>
 <article class="kx-route__c kx-route__c--main">
 <span class="kx-route__badge">&#9733; Closer to the target</span>
-<figure class="kx-route__pic"><img src="/nimbus-compass-9lv9h1/img/wp/2026-09-scc-intratecal-or.jpg" alt="Intrathecal stem cell application in the operating room in Medellín: the spinal needle placed in a sterile field" loading="lazy"><figcaption>An intrathecal application in our operating room</figcaption></figure>
+<figure class="kx-route__pic"><img src="/nimbus-compass-9lv9h1/img/scc-intrathecal-4.jpg" alt="Intrathecal stem cell application in the operating room in Medellín: the spinal needle placed in a sterile field" loading="lazy"><figcaption>An intrathecal application in the operating room</figcaption></figure>
 <span class="kx-route__k">Route 2</span>
 <h3 class="kx-h3">Intrathecal</h3>
 <p class="kx-route__do">Into the cerebrospinal fluid itself</p>
-<p class="kx-p">The cells are placed directly into the fluid that bathes your brain and spinal cord — far closer to where they need to work than an intravenous infusion can reach. It is performed in our operating room, and it is the reason many patients travel here specifically.</p>
+<p class="kx-p">The cells are placed directly into the fluid that bathes your brain and spinal cord — far closer to where they need to work than an intravenous infusion can reach. It is performed in the operating room, and it is the reason many patients travel here specifically.</p>
 <ul class="kx-route__ul">
 <li>Screening and pre-operative labs first</li>
 <li>Applied in a fully-equipped operating room</li>
@@ -2373,12 +2385,12 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <p class="kx-route__catch"><b>Designed for you:</b> your neurologist reviews your case first, and every protocol starts with cancer markers, for your safety.</p>
 </article>
 </div>
-<p class="kx-route__foot kx-r">Both routes work <b>alongside the neurologist treating you at home</b>. We coordinate with them, so your care stays connected.</p>
+<p class="kx-route__foot kx-r">Both routes work <b>alongside the neurologist treating you at home</b>. The medical team coordinates with them, so your care stays connected.</p>
 </div>
 </section>
 <section class="kx-sec kx-dark">
 <div class="kx-wrap">
-<div class="kx-head kx-r"><p class="kx-eyebrow"><span class="kx-dot"></span>Real patients</p><h2 class="kx-h2 kx-h2--light">Treated like a person, not a case number.</h2><p class="kx-sub kx-sub--light">Patients travel to us from all over the world. This is what they say about how it felt.</p></div>
+<div class="kx-head kx-r"><p class="kx-eyebrow"><span class="kx-dot"></span>Real patients</p><h2 class="kx-h2 kx-h2--light">Treated like a person, not a case number.</h2><p class="kx-sub kx-sub--light">Patients travel to Stem Cells Colombia from all over the world. This is what they say about how it felt.</p></div>
 <div class="kx-proofgrid kx-r">
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"The Doctors really appeared to care for the patients. It truly helped that they spoke english fluently ... The liaison was the most helpful and a delight to be with for my short stay."</blockquote><figcaption><b>James M.</b> · Google review</figcaption></figure>
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"Amazing customer service leading up to the procedure as well as after."</blockquote><figcaption><b>Tyson G.</b> · Google review</figcaption></figure>
@@ -2395,22 +2407,22 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <span class="kx-protect__n">01</span>
 <h3 class="kx-h3">The damaged core</h3>
 <p class="kx-p">This is the starting point. The protocol focuses its effort right next to it, on living tissue, where support can matter most.</p>
-<p class="kx-protect__tag">Our starting point</p>
+<p class="kx-protect__tag">The starting point</p>
 </article>
 <article class="kx-protect__c kx-protect__c--main">
 <span class="kx-protect__n">02</span>
 <h3 class="kx-h3">What is struggling</h3>
 <p class="kx-p">Around the damage there is tissue that is inflamed, starved and under-functioning but still alive. This is the area the whole treatment is aimed at: cells and exosomes are studied to help calm the brain's immune cells that drive that inflammation, and to release natural factors that may help the neurons still there survive.</p>
-<p class="kx-protect__tag">This is where we work</p>
+<p class="kx-protect__tag">This is where the treatment works</p>
 </article>
 <article class="kx-protect__c">
 <span class="kx-protect__n">03</span>
 <h3 class="kx-h3">What is still healthy</h3>
 <p class="kx-p">The function you still have is worth defending. Lowering the inflammation that drives the process is how you protect it.</p>
-<p class="kx-protect__tag">This is what we protect</p>
+<p class="kx-protect__tag">This is what the treatment protects</p>
 </article>
 </div>
-<p class="kx-protect__foot kx-r">Every case is evaluated one by one by our medical team. <b>Your plan is designed for you before you book a flight.</b></p>
+<p class="kx-protect__foot kx-r">Every case is evaluated one by one by the medical team. <b>Your plan is designed for you before you book a flight.</b></p>
 </div>
 </section>
 <section class="kx-sec kx-mist" id="kx-price">
@@ -2421,7 +2433,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <li><span class="kx-steps__n">01</span><div><h3 class="kx-h3">Free case review</h3><p class="kx-p">Send your diagnosis, your imaging and your recent labs on WhatsApp. You get a clear, free answer before you spend anything.</p></div></li>
 <li><span class="kx-steps__n">02</span><div><h3 class="kx-h3">Neurologist consultation</h3><p class="kx-p">A neurologist reviews your case with you by video, decides the route — intravenous or intrathecal — and designs your plan.</p></div></li>
 <li><span class="kx-steps__n">03</span><div><h3 class="kx-h3">Your days in Medellín</h3><p class="kx-p">Airport pickup, a 4-star hotel with the treatment center in the same building. The intravenous protocol runs across four days: screening, preparation, your cells, then your exosomes; the intrathecal protocol runs across five days.</p></div></li>
-<li><span class="kx-steps__n">04</span><div><h3 class="kx-h3">Follow-up from home</h3><p class="kx-p">Online check-ins with your doctor, and coordination with the neurologist who treats you at home. For systemic conditions we recommend two visits, the second 6&ndash;8 weeks after the first &mdash; and we value your return with a returning-patient discount.</p></div></li>
+<li><span class="kx-steps__n">04</span><div><h3 class="kx-h3">Follow-up from home</h3><p class="kx-p">Online check-ins with your doctor, and coordination with the neurologist who treats you at home. For systemic conditions the doctors recommend two visits, the second 6&ndash;8 weeks after the first &mdash; and returning patients receive a returning-patient discount on the second visit.</p></div></li>
 </ol>
 <div class="kx-plan__card kx-r">
 <p class="kx-eyebrow"><span class="kx-dot"></span>Neurological protocol · all-inclusive</p>
@@ -2444,11 +2456,11 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-light">
 <div class="kx-wrap kx-team">
-<div class="kx-team__photo kx-r"><img src="/nimbus-compass-9lv9h1/img/scc-intrathecal-3.jpg" alt="An application in the operating room" style="object-position:50% 40%" loading="lazy"><span class="kx-team__badge">Dr. Diana Reyes</span></div>
+<div class="kx-team__photo kx-r"><img src="/nimbus-compass-9lv9h1/img/scc-or-3.jpg" alt="Fluoroscopy-guided application in the operating room" style="object-position:50% 40%" loading="lazy"><span class="kx-team__badge">Dr. Diana Reyes</span></div>
 <div class="kx-r">
 <p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Your medical team</p>
 <h2 class="kx-h2">A neurologist decides. Not a price list.</h2>
-<p class="kx-p">Neurological cases are reviewed and led by a neurologist, who designs your plan and chooses the route. Dr. Diana Reyes, anesthesiologist and pain specialist, performs the application in our operating room — the precision an intrathecal procedure demands.</p>
+<p class="kx-p">Neurological cases are reviewed and led by a neurologist, who designs your plan and chooses the route. Dr. Diana Reyes, anesthesiologist and pain specialist, performs the application in the operating room — the precision an intrathecal procedure demands.</p>
 <div class="kx-creds">
 <div class="kx-cred"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3l7 3v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 11l2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Neurologist-led case review</div>
 <div class="kx-cred"><svg viewBox="0 0 24 24" fill="none"><path d="M3 12h3l2-6 4 13 2-8 2 4h5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>Screened before every protocol</div>
@@ -2464,16 +2476,16 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Neurological FAQ</p><h2 class="kx-h2">Your questions, answered.</h2></div>
 <div class="kx-faq kx-r">
 <details><summary>What can this do for my condition?</summary><p>Research suggests that mesenchymal cells may help calm the brain's immune cells that drive inflammation and support the survival of the neurons you still have — protecting the function that remains, which is the real aim of this protocol. The earlier the diagnosis, the more there is to protect.</p></details>
-<details><summary>What is intrathecal delivery, and why does it matter?</summary><p>The cells are placed directly into the cerebrospinal fluid that bathes your brain and spinal cord, in our operating room — far closer to where they need to work than an intravenous infusion can reach. Your neurologist reviews your case first, so your plan is designed for you.</p></details>
+<details><summary>What is intrathecal delivery, and why does it matter?</summary><p>The cells are placed directly into the cerebrospinal fluid that bathes your brain and spinal cord, in the operating room — far closer to where they need to work than an intravenous infusion can reach. Your neurologist reviews your case first, so your plan is designed for you.</p></details>
 <details><summary>Which route will I need?</summary><p>That is decided by the neurologist after reviewing your diagnosis, your imaging and your labs — never by a price list, and never before your consultation.</p></details>
 <details><summary>Do I stop my current medication?</summary><p>No. This is designed to work alongside the neurologist treating you at home, never instead. Dopaminergic medication, disease-modifying therapy and anticonvulsants are never modified or replaced by this — your own neurologist leads that.</p></details>
 <details><summary>Is it safe? What is checked before I travel?</summary><p>Every protocol starts with cancer markers, for your safety. Your diagnosis, imaging, labs and current medication are reviewed before you book anything.</p></details>
-<details><summary>How many days do I need in Medellín?</summary><p>The intravenous protocol runs across four days: screening and cancer markers, then premedication and a detox IV, then your stem cells, and finally your exosomes. The intrathecal protocol runs across five days: Day 1, cancer markers; Day 2, a detox IV and nebulized exosomes; Day 3, the intrathecal application of your cells in the operating room, with nebulized exosomes; Days 4 and 5, exosomes by IV and nebulized. Our neurologist reviews and leads your case, and the application is performed by Dr. Reyes or Dr. Toro. For systemic conditions we recommend two visits, the second 6&ndash;8 weeks after the first &mdash; and we value your return with a returning-patient discount. Hotel and treatment center are in the same building.</p></details>
+<details><summary>How many days do I need in Medellín?</summary><p>The intravenous protocol runs across four days: screening and cancer markers, then premedication and a detox IV, then your stem cells, and finally your exosomes. The intrathecal protocol runs across five days: Day 1, cancer markers; Day 2, a detox IV and nebulized exosomes; Day 3, the intrathecal application of your cells in the operating room, with nebulized exosomes; Days 4 and 5, exosomes by IV and nebulized. The neurologist reviews and leads your case, and the application is performed by Dr. Reyes or Dr. Toro. For systemic conditions the doctors recommend two visits, the second 6&ndash;8 weeks after the first &mdash; and returning patients receive a returning-patient discount on the second visit. Hotel and treatment center are in the same building.</p></details>
 <details><summary>How much does it cost?</summary><p>All-inclusive neurological protocols in Medellín start from $5,850 USD intravenously, and from $7,500 for intrathecal delivery — including the cells and exosomes, blood work and cancer markers, hotel, transfers and follow-up. Comparable treatment in the US typically runs $30,000&ndash;$40,000+.</p></details>
 <details><summary>When would we see changes?</summary><p>Improvement builds gradually, usually between 3 and 6 months — every body responds at its own pace. In stroke, brain injury and cerebral palsy, this accompanies rehabilitation, which drives your progress.</p></details>
 <details><summary>Is this approved by the FDA?</summary><p>Stem cell therapy is not approved by the FDA, but in Colombia it is legal, and that is where your treatment takes place, performed by specialist physicians.</p></details>
-<details><summary>My family member can't travel easily. Is it worth it?</summary><p>Tell us that in the first message. Airport pickup is included, and the hotel and treatment center share one building precisely so the trip is short and manageable, and we plan around mobility. Your coordinator handles every detail, so the trip feels easy.</p></details>
-<details><summary>What do you guarantee?</summary><p>Every body responds at its own pace; improvement usually builds over 3–6 months. What we guarantee is the quality of the cells, a neurologist leading your case, and that we'll be with you the whole way.</p></details>
+<details><summary>My family member can't travel easily. Is it worth it?</summary><p>Mention it in the first message. Airport pickup is included, and the hotel and treatment center share one building precisely so the trip is short and manageable, and the whole plan is built around mobility. Your coordinator handles every detail, so the trip feels easy.</p></details>
+<details><summary>What can you expect?</summary><p>Every body responds at its own pace; improvement usually builds over 3–6 months. What you can expect is the quality of the cells, a neurologist leading your case, and a medical team with you the whole way.</p></details>
 </div>
 </div>
 </section>
@@ -2482,7 +2494,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <div class="kx-wrap kx-r" style="position:relative;z-index:2">
 <p class="kx-eyebrow"><span class="kx-dot"></span>Your next step takes 2 minutes</p>
 <h2 class="kx-h2 kx-h2--light">Ask while there is still more to protect.</h2>
-<p class="kx-sub kx-sub--light" style="margin-inline:auto">Send us the diagnosis, the imaging and the recent labs. A neurologist reviews them for free and designs your plan — before you decide anything.</p>
+<p class="kx-sub kx-sub--light" style="margin-inline:auto">Send the diagnosis, the imaging and the recent labs. A neurologist reviews them for free and designs your plan — before you decide anything.</p>
 <div class="kx-ctas kx-ctas--center"><a class="kx-btn kx-btn--main" href="https://wa.me/573108819333?text=Hi!%20I%27d%20like%20a%20free%20review%20of%20my%20neurological%20case." target="_blank" rel="noopener">Get my free case review</a><a class="kx-btn kx-btn--glass" href="/nimbus-compass-9lv9h1/book/">Book a consultation</a></div>
 </div>
 </section>
@@ -2490,7 +2502,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </div>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"MedicalWebPage","name":"Neurological Stem Cell Therapy in Medellín — Intravenous and Intrathecal Protocols","about":{"@type":"MedicalCondition","name":"Neurodegenerative disease"},"specialty":"https://schema.org/Neurologic"},{"@type":"TherapeuticProcedure","name":"Mesenchymal stem cell therapy for neurological conditions","bodyLocation":"Central nervous system","procedureType":"https://schema.org/NoninvasiveProcedure","howPerformed":"Wharton's Jelly mesenchymal stem cells and exosomes delivered intravenously over a four-day protocol, or intrathecally into the cerebrospinal fluid in an operating room, after neurologist review and mandatory cancer-marker screening."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What can stem cell therapy do for a neurodegenerative condition?","acceptedAnswer":{"@type":"Answer","text":"Research suggests mesenchymal cells may help calm the brain's immune cells that drive inflammation and support the survival of neurons that are still there, protecting the function that remains."}},{"@type":"Question","name":"What is intrathecal stem cell delivery?","acceptedAnswer":{"@type":"Answer","text":"The cells are placed directly into the cerebrospinal fluid that bathes the brain and spinal cord, in an operating room, far closer to where they need to work than an intravenous infusion can reach. A neurologist reviews each case first, so the plan is designed for the patient."}},{"@type":"Question","name":"How many days does a neurological protocol take in Medellín?","acceptedAnswer":{"@type":"Answer","text":"The intravenous protocol runs across four days: screening and cancer markers, premedication and a detox IV, the stem cells, and finally the exosomes. The intrathecal protocol runs across five days: cancer markers; a detox IV and nebulized exosomes; the intrathecal application in the operating room with nebulized exosomes; then two days of IV and nebulized exosomes. For systemic conditions two visits are recommended, the second 6–8 weeks after the first."}},{"@type":"Question","name":"How much does neurological stem cell therapy cost?","acceptedAnswer":{"@type":"Answer","text":"All-inclusive neurological protocols in Medellín start from $5,850 USD intravenously and from $7,500 for intrathecal delivery, including cells and exosomes, blood work and cancer markers, hotel, transfers and follow-up."}},{"@type":"Question","name":"Do I stop my current neurological medication?","acceptedAnswer":{"@type":"Answer","text":"No. It is designed to work alongside the neurologist treating you at home. Dopaminergic medication, disease-modifying therapy and anticonvulsants are never modified or replaced by this."}},{"@type":"Question","name":"When would changes be seen?","acceptedAnswer":{"@type":"Answer","text":"Improvement builds gradually, usually between 3 and 6 months; every body responds at its own pace. In stroke, brain injury and cerebral palsy it accompanies rehabilitation."}}]}]}</script>
 </main>
-<footer class="sccp-f"><div class="sccp-f__in"><div class="sccp-f__brand"><img src="/nimbus-compass-9lv9h1/img/scc-logo-h.png" alt="Stem Cells Colombia" width="206" height="33"><p>Regenerative medicine, practiced by specialists. Medellín, Colombia. Free case review, and your all-inclusive price in writing before you travel.</p><p class="sccp-f__stars"><span>★★★★★</span> Excellent on Google · <b>8,000</b> procedures · <b>7</b> specialists</p></div><div class="sccp-f__c"><b>Treatments</b><a href="/nimbus-compass-9lv9h1/knee-stem-cell-therapy/">Knee</a><a href="/nimbus-compass-9lv9h1/hip-stem-cell-therapy/">Hip</a><a href="/nimbus-compass-9lv9h1/shoulder-stem-cell-therapy/">Shoulder</a><a href="/nimbus-compass-9lv9h1/back-neck-pain-stem-cell-therapy/">Spine, neck & back</a><a href="/nimbus-compass-9lv9h1/autoimmune-stem-cell-therapy/">Autoimmune</a><a href="/nimbus-compass-9lv9h1/nervous-system-stem-cell-therapy/">Neurological</a><a href="/nimbus-compass-9lv9h1/diabetes-stem-cell-therapy/">Diabetes</a><a href="/nimbus-compass-9lv9h1/anti-aging-stem-cell-therapy/">Anti-aging</a><a href="/nimbus-compass-9lv9h1/treatments/">All treatments →</a></div><div class="sccp-f__c"><b>Company</b><a href="/nimbus-compass-9lv9h1/about/">About us</a><a href="/nimbus-compass-9lv9h1/team/">The team</a><a href="/nimbus-compass-9lv9h1/facilities/">Facilities</a><a href="/nimbus-compass-9lv9h1/our-stem-cells/">Our stem cells</a><a href="/nimbus-compass-9lv9h1/your-journey/">Your journey</a><a href="/nimbus-compass-9lv9h1/medellin/">Medellín</a><a href="/nimbus-compass-9lv9h1/testimonials/">Patient stories</a><a href="/nimbus-compass-9lv9h1/faq/">FAQ</a><a href="/nimbus-compass-9lv9h1/blog/">Blog</a><a href="/nimbus-compass-9lv9h1/book/">Book</a></div><div class="sccp-f__c"><b>Contact</b><a href="https://wa.me/573108819333?text=Hi%21%20I%E2%80%99d%20like%20a%20free%20case%20review." target="_blank" rel="noopener">WhatsApp +57 310 881 9333</a><span>US +1 213 396 6942</span><a href="mailto:info@stemcellscolombia.com">info@stemcellscolombia.com</a><span>Carrera 25 #9A Sur-162, Consultorio #3, El Poblado, Medellín</span><span>Mon–Fri 10am–6pm · Sat 10am–2pm (GMT-5)</span></div></div><div class="sccp-f__legal"><p>Stem cell therapy is not approved by the FDA, but in Colombia it is legal. Results vary from person to person, and no treatment is guaranteed.</p><p><a href="/nimbus-compass-9lv9h1/privacy-policy/">Privacy policy</a> · <a href="/nimbus-compass-9lv9h1/terms-and-conditions/">Terms and conditions</a> · <a href="/nimbus-compass-9lv9h1/sms-policy/">SMS policy</a> · © 2026 Stem Cells Colombia</p></div></footer>
+<footer class="sccp-f"><div class="sccp-f__in"><div class="sccp-f__brand"><img src="/nimbus-compass-9lv9h1/img/scc-logo-h.png" alt="Stem Cells Colombia" width="206" height="33"><p>Regenerative medicine, practiced by specialists. Medellín, Colombia. Free case review, and your all-inclusive price in writing before you travel.</p><p class="sccp-f__stars"><span>★★★★★</span> Excellent on Google · <b>8,000</b> procedures · <b>7</b> specialists</p></div><div class="sccp-f__c"><b>Treatments</b><a href="/nimbus-compass-9lv9h1/knee-stem-cell-therapy/">Knee</a><a href="/nimbus-compass-9lv9h1/hip-stem-cell-therapy/">Hip</a><a href="/nimbus-compass-9lv9h1/shoulder-stem-cell-therapy/">Shoulder</a><a href="/nimbus-compass-9lv9h1/back-neck-pain-stem-cell-therapy/">Spine, neck & back</a><a href="/nimbus-compass-9lv9h1/autoimmune-stem-cell-therapy/">Autoimmune</a><a href="/nimbus-compass-9lv9h1/nervous-system-stem-cell-therapy/">Neurological</a><a href="/nimbus-compass-9lv9h1/diabetes-stem-cell-therapy/">Diabetes</a><a href="/nimbus-compass-9lv9h1/anti-aging-stem-cell-therapy/">Anti-aging</a><a href="/nimbus-compass-9lv9h1/treatments/">All treatments →</a></div><div class="sccp-f__c"><b>Company</b><a href="/nimbus-compass-9lv9h1/about/">About</a><a href="/nimbus-compass-9lv9h1/team/">The team</a><a href="/nimbus-compass-9lv9h1/facilities/">Facilities</a><a href="/nimbus-compass-9lv9h1/our-stem-cells/">The stem cells</a><a href="/nimbus-compass-9lv9h1/your-journey/">Your journey</a><a href="/nimbus-compass-9lv9h1/medellin/">Medellín</a><a href="/nimbus-compass-9lv9h1/testimonials/">Patient stories</a><a href="/nimbus-compass-9lv9h1/faq/">FAQ</a><a href="/nimbus-compass-9lv9h1/blog/">Blog</a><a href="/nimbus-compass-9lv9h1/book/">Book</a></div><div class="sccp-f__c"><b>Contact</b><a href="https://wa.me/573108819333?text=Hi%21%20I%E2%80%99d%20like%20a%20free%20case%20review." target="_blank" rel="noopener">WhatsApp +57 310 881 9333</a><span>US +1 213 396 6942</span><a href="mailto:info@stemcellscolombia.com">info@stemcellscolombia.com</a><span>Carrera 25 #9A Sur-162, Consultorio #3, El Poblado, Medellín</span><span>Mon–Fri 10am–6pm · Sat 10am–2pm (GMT-5)</span></div></div><div class="sccp-f__legal"><p>Stem cell therapy is not approved by the FDA, but in Colombia it is legal. Results vary from person to person, and no treatment is guaranteed.</p><p><a href="/nimbus-compass-9lv9h1/privacy-policy/">Privacy policy</a> · <a href="/nimbus-compass-9lv9h1/terms-and-conditions/">Terms and conditions</a> · <a href="/nimbus-compass-9lv9h1/sms-policy/">SMS policy</a> · © 2026 Stem Cells Colombia</p></div></footer>
 <script>
 (function(){
 var root=document.getElementById('kx');if(!root||root.getAttribute('data-kx-init'))return;root.setAttribute('data-kx-init','1');root.classList.add('kx-js');

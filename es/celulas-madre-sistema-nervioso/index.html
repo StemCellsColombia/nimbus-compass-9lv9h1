@@ -2175,6 +2175,18 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-expband{background:radial-gradient(900px 500px at 50% 0%,rgba(55,198,208,.2),transparent 65%),linear-gradient(180deg,#061a30,#0b2a4d)}
 @media (max-width:980px){#kx .kxe-specs,#kx .kxe-whywrap,#kx .kxe-lead{grid-template-columns:1fr}#kx .kxe-alsos{grid-template-columns:1fr}#kx .kxe-proto{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){#kx .kxe-proto{grid-template-columns:1fr}}
+/* home: reseñas destacadas (resultados reales) */
+#kx .kxe-hrevs{display:grid;grid-template-columns:1.3fr 1fr;grid-template-rows:auto auto;gap:18px}
+#kx .kxe-hrev{margin:0;padding:26px 28px;border-radius:24px;background:#fff;border:1px solid var(--line);box-shadow:0 30px 60px -46px rgba(10,42,82,.5);display:flex;flex-direction:column;gap:14px}
+#kx .kxe-hrev--big{grid-row:span 2;background:linear-gradient(160deg,#0a2240,#11406f);border:0;color:#fff}
+#kx .kxe-hrev blockquote{margin:0;font-size:17px;line-height:1.6;color:#1d2f44}
+#kx .kxe-hrev--big blockquote{font-size:clamp(19px,1.7vw,23px);line-height:1.55;color:#fff}
+#kx .kxe-hrev figcaption{display:flex;flex-direction:column;gap:2px;margin-top:auto}
+#kx .kxe-hrev figcaption b{font:700 17px/1.2 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-hrev--big figcaption b{color:#fff;font-size:19px}
+#kx .kxe-hrev figcaption span{font-size:14.5px;color:var(--mut)}
+#kx .kxe-hrev--big figcaption span{color:var(--mint)}
+@media (max-width:860px){#kx .kxe-hrevs{grid-template-columns:1fr}#kx .kxe-hrev--big{grid-row:auto}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -2323,7 +2335,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-stats">
 <div class="kx-wrap kx-stats__grid kx-r">
-<div class="kx-stat"><span class="kx-stat__n">8.000</span><span class="kx-stat__l">procedimientos realizados por nuestra médica líder</span></div>
+<div class="kx-stat"><span class="kx-stat__n">8.000</span><span class="kx-stat__l">procedimientos realizados por la médica líder</span></div>
 <div class="kx-stat"><span class="kx-stat__n">2 vías</span><span class="kx-stat__l">intravenosa o en el líquido cefalorraquídeo</span></div>
 <div class="kx-stat"><span class="kx-stat__n">4 días</span><span class="kx-stat__l">para el protocolo intravenoso en Medellín</span></div>
 <div class="kx-stat"><span class="kx-stat__n">1</span><span class="kx-stat__l">neurólogo al frente de tu caso</span></div>
@@ -2331,16 +2343,16 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-mist">
 <div class="kx-wrap">
-<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>A quién ayudamos</p><h2 class="kx-h2">Si te ves en alguno de estos casos, sigue leyendo.</h2></div>
+<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Para quién es</p><h2 class="kx-h2">Si te ves en alguno de estos casos, sigue leyendo.</h2></div>
 <div class="kx-personas kx-r">
 <article class="kx-persona"><p class="kx-persona__q">"Contrólalo y ya"</p><h3 class="kx-h3">Enfermedad de Parkinson</h3><p class="kx-p">Las neuronas que producen dopamina se van perdiendo poco a poco, y la inflamación es parte del proceso. Tu medicación trata el síntoma; tú quieres algo dirigido a lo que la impulsa.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"Otra recaída"</p><h3 class="kx-h3">Esclerosis múltiple</h3><p class="kx-p">Tu sistema inmune está atacando la mielina que rodea tus nervios. Las células mesenquimales pueden ayudar a calmar el sistema inmune: el objetivo es ayudar a reequilibrar esa respuesta.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"La rehabilitación me trajo hasta aquí"</p><h3 class="kx-h3">Secuelas de ACV</h3><p class="kx-p">Alrededor del núcleo dañado, el tejido sigue inflamado y funcionando por debajo de su capacidad. En esa zona de alrededor es donde el apoyo puede importar, junto con la rehabilitación que impulsa tu progreso.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"Fue hace dos años"</p><h3 class="kx-h3">Lesión cerebral traumática</h3><p class="kx-p">Después de un golpe en la cabeza, la inflamación puede seguir extendiendo el daño durante meses. El objetivo es ayudar a modular esa respuesta y apoyar lo que todavía funciona.</p></article>
 <article class="kx-persona"><p class="kx-persona__q">"Nos dijeron que no hay nada que hacer"</p><h3 class="kx-h3">ELA / enfermedad de la neurona motora</h3><p class="kx-p">Las neuronas motoras pierden las señales naturales de soporte de las que dependen para seguir funcionando. Restaurar ese soporte es justo lo que busca este protocolo, con un plan que tu neurólogo diseña a partir de tu caso.</p></article>
-<article class="kx-persona"><p class="kx-persona__q">"Ahora se le olvidan los nombres"</p><h3 class="kx-h3">Alzhéimer y deterioro cognitivo</h3><p class="kx-p">La neuroinflamación acelera la pérdida de neuronas. Cuanto más temprano el diagnóstico, más hay por proteger: por eso vale la pena escribirnos pronto.</p></article>
+<article class="kx-persona"><p class="kx-persona__q">"Ahora se le olvidan los nombres"</p><h3 class="kx-h3">Alzhéimer y deterioro cognitivo</h3><p class="kx-p">La neuroinflamación acelera la pérdida de neuronas. Cuanto más temprano el diagnóstico, más hay por proteger: por eso vale la pena escribir pronto.</p></article>
 </div>
-<p class="kx-personas__more kx-r">¿No ves tu enfermedad aquí? También evaluamos otras enfermedades neurológicas caso por caso, y nuestro neurólogo está dispuesto a revisar cualquier caso &mdash; envíanos el tuyo por WhatsApp.</p>
+<p class="kx-personas__more kx-r">¿No ves tu enfermedad aquí? Los médicos también evalúan otras enfermedades neurológicas caso por caso, y el neurólogo está dispuesto a revisar cualquier caso &mdash; envía el tuyo por WhatsApp.</p>
 </div>
 </section>
 <section class="kx-sec kx-light kx-routesec" id="kx-route">
@@ -2360,11 +2372,11 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </article>
 <article class="kx-route__c kx-route__c--main">
 <span class="kx-route__badge">&#9733; Más cerca del objetivo</span>
-<figure class="kx-route__pic"><img src="/nimbus-compass-9lv9h1/img/wp/2026-09-scc-intratecal-or.jpg" alt="Aplicación intratecal de células madre en el quirófano en Medellín: la aguja espinal colocada en un campo estéril" loading="lazy"><figcaption>Una aplicación intratecal en nuestro quirófano</figcaption></figure>
+<figure class="kx-route__pic"><img src="/nimbus-compass-9lv9h1/img/scc-intrathecal-4.jpg" alt="Aplicación intratecal de células madre en el quirófano en Medellín: la aguja espinal colocada en un campo estéril" loading="lazy"><figcaption>Una aplicación intratecal en el quirófano</figcaption></figure>
 <span class="kx-route__k">Vía 2</span>
 <h3 class="kx-h3">Intratecal</h3>
 <p class="kx-route__do">Directamente en el líquido cefalorraquídeo</p>
-<p class="kx-p">Las células se aplican directamente en el líquido que baña tu cerebro y tu médula espinal, mucho más cerca de donde tienen que actuar de lo que puede llegar una infusión intravenosa. Se realiza en nuestro quirófano, y es la razón por la que muchos pacientes viajan específicamente hasta aquí.</p>
+<p class="kx-p">Las células se aplican directamente en el líquido que baña tu cerebro y tu médula espinal, mucho más cerca de donde tienen que actuar de lo que puede llegar una infusión intravenosa. Se realiza en el quirófano, y es la razón por la que muchos pacientes viajan específicamente hasta aquí.</p>
 <ul class="kx-route__ul">
 <li>Primero, tamizaje y exámenes prequirúrgicos</li>
 <li>Se aplica en un quirófano totalmente equipado</li>
@@ -2373,12 +2385,12 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <p class="kx-route__catch"><b>Diseñado para ti:</b> tu neurólogo revisa primero tu caso, y todo protocolo empieza con marcadores tumorales, por tu seguridad.</p>
 </article>
 </div>
-<p class="kx-route__foot kx-r">Ambas vías funcionan <b>junto con el neurólogo que te trata en casa</b>. Nos coordinamos con él, para que tu cuidado esté conectado.</p>
+<p class="kx-route__foot kx-r">Ambas vías funcionan <b>junto con el neurólogo que te trata en casa</b>. El equipo médico se coordina con él, para que tu cuidado esté conectado.</p>
 </div>
 </section>
 <section class="kx-sec kx-dark">
 <div class="kx-wrap">
-<div class="kx-head kx-r"><p class="kx-eyebrow"><span class="kx-dot"></span>Pacientes reales</p><h2 class="kx-h2 kx-h2--light">Tratados como personas, no como un número de caso.</h2><p class="kx-sub kx-sub--light">Pacientes de todo el mundo viajan hasta nosotros. Esto es lo que dicen de cómo se sintieron.</p></div>
+<div class="kx-head kx-r"><p class="kx-eyebrow"><span class="kx-dot"></span>Pacientes reales</p><h2 class="kx-h2 kx-h2--light">Tratados como personas, no como un número de caso.</h2><p class="kx-sub kx-sub--light">Pacientes de todo el mundo viajan hasta Stem Cells Colombia. Esto es lo que dicen de cómo se sintieron.</p></div>
 <div class="kx-proofgrid kx-r">
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"The Doctors really appeared to care for the patients. It truly helped that they spoke english fluently ... The liaison was the most helpful and a delight to be with for my short stay."</blockquote><figcaption><b>James M.</b> · Reseña de Google</figcaption></figure>
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"Amazing customer service leading up to the procedure as well as after."</blockquote><figcaption><b>Tyson G.</b> · Reseña de Google</figcaption></figure>
@@ -2395,22 +2407,22 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <span class="kx-protect__n">01</span>
 <h3 class="kx-h3">El centro del daño</h3>
 <p class="kx-p">Es el punto de partida. El protocolo concentra su esfuerzo justo al lado, en el tejido vivo, donde el apoyo puede importar más.</p>
-<p class="kx-protect__tag">Nuestro punto de partida</p>
+<p class="kx-protect__tag">El punto de partida</p>
 </article>
 <article class="kx-protect__c kx-protect__c--main">
 <span class="kx-protect__n">02</span>
 <h3 class="kx-h3">Lo que está en riesgo</h3>
 <p class="kx-p">Alrededor del daño hay tejido inflamado, sin suficiente sustento y funcionando por debajo de su capacidad, pero todavía vivo. Esa es la zona a la que apunta todo el tratamiento: las células y los exosomas se estudian por su capacidad de ayudar a calmar las células inmunes del cerebro que impulsan esa inflamación y de liberar factores naturales que pueden ayudar a que sobrevivan las neuronas que siguen ahí.</p>
-<p class="kx-protect__tag">Aquí es donde trabajamos</p>
+<p class="kx-protect__tag">Aquí es donde actúa el tratamiento</p>
 </article>
 <article class="kx-protect__c">
 <span class="kx-protect__n">03</span>
 <h3 class="kx-h3">Lo que sigue sano</h3>
 <p class="kx-p">La función que todavía tienes vale la pena defenderla. Bajar la inflamación que impulsa el proceso es la forma de protegerla.</p>
-<p class="kx-protect__tag">Esto es lo que protegemos</p>
+<p class="kx-protect__tag">Esto es lo que protege el tratamiento</p>
 </article>
 </div>
-<p class="kx-protect__foot kx-r">Nuestro equipo médico evalúa cada caso de forma individual. <b>Tu plan se diseña para ti antes de que compres un vuelo.</b></p>
+<p class="kx-protect__foot kx-r">El equipo médico evalúa cada caso de forma individual. <b>Tu plan se diseña para ti antes de que compres un vuelo.</b></p>
 </div>
 </section>
 <section class="kx-sec kx-mist" id="kx-price">
@@ -2421,7 +2433,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <li><span class="kx-steps__n">01</span><div><h3 class="kx-h3">Evaluación gratuita de tu caso</h3><p class="kx-p">Envía tu diagnóstico, tus imágenes y tus exámenes recientes por WhatsApp. Recibes una respuesta clara y gratuita antes de gastar un peso.</p></div></li>
 <li><span class="kx-steps__n">02</span><div><h3 class="kx-h3">Consulta con el neurólogo</h3><p class="kx-p">Un neurólogo revisa tu caso contigo por videollamada, decide la vía (intravenosa o intratecal) y diseña tu plan.</p></div></li>
 <li><span class="kx-steps__n">03</span><div><h3 class="kx-h3">Tus días en Medellín</h3><p class="kx-p">Recogida en el aeropuerto y un hotel 4 estrellas con el centro de tratamiento en el mismo edificio. El protocolo intravenoso dura cuatro días: tamizaje, preparación, tus células y luego tus exosomas; el protocolo intratecal dura cinco días.</p></div></li>
-<li><span class="kx-steps__n">04</span><div><h3 class="kx-h3">Seguimiento desde casa</h3><p class="kx-p">Controles en línea con tu médico y coordinación con el neurólogo que te trata en casa. En las enfermedades sistémicas recomendamos dos visitas, la segunda entre 6 y 8 semanas después de la primera, y valoramos tu regreso con un descuento para pacientes que vuelven.</p></div></li>
+<li><span class="kx-steps__n">04</span><div><h3 class="kx-h3">Seguimiento desde casa</h3><p class="kx-p">Controles en línea con tu médico y coordinación con el neurólogo que te trata en casa. En las enfermedades sistémicas los médicos recomiendan dos visitas, la segunda entre 6 y 8 semanas después de la primera, y los pacientes que vuelven reciben un descuento en la segunda visita.</p></div></li>
 </ol>
 <div class="kx-plan__card kx-r">
 <p class="kx-eyebrow"><span class="kx-dot"></span>Protocolo neurológico · todo incluido</p>
@@ -2444,11 +2456,11 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-light">
 <div class="kx-wrap kx-team">
-<div class="kx-team__photo kx-r"><img src="/nimbus-compass-9lv9h1/img/scc-intrathecal-3.jpg" style="object-position:50% 40%" alt="Dra. Diana Reyes, anestesióloga y especialista en dolor en Medellín" loading="lazy"><span class="kx-team__badge">Dra. Diana Reyes</span></div>
+<div class="kx-team__photo kx-r"><img src="/nimbus-compass-9lv9h1/img/scc-or-3.jpg" style="object-position:50% 40%" alt="Dra. Diana Reyes, anestesióloga y especialista en dolor en Medellín" loading="lazy"><span class="kx-team__badge">Dra. Diana Reyes</span></div>
 <div class="kx-r">
 <p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Tu equipo médico</p>
 <h2 class="kx-h2">Decide un neurólogo. No una lista de precios.</h2>
-<p class="kx-p">Los casos neurológicos los revisa y dirige un neurólogo, que diseña tu plan y elige la vía. La Dra. Diana Reyes, anestesióloga y especialista en dolor, realiza la aplicación en nuestro quirófano, con la precisión que exige un procedimiento intratecal.</p>
+<p class="kx-p">Los casos neurológicos los revisa y dirige un neurólogo, que diseña tu plan y elige la vía. La Dra. Diana Reyes, anestesióloga y especialista en dolor, realiza la aplicación en el quirófano, con la precisión que exige un procedimiento intratecal.</p>
 <div class="kx-creds">
 <div class="kx-cred"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3l7 3v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 11l2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Evaluación del caso dirigida por un neurólogo</div>
 <div class="kx-cred"><svg viewBox="0 0 24 24" fill="none"><path d="M3 12h3l2-6 4 13 2-8 2 4h5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>Tamizaje antes de cada protocolo</div>
@@ -2461,19 +2473,19 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-mist">
 <div class="kx-wrap kx-wrap--narrow">
-<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Preguntas frecuentes neurológicas</p><h2 class="kx-h2">Respondemos tus preguntas.</h2></div>
+<div class="kx-head kx-r"><p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Preguntas frecuentes neurológicas</p><h2 class="kx-h2">Tus preguntas, respondidas.</h2></div>
 <div class="kx-faq kx-r">
 <details><summary>¿Qué puede hacer esto por mi enfermedad?</summary><p>La investigación sugiere que las células mesenquimales podrían ayudar a calmar las células inmunes del cerebro que impulsan la inflamación y apoyar la supervivencia de las neuronas que todavía tienes, protegiendo la función que queda, que es el objetivo real de este protocolo. Cuanto más temprano el diagnóstico, más hay por proteger.</p></details>
-<details><summary>¿Qué es la aplicación intratecal y por qué importa?</summary><p>Las células se aplican directamente en el líquido cefalorraquídeo que baña tu cerebro y tu médula espinal, en nuestro quirófano, mucho más cerca de donde tienen que actuar de lo que puede llegar una infusión intravenosa. Tu neurólogo revisa primero tu caso, así tu plan se diseña para ti.</p></details>
+<details><summary>¿Qué es la aplicación intratecal y por qué importa?</summary><p>Las células se aplican directamente en el líquido cefalorraquídeo que baña tu cerebro y tu médula espinal, en el quirófano, mucho más cerca de donde tienen que actuar de lo que puede llegar una infusión intravenosa. Tu neurólogo revisa primero tu caso, así tu plan se diseña para ti.</p></details>
 <details><summary>¿Qué vía voy a necesitar?</summary><p>Eso lo decide el neurólogo después de revisar tu diagnóstico, tus imágenes y tus exámenes; nunca una lista de precios, y nunca antes de tu consulta.</p></details>
 <details><summary>¿Tengo que suspender mi medicación actual?</summary><p>No. Esto está pensado para funcionar junto con el neurólogo que te trata en casa, nunca en su lugar. La medicación dopaminérgica, las terapias modificadoras de la enfermedad y los anticonvulsivantes nunca se modifican ni se reemplazan con esto: eso lo dirige tu propio neurólogo.</p></details>
 <details><summary>¿Es seguro? ¿Qué se revisa antes de viajar?</summary><p>Todo protocolo empieza con marcadores tumorales, por tu seguridad. Tu diagnóstico, tus imágenes, tus exámenes y tu medicación actual se revisan antes de que reserves nada.</p></details>
-<details><summary>¿Cuántos días necesito estar en Medellín?</summary><p>El protocolo intravenoso dura cuatro días: tamizaje y marcadores tumorales, luego premedicación y un suero detox (IV), luego tus células madre y, por último, tus exosomas. El protocolo intratecal dura cinco días: Día 1, marcadores tumorales; Día 2, suero detox (IV) y exosomas nebulizados; Día 3, aplicación intratecal de tus células en el quirófano, con exosomas nebulizados; Días 4 y 5, exosomas por vía IV y nebulizados. Nuestro neurólogo revisa y lleva tu caso, y la aplicación la realiza la Dra. Reyes o el Dr. Toro. En las enfermedades sistémicas recomendamos dos visitas, la segunda entre 6 y 8 semanas después de la primera, y valoramos tu regreso con un descuento para pacientes que vuelven. El hotel y el centro de tratamiento están en el mismo edificio.</p></details>
+<details><summary>¿Cuántos días necesito estar en Medellín?</summary><p>El protocolo intravenoso dura cuatro días: tamizaje y marcadores tumorales, luego premedicación y un suero detox (IV), luego tus células madre y, por último, tus exosomas. El protocolo intratecal dura cinco días: Día 1, marcadores tumorales; Día 2, suero detox (IV) y exosomas nebulizados; Día 3, aplicación intratecal de tus células en el quirófano, con exosomas nebulizados; Días 4 y 5, exosomas por vía IV y nebulizados. El neurólogo revisa y lleva tu caso, y la aplicación la realiza la Dra. Reyes o el Dr. Toro. En las enfermedades sistémicas los médicos recomiendan dos visitas, la segunda entre 6 y 8 semanas después de la primera, y los pacientes que vuelven reciben un descuento en la segunda visita. El hotel y el centro de tratamiento están en el mismo edificio.</p></details>
 <details><summary>¿Cuánto cuesta?</summary><p>Los protocolos neurológicos todo incluido en Medellín cuestan desde US$5.850 por vía intravenosa y desde US$7.500 por vía intratecal, e incluyen las células y los exosomas, los exámenes de sangre y marcadores tumorales, hotel, traslados y seguimiento. Un tratamiento comparable en EE. UU. suele costar US$30.000&ndash;US$40.000+.</p></details>
 <details><summary>¿Cuándo veríamos cambios?</summary><p>La mejoría llega de forma gradual, normalmente entre los 3 y los 6 meses: cada cuerpo responde a su ritmo. En ACV, lesión cerebral y parálisis cerebral, esto acompaña la rehabilitación, que impulsa tu progreso.</p></details>
 <details><summary>¿Está aprobado por la FDA?</summary><p>La terapia con células madre no está aprobada por la FDA, pero en Colombia es legal. Aquí es donde se realiza tu tratamiento, a cargo de médicos especialistas.</p></details>
-<details><summary>A mi familiar se le dificulta viajar. ¿Vale la pena?</summary><p>Cuéntanoslo en el primer mensaje. Incluye la recogida en el aeropuerto, y el hotel y el centro de tratamiento están en un solo edificio precisamente para que el viaje sea corto y manejable, y planeamos todo según la movilidad. Tu coordinadora se encarga de cada detalle, para que el viaje sea fácil.</p></details>
-<details><summary>¿Qué me garantizan?</summary><p>Cada cuerpo responde a su ritmo; la mejoría suele construirse en 3 a 6 meses. Lo que sí garantizamos es la calidad de las células, que un neurólogo lleve tu caso y que te acompañaremos en todo el proceso.</p></details>
+<details><summary>A mi familiar se le dificulta viajar. ¿Vale la pena?</summary><p>Menciónalo en el primer mensaje. Incluye la recogida en el aeropuerto, y el hotel y el centro de tratamiento están en un solo edificio precisamente para que el viaje sea corto y manejable, y todo se planea según la movilidad. Tu coordinadora se encarga de cada detalle, para que el viaje sea fácil.</p></details>
+<details><summary>¿Qué puedes esperar?</summary><p>Cada cuerpo responde a su ritmo; la mejoría suele construirse en 3 a 6 meses. Lo que sí puedes esperar es la calidad de las células, que un neurólogo lleve tu caso y un equipo médico que te acompaña en todo el proceso.</p></details>
 </div>
 </div>
 </section>
@@ -2482,7 +2494,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <div class="kx-wrap kx-r" style="position:relative;z-index:2">
 <p class="kx-eyebrow"><span class="kx-dot"></span>Tu siguiente paso toma 2 minutos</p>
 <h2 class="kx-h2 kx-h2--light">Pregunta mientras todavía hay más por proteger.</h2>
-<p class="kx-sub kx-sub--light" style="margin-inline:auto">Envíanos el diagnóstico, las imágenes y los exámenes recientes. Un neurólogo los revisa gratis y diseña tu plan, antes de que decidas nada.</p>
+<p class="kx-sub kx-sub--light" style="margin-inline:auto">Envía el diagnóstico, las imágenes y los exámenes recientes. Un neurólogo los revisa gratis y diseña tu plan, antes de que decidas nada.</p>
 <div class="kx-ctas kx-ctas--center"><a class="kx-btn kx-btn--main" href="https://wa.me/573108819333?text=%C2%A1Hola%21%20Quiero%20una%20evaluaci%C3%B3n%20gratuita%20de%20mi%20caso%20neurol%C3%B3gico." target="_blank" rel="noopener">Quiero mi evaluación gratuita</a><a class="kx-btn kx-btn--glass" href="/nimbus-compass-9lv9h1/es/agendar/">Agendar una consulta</a></div>
 </div>
 </section>
@@ -2490,7 +2502,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </div>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"MedicalWebPage","name":"Terapia con células madre neurológica en Medellín: protocolos intravenoso e intratecal","about":{"@type":"MedicalCondition","name":"Enfermedad neurodegenerativa"},"specialty":"https://schema.org/Neurologic"},{"@type":"TherapeuticProcedure","name":"Terapia con células madre mesenquimales para enfermedades neurológicas","bodyLocation":"Sistema nervioso central","procedureType":"https://schema.org/NoninvasiveProcedure","howPerformed":"Células madre mesenquimales de gelatina de Wharton y exosomas aplicados por vía intravenosa en un protocolo de cuatro días, o por vía intratecal en el líquido cefalorraquídeo en un quirófano, después de la revisión del neurólogo y de un tamizaje obligatorio con marcadores tumorales."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué puede hacer la terapia con células madre por una enfermedad neurodegenerativa?","acceptedAnswer":{"@type":"Answer","text":"La investigación sugiere que las células mesenquimales podrían ayudar a calmar las células inmunes del cerebro que impulsan la inflamación y apoyar la supervivencia de las neuronas que todavía están ahí, protegiendo la función que queda."}},{"@type":"Question","name":"¿Qué es la aplicación intratecal de células madre?","acceptedAnswer":{"@type":"Answer","text":"Las células se aplican directamente en el líquido cefalorraquídeo que baña el cerebro y la médula espinal, en un quirófano, mucho más cerca de donde tienen que actuar de lo que puede llegar una infusión intravenosa. Un neurólogo revisa primero cada caso, así el plan se diseña para el paciente."}},{"@type":"Question","name":"¿Cuántos días dura un protocolo neurológico en Medellín?","acceptedAnswer":{"@type":"Answer","text":"El protocolo intravenoso dura cuatro días: tamizaje y marcadores tumorales, premedicación y un suero detox (IV), las células madre y, por último, los exosomas. El protocolo intratecal dura cinco días: marcadores tumorales; suero detox (IV) y exosomas nebulizados; la aplicación intratecal en el quirófano con exosomas nebulizados; y dos días de exosomas por vía IV y nebulizados. En las enfermedades sistémicas se recomiendan dos visitas, la segunda entre 6 y 8 semanas después de la primera."}},{"@type":"Question","name":"¿Cuánto cuesta la terapia con células madre neurológica?","acceptedAnswer":{"@type":"Answer","text":"Los protocolos neurológicos todo incluido en Medellín cuestan desde US$5.850 por vía intravenosa y desde US$7.500 por vía intratecal, e incluyen células y exosomas, exámenes de sangre y marcadores tumorales, hotel, traslados y seguimiento."}},{"@type":"Question","name":"¿Tengo que suspender mi medicación neurológica actual?","acceptedAnswer":{"@type":"Answer","text":"No. Está pensado para funcionar junto con el neurólogo que te trata en casa. La medicación dopaminérgica, las terapias modificadoras de la enfermedad y los anticonvulsivantes nunca se modifican ni se reemplazan con esto."}},{"@type":"Question","name":"¿Cuándo se verían cambios?","acceptedAnswer":{"@type":"Answer","text":"La mejoría llega de forma gradual, normalmente entre los 3 y los 6 meses; cada cuerpo responde a su ritmo. En ACV, lesión cerebral y parálisis cerebral, acompaña la rehabilitación."}}]}]}</script>
 </main>
-<footer class="sccp-f"><div class="sccp-f__in"><div class="sccp-f__brand"><img src="/nimbus-compass-9lv9h1/img/scc-logo-h.png" alt="Stem Cells Colombia" width="206" height="33"><p>Medicina regenerativa, en manos de especialistas. Medellín, Colombia.</p><p class="sccp-f__stars"><span>★★★★★</span> Excelente en Google · <b>8.000</b> procedimientos · <b>7</b> especialistas</p></div><div class="sccp-f__c"><b>Tratamientos</b><a href="/nimbus-compass-9lv9h1/es/celulas-madre-rodilla/">Rodilla</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-cadera/">Cadera</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-hombro/">Hombro</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-espalda-cuello/">Columna, cuello y espalda</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-autoinmunes/">Autoinmunes</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-sistema-nervioso/">Neurológicas</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-diabetes/">Diabetes</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-antienvejecimiento/">Antienvejecimiento</a><a href="/nimbus-compass-9lv9h1/es/tratamientos/">Todos los tratamientos →</a></div><div class="sccp-f__c"><b>La empresa</b><a href="/nimbus-compass-9lv9h1/es/sobre-nosotros/">Sobre nosotros</a><a href="/nimbus-compass-9lv9h1/es/equipo/">El equipo</a><a href="/nimbus-compass-9lv9h1/es/instalaciones/">Instalaciones</a><a href="/nimbus-compass-9lv9h1/es/nuestras-celulas-madre/">Nuestras células madre</a><a href="/nimbus-compass-9lv9h1/es/tu-proceso/">Tu proceso</a><a href="/nimbus-compass-9lv9h1/es/como-funciona/">Cómo funciona</a><a href="/nimbus-compass-9lv9h1/es/sobre-medellin/">Medellín</a><a href="/nimbus-compass-9lv9h1/es/testimonios/">Testimonios</a><a href="/nimbus-compass-9lv9h1/es/preguntas-frecuentes/">Preguntas frecuentes</a><a href="/nimbus-compass-9lv9h1/es/agendar/">Agendar</a></div><div class="sccp-f__c"><b>Contacto</b><a href="https://wa.me/573108819333?text=%C2%A1Hola%21%20Quiero%20una%20evaluaci%C3%B3n%20gratuita%20de%20mi%20caso." target="_blank" rel="noopener">WhatsApp +57 310 881 9333</a><span>US +1 213 396 6942</span><a href="mailto:info@stemcellscolombia.com">info@stemcellscolombia.com</a><span>Carrera 25 #9A Sur-162, Consultorio #3, El Poblado, Medellín</span><span>Lun–vie 10 a. m.–6 p. m. · sáb 10 a. m.–2 p. m. (GMT-5)</span></div></div><div class="sccp-f__legal"><p>La terapia con células madre no está aprobada por la FDA, pero en Colombia es legal. Los resultados varían de una persona a otra y ningún tratamiento está garantizado.</p><p><a href="/nimbus-compass-9lv9h1/es/politica-de-privacidad/">Política de privacidad</a> · <a href="/nimbus-compass-9lv9h1/es/terminos-y-condiciones/">Términos y condiciones</a> · © 2026 Stem Cells Colombia</p></div></footer>
+<footer class="sccp-f"><div class="sccp-f__in"><div class="sccp-f__brand"><img src="/nimbus-compass-9lv9h1/img/scc-logo-h.png" alt="Stem Cells Colombia" width="206" height="33"><p>Medicina regenerativa, en manos de especialistas. Medellín, Colombia.</p><p class="sccp-f__stars"><span>★★★★★</span> Excelente en Google · <b>8.000</b> procedimientos · <b>7</b> especialistas</p></div><div class="sccp-f__c"><b>Tratamientos</b><a href="/nimbus-compass-9lv9h1/es/celulas-madre-rodilla/">Rodilla</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-cadera/">Cadera</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-hombro/">Hombro</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-espalda-cuello/">Columna, cuello y espalda</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-autoinmunes/">Autoinmunes</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-sistema-nervioso/">Neurológicas</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-diabetes/">Diabetes</a><a href="/nimbus-compass-9lv9h1/es/celulas-madre-antienvejecimiento/">Antienvejecimiento</a><a href="/nimbus-compass-9lv9h1/es/tratamientos/">Todos los tratamientos →</a></div><div class="sccp-f__c"><b>La empresa</b><a href="/nimbus-compass-9lv9h1/es/sobre-nosotros/">Sobre la empresa</a><a href="/nimbus-compass-9lv9h1/es/equipo/">El equipo</a><a href="/nimbus-compass-9lv9h1/es/instalaciones/">Instalaciones</a><a href="/nimbus-compass-9lv9h1/es/nuestras-celulas-madre/">Las células madre</a><a href="/nimbus-compass-9lv9h1/es/tu-proceso/">Tu proceso</a><a href="/nimbus-compass-9lv9h1/es/como-funciona/">Cómo funciona</a><a href="/nimbus-compass-9lv9h1/es/sobre-medellin/">Medellín</a><a href="/nimbus-compass-9lv9h1/es/testimonios/">Testimonios</a><a href="/nimbus-compass-9lv9h1/es/preguntas-frecuentes/">Preguntas frecuentes</a><a href="/nimbus-compass-9lv9h1/es/agendar/">Agendar</a></div><div class="sccp-f__c"><b>Contacto</b><a href="https://wa.me/573108819333?text=%C2%A1Hola%21%20Quiero%20una%20evaluaci%C3%B3n%20gratuita%20de%20mi%20caso." target="_blank" rel="noopener">WhatsApp +57 310 881 9333</a><span>US +1 213 396 6942</span><a href="mailto:info@stemcellscolombia.com">info@stemcellscolombia.com</a><span>Carrera 25 #9A Sur-162, Consultorio #3, El Poblado, Medellín</span><span>Lun–vie 10 a. m.–6 p. m. · sáb 10 a. m.–2 p. m. (GMT-5)</span></div></div><div class="sccp-f__legal"><p>La terapia con células madre no está aprobada por la FDA, pero en Colombia es legal. Los resultados varían de una persona a otra y ningún tratamiento está garantizado.</p><p><a href="/nimbus-compass-9lv9h1/es/politica-de-privacidad/">Política de privacidad</a> · <a href="/nimbus-compass-9lv9h1/es/terminos-y-condiciones/">Términos y condiciones</a> · © 2026 Stem Cells Colombia</p></div></footer>
 <script>
 (function(){
 var root=document.getElementById('kx');if(!root||root.getAttribute('data-kx-init'))return;root.setAttribute('data-kx-init','1');root.classList.add('kx-js');
