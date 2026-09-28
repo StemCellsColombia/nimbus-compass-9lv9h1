@@ -1,0 +1,22 @@
+[
+ {
+  "origen": "/autism-stem-cell-therapy/",
+  "destino": "/nervous-system-stem-cell-therapy/",
+  "tipo": 301
+ },
+ {
+  "origen": "/chronic-pain-stem-cell-therapy/",
+  "destino": "/back-neck-pain-stem-cell-therapy/",
+  "tipo": 301
+ },
+ {
+  "origen": "/es/celulas-madre-autismo/",
+  "destino": "/es/celulas-madre-sistema-nervioso/",
+  "tipo": 301
+ },
+ {
+  "origen": "/es/celulas-madre-dolor-cronico/",
+  "destino": "/es/celulas-madre-espalda-cuello/",
+  "tipo": 301
+ }
+]

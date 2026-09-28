@@ -1,0 +1,2820 @@
+[
+ {
+  "ruta": "/",
+  "idioma": "en",
+  "id": 8198,
+  "tipo": "page",
+  "slug": "nueva-home",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8198__home.html",
+  "bytes": 64696,
+  "sha256": "3e733785e84273afe60e08f4254e3666c9cf8c229b345769002036d07762db5a",
+  "fotos_nuevas": [
+   "scc-knee-app-1.jpg",
+   "scc-or-3.jpg",
+   "scc-spine-or-1.jpg",
+   "team-reyes-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells Colombia — Stem Cell Therapy in Medellín, by Specialists",
+   "descripcion": "Stem cell therapy in Medellín by specialists: joints and spine first, plus autoimmune, neurological and anti-aging care. All-inclusive from $3,990, free case review."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/about/",
+  "idioma": "en",
+  "id": 247,
+  "tipo": "page",
+  "slug": "about",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/247__about.html",
+  "bytes": 42789,
+  "sha256": "b821b2d951109cdb02290a630b5af4fadbc3a94c1416f61a0fa34638f5280f1e",
+  "fotos_nuevas": [
+   "scc-or-2.jpg",
+   "scc-or-9.jpg",
+   "team-carvajal-portrait.jpg",
+   "team-martinez-portrait.jpg",
+   "team-mejia-portrait.jpg",
+   "team-reyes-portrait.jpg",
+   "team-salgado-portrait.jpg",
+   "team-tabares-portrait.jpg",
+   "team-toro-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "About Stem Cells Colombia — Regenerative Medicine, Practiced by Specialists",
+   "descripcion": "Stem Cells Colombia in Medellín: seven specialists, one clear price, a real operating room and a 4-star hotel in the same building."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/anti-aging-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8343,
+  "tipo": "page",
+  "slug": "anti-aging-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
+  "bytes": 62954,
+  "sha256": "041ab0a43b1a1215ff36647ca8703b77ebf11c09f4e45630dfc92c62968b5539",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Anti-Aging Stem Cell Therapy in Medellín — Face, Hair, Sexual Health & IV",
+   "descripcion": "Anti-Aging Stem Cell Therapy in Medellín — Face, Hair, Sexual Health & IV. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/anti-aging-stem-cell-therapy/epigenetic-test/",
+  "idioma": "en",
+  "id": 443,
+  "tipo": "page",
+  "slug": "epigenetic-test",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/443__anti-aging-stem-cell-therapy__epigenetic-test.html",
+  "bytes": 35150,
+  "sha256": "3692579d0424d0f113bc618460572c1e4df544a908ab6ff5e9c4ff2105bde72b",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Epigenetic Testing — What It Is | Stem Cells Colombia",
+   "descripcion": "What epigenetic and nutrigenomic testing are, in plain words, and how to arrange one during your stay in Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/arthritis-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8330,
+  "tipo": "page",
+  "slug": "arthritis-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
+  "bytes": 63137,
+  "sha256": "8d191ac393605ed8d4160477773b6dd2bc5841be8942f71325cae7d8ada56302",
+  "fotos_nuevas": [
+   "scc-hand-3.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Arthritis in Medellín — Osteoarthritis & Rheumatoid | Stem Cells Colombia",
+   "descripcion": "Osteoarthritis or rheumatoid arthritis: two different stem cell paths in Medellín, local or IV, with the right specialist."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/autism-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8341,
+  "tipo": "page",
+  "slug": "autism-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "redirigir_301",
+  "destino": "/nervous-system-stem-cell-therapy/",
+  "motivo": "Se quita del sitio: 301 al destino. La página de WordPress pasa a borrador DESPUÉS de crear el 301."
+ },
+ {
+  "ruta": "/autoimmune-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8332,
+  "tipo": "page",
+  "slug": "autoimmune-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
+  "bytes": 65198,
+  "sha256": "157b44a35fd1d04d215af7e6d3df5657fb1f199a1719f4cc3a677994a8612d33",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Autoimmune Conditions in Medellín",
+   "descripcion": "Stem Cell Therapy for Autoimmune Conditions in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/back-neck-pain-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8328,
+  "tipo": "page",
+  "slug": "back-neck-pain-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8328__back-neck-pain-stem-cell-therapy.html",
+  "bytes": 64531,
+  "sha256": "c367abca35a9965df09249910849595cc1aa685c1766a9712af23267e3170604",
+  "fotos_nuevas": [
+   "scc-spine-or-2.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Back & Neck Pain in Medellín",
+   "descripcion": "Stem Cell Therapy for Back & Neck Pain in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/biohacking-medellin/",
+  "idioma": "en",
+  "id": 8344,
+  "tipo": "page",
+  "slug": "biohacking-medellin",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8344__biohacking-medellin.html",
+  "bytes": 65566,
+  "sha256": "1d7fed5bd667ce1d358038994d5cc07181e01c52f80761e19e7f8d3025a872e6",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "The Longevity Protocol in Medellín | Stem Cells Colombia",
+   "descripcion": "The longevity protocol in Medellín: whole-body stem cell IV plus a 25-biomarker panel, full-body MRI and DEXA, over four days."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/blog/",
+  "idioma": "en",
+  "id": 464,
+  "tipo": "page",
+  "slug": "blog",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/464__blog.html",
+  "bytes": 36132,
+  "sha256": "f076d1db46123dde6d329f49a5f49b309a2c50ac02fd5f41a1fb80a59859d851",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Blog — Stem Cell Therapy, Explained Plainly | Stem Cells Colombia",
+   "descripcion": "Articles on stem cell therapy: joints, spine, autoimmune conditions, diabetes, longevity, and how to choose a clinic."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/book/",
+  "idioma": "en",
+  "id": 8310,
+  "tipo": "page",
+  "slug": "book",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8310__book.html",
+  "bytes": 25732,
+  "sha256": "6134d4636b9d9c2c9a46baadd767ff3c65e382814a7038a2973a94a5ac94fcae",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Book a Consultation — Stem Cells Colombia",
+   "descripcion": "Talk to Stem Cells Colombia: WhatsApp, the form or a free virtual consultation. Address and hours in El Poblado, Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/chronic-pain-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8331,
+  "tipo": "page",
+  "slug": "chronic-pain-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "redirigir_301",
+  "destino": "/back-neck-pain-stem-cell-therapy/",
+  "motivo": "Se quita del sitio: 301 al destino. La página de WordPress pasa a borrador DESPUÉS de crear el 301."
+ },
+ {
+  "ruta": "/crohns-disease-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8333,
+  "tipo": "page",
+  "slug": "crohns-disease-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8333__crohns-disease-stem-cell-therapy.html",
+  "bytes": 60861,
+  "sha256": "7b606db23252240a23bb41a21732566cbbbb502e8cbdfb2fef2312b3df8024ae",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Crohn’s Disease in Medellín | Stem Cells Colombia",
+   "descripcion": "An intravenous stem cell protocol for Crohn’s disease in Medellín: four days, cancer markers first, from $5,850 all-inclusive."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/diabetes-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8335,
+  "tipo": "page",
+  "slug": "diabetes-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8335__diabetes-stem-cell-therapy.html",
+  "bytes": 76636,
+  "sha256": "16fe51eb84bcf1104456ca1e8f547d3deb5eff54e7e37a78947424ddf8df099e",
+  "fotos_nuevas": [
+   "scc-or-8.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Diabetes in Medellín",
+   "descripcion": "Stem Cell Therapy for Diabetes in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/es/agendar/",
+  "idioma": "es",
+  "id": 8418,
+  "tipo": "page",
+  "slug": "agendar",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8418__es__agendar.html",
+  "bytes": 25861,
+  "sha256": "7b2ab94a935bbeabc4b3424d794a32539ea3fb0675c9e6e60bc061ab1fbade0c",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Agenda una consulta — Stem Cells Colombia",
+   "descripcion": "Habla con Stem Cells Colombia: WhatsApp, el formulario o una consulta virtual gratuita. Dirección y horarios en El Poblado, Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/biohacking-medellin-es/",
+  "idioma": "es",
+  "id": 8453,
+  "tipo": "page",
+  "slug": "biohacking-medellin-es",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8453__es__biohacking-medellin-es.html",
+  "bytes": 67835,
+  "sha256": "8953e0bf856c7a4a389e8b5a164d5ad256ebd4c15c030713fbe0c9329cd60d79",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Protocolo de longevidad en Medellín | Stem Cells Colombia",
+   "descripcion": "Protocolo de longevidad en Medellín: células madre IV de cuerpo completo, panel de 25 biomarcadores, resonancia de cuerpo completo y DEXA, en cuatro días."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/blog-es/",
+  "idioma": "es",
+  "id": 8417,
+  "tipo": "page",
+  "slug": "blog-es",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8417__es__blog-es.html",
+  "bytes": 36344,
+  "sha256": "c825d64f673ed881229fa0a931404e4548d55bf3b9bb88af86d1311ac435f6d9",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Blog: células madre explicadas con claridad | Stem Cells Colombia",
+   "descripcion": "Artículos sobre terapia con células madre: articulaciones, columna, autoinmunes, diabetes, longevidad y cómo elegir clínica."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-acv/",
+  "idioma": "es",
+  "id": 8448,
+  "tipo": "page",
+  "slug": "celulas-madre-acv",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8448__es__celulas-madre-acv.html",
+  "bytes": 61699,
+  "sha256": "ac3d1ce61082efc15d4d0f84f1e2d41265e19b578a2bed6bf839f966f13d8f91",
+  "fotos_nuevas": [
+   "scc-fluoro-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre después de un ACV en Medellín | Stem Cells Colombia",
+   "descripcion": "Después de un ACV: un protocolo intravenoso de células madre en Medellín, solo si un neurólogo confirma que eres candidato."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-antienvejecimiento/",
+  "idioma": "es",
+  "id": 8452,
+  "tipo": "page",
+  "slug": "celulas-madre-antienvejecimiento",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
+  "bytes": 64306,
+  "sha256": "6f1492ee72e80bac3c4bb2dff04ef0e6d8f4f94cf8bf9335380291d2f4f95ee4",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre antienvejecimiento en Medellín: rostro, cabello, salud sexual e IV",
+   "descripcion": "Células madre antienvejecimiento en Medellín: rostro, cabello, salud sexual e IV. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-artritis/",
+  "idioma": "es",
+  "id": 8439,
+  "tipo": "page",
+  "slug": "celulas-madre-artritis",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8439__es__celulas-madre-artritis.html",
+  "bytes": 65136,
+  "sha256": "d809324773142bb98888fc823200645883806f9ab93f3b0e8a546eb0bd266a89",
+  "fotos_nuevas": [
+   "scc-hand-3.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre en artrosis y artritis reumatoide | Stem Cells Colombia",
+   "descripcion": "Artrosis o artritis reumatoide: dos caminos distintos con células madre en Medellín, local o IV, con el especialista indicado."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-autismo/",
+  "idioma": "es",
+  "id": 8450,
+  "tipo": "page",
+  "slug": "celulas-madre-autismo",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "redirigir_301",
+  "destino": "/es/celulas-madre-sistema-nervioso/",
+  "motivo": "Se quita del sitio: 301 al destino. La página de WordPress pasa a borrador DESPUÉS de crear el 301."
+ },
+ {
+  "ruta": "/es/celulas-madre-autoinmunes/",
+  "idioma": "es",
+  "id": 8441,
+  "tipo": "page",
+  "slug": "celulas-madre-autoinmunes",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
+  "bytes": 67004,
+  "sha256": "2318b1e9b7a7fae205ffe5618d75b8cc2a3585ef642795639a24a315e8f147d1",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para enfermedades autoinmunes en Medellín",
+   "descripcion": "Células madre para enfermedades autoinmunes en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-cadera/",
+  "idioma": "es",
+  "id": 8433,
+  "tipo": "page",
+  "slug": "celulas-madre-cadera",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8433__es__celulas-madre-cadera.html",
+  "bytes": 73307,
+  "sha256": "eabc020bf0f4de09402fb1a5b2f78431ab7d96bd84a5cb6948c17c6201c24f55",
+  "fotos_nuevas": [
+   "scc-hip-proc-1.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para la cadera en Medellín",
+   "descripcion": "Células madre para la cadera en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-crohn/",
+  "idioma": "es",
+  "id": 8442,
+  "tipo": "page",
+  "slug": "celulas-madre-crohn",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8442__es__celulas-madre-crohn.html",
+  "bytes": 62792,
+  "sha256": "76e974342f90173b03775ad0b38cb1edc5d4a6e6f4e7289d998d3a9b0f511125",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre para Crohn en Medellín | Stem Cells Colombia",
+   "descripcion": "Protocolo intravenoso de células madre para la enfermedad de Crohn en Medellín: cuatro días, primero marcadores tumorales, desde US$5.850 todo incluido."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-diabetes/",
+  "idioma": "es",
+  "id": 8444,
+  "tipo": "page",
+  "slug": "celulas-madre-diabetes",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8444__es__celulas-madre-diabetes.html",
+  "bytes": 78724,
+  "sha256": "3b95a4656eca6d0c8b4a7cb79ce697070fff34cc348098feae0b50c78fd88fb3",
+  "fotos_nuevas": [
+   "scc-or-8.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para la diabetes en Medellín",
+   "descripcion": "Células madre para la diabetes en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-dolor-cronico/",
+  "idioma": "es",
+  "id": 8440,
+  "tipo": "page",
+  "slug": "celulas-madre-dolor-cronico",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "redirigir_301",
+  "destino": "/es/celulas-madre-espalda-cuello/",
+  "motivo": "Se quita del sitio: 301 al destino. La página de WordPress pasa a borrador DESPUÉS de crear el 301."
+ },
+ {
+  "ruta": "/es/celulas-madre-enfermedad-pulmonar/",
+  "idioma": "es",
+  "id": 8445,
+  "tipo": "page",
+  "slug": "celulas-madre-enfermedad-pulmonar",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8445__es__celulas-madre-enfermedad-pulmonar.html",
+  "bytes": 62043,
+  "sha256": "e85d72148edc3b24df8c272640d7c62548693a74f1630302a54254a6c8aef022",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre para los pulmones en Medellín | Stem Cells Colombia",
+   "descripcion": "Protocolo de células madre y exosomas, intravenoso y nebulizado, para condiciones respiratorias crónicas, revisado primero por un internista."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-esclerosis-multiple/",
+  "idioma": "es",
+  "id": 8443,
+  "tipo": "page",
+  "slug": "celulas-madre-esclerosis-multiple",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
+  "bytes": 62857,
+  "sha256": "a56124c13b3cc5a499ee3e5e8185e73bcf5d31850d7f603edb2966fb4f3872eb",
+  "fotos_nuevas": [
+   "scc-intrathecal-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Esclerosis múltiple y células madre en Medellín | Stem Cells Colombia",
+   "descripcion": "Protocolos de células madre IV o intratecales para la esclerosis múltiple en Medellín, tras la revisión de un neurólogo. Desde US$5.850."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-espalda-cuello/",
+  "idioma": "es",
+  "id": 8437,
+  "tipo": "page",
+  "slug": "celulas-madre-espalda-cuello",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8437__es__celulas-madre-espalda-cuello.html",
+  "bytes": 66303,
+  "sha256": "614e2a5ff4ca410f53004f6b3a5c1a02c8ddc2880fac5f26cdfbd98858cbe2aa",
+  "fotos_nuevas": [
+   "scc-spine-or-2.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para el dolor de espalda y cuello en Medellín",
+   "descripcion": "Células madre para el dolor de espalda y cuello en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-hombro/",
+  "idioma": "es",
+  "id": 8434,
+  "tipo": "page",
+  "slug": "celulas-madre-hombro",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8434__es__celulas-madre-hombro.html",
+  "bytes": 78329,
+  "sha256": "d10004571b83abad82f4eaf469d8279d22d369019e2ca266c15d031bae2d9f76",
+  "fotos_nuevas": [
+   "scc-ultrasound-1.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para el hombro en Medellín",
+   "descripcion": "Células madre para el hombro en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-lesion-cerebral/",
+  "idioma": "es",
+  "id": 8449,
+  "tipo": "page",
+  "slug": "celulas-madre-lesion-cerebral",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
+  "bytes": 63802,
+  "sha256": "ccfa46f5e92c07ede5b0c5c70bba36fa8bcd83c7a3213ad77142c620a6d3425b",
+  "fotos_nuevas": [
+   "scc-intrathecal-2.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre para lesión cerebral en Medellín | Stem Cells Colombia",
+   "descripcion": "Protocolos de células madre después de una lesión cerebral traumática, IV o intratecales según el tiempo, tras la revisión de un neurólogo."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-lesiones-deportivas/",
+  "idioma": "es",
+  "id": 8438,
+  "tipo": "page",
+  "slug": "celulas-madre-lesiones-deportivas",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8438__es__celulas-madre-lesiones-deportivas.html",
+  "bytes": 64668,
+  "sha256": "451b3c80176a6121cb300f2ac45f7868518eb0005dddf2ed80d57ebda9ac4c22",
+  "fotos_nuevas": [
+   "scc-knee-proc-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Lesiones deportivas: células madre en Medellín | Stem Cells Colombia",
+   "descripcion": "Células madre para rupturas parciales de tendones, ligamentos y músculos, guiadas por ecografía. Desde US$3.790 todo incluido en Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-mano-muneca/",
+  "idioma": "es",
+  "id": 8435,
+  "tipo": "page",
+  "slug": "celulas-madre-mano-muneca",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
+  "bytes": 67223,
+  "sha256": "94b91075f79e00ac39b6a6045e2d7e4d9ed04eb167932c63c32e424db3e6b7f7",
+  "fotos_nuevas": [
+   "scc-hand-2.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre para mano y muñeca en Medellín | Stem Cells Colombia",
+   "descripcion": "Células madre para la muñeca, la mano y el pulgar, guiadas por ecografía en quirófano. Desde US$3.790 todo incluido."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-neurodegenerativas/",
+  "idioma": "es",
+  "id": 8447,
+  "tipo": "page",
+  "slug": "celulas-madre-neurodegenerativas",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
+  "bytes": 61470,
+  "sha256": "aa8747b7acc2b371a3341af6386ba95dd27f48a8883cf6dfd3cb5d53f4f78d97",
+  "fotos_nuevas": [
+   "scc-or-4.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre en condiciones neurodegenerativas | Stem Cells Colombia",
+   "descripcion": "Protocolos de células madre intravenosos e intratecales para condiciones neurodegenerativas, para intentar frenar la progresión, tras revisión neurológica."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-pie-tobillo/",
+  "idioma": "es",
+  "id": 8436,
+  "tipo": "page",
+  "slug": "celulas-madre-pie-tobillo",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8436__es__celulas-madre-pie-tobillo.html",
+  "bytes": 67708,
+  "sha256": "409f3f63a563ee1b63cf94450b4099072ff21c7ab8478b93e839cc26fc3418bb",
+  "fotos_nuevas": [
+   "scc-foot-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Células madre para pie y tobillo en Medellín | Stem Cells Colombia",
+   "descripcion": "Células madre para el tobillo, la fascitis plantar y el dedo gordo, guiadas por ecografía en quirófano. Desde US$1.750."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-rodilla/",
+  "idioma": "es",
+  "id": 8432,
+  "tipo": "page",
+  "slug": "celulas-madre-rodilla",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8432__es__celulas-madre-rodilla.html",
+  "bytes": 66173,
+  "sha256": "b6f14c676dfc84693bbd6f7dde5baae48daa09cd11328827c3ff2fac0f65498c",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para la rodilla en Medellín: la alternativa al reemplazo",
+   "descripcion": "Células madre para la rodilla en Medellín: la alternativa al reemplazo. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-salud-sexual/",
+  "idioma": "es",
+  "id": 8451,
+  "tipo": "page",
+  "slug": "celulas-madre-salud-sexual",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8451__es__celulas-madre-salud-sexual.html",
+  "bytes": 61646,
+  "sha256": "2702dcef896834718ca954ddd1d42e45d0b333d7eb6edf8f9659f4b333908040",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Salud sexual con células madre (P-Shot) en Medellín",
+   "descripcion": "Salud sexual con células madre (P-Shot) en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/celulas-madre-sistema-nervioso/",
+  "idioma": "es",
+  "id": 8446,
+  "tipo": "page",
+  "slug": "celulas-madre-sistema-nervioso",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
+  "bytes": 74760,
+  "sha256": "00f5e9f98f53e8ec9b77dae3c1f260e1fea473b64f56a095df4230db71d4a81c",
+  "fotos_nuevas": [
+   "scc-intrathecal-4.jpg",
+   "scc-or-6.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Células madre para condiciones neurológicas en Medellín",
+   "descripcion": "Células madre para condiciones neurológicas en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/como-funciona/",
+  "idioma": "es",
+  "id": 8422,
+  "tipo": "page",
+  "slug": "como-funciona",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8422__es__como-funciona.html",
+  "bytes": 36274,
+  "sha256": "3955b538a3347bc3a378cd43ffd6322d0a1a4c61e078a714520d9bc3e9026a76",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Cómo funciona el tratamiento con células madre | Stem Cells Colombia",
+   "descripcion": "Cómo es el día de tu tratamiento con células madre en Medellín: articulaciones, columna o intravenoso, paso a paso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/dra-diana-reyes-es/",
+  "idioma": "es",
+  "id": 8419,
+  "tipo": "page",
+  "slug": "dra-diana-reyes-es",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8419__es__dra-diana-reyes-es.html",
+  "bytes": 35604,
+  "sha256": "b4b94158c5f867fe1e5a19dbd964cab55f51436e5ce4a9556faff395e50750c7",
+  "fotos_nuevas": [
+   "team-reyes-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dra. Diana Reyes, anestesióloga | Stem Cells Colombia",
+   "descripcion": "Dra. Diana Reyes, anestesióloga y especialista en dolor en Stem Cells Colombia, en Medellín. Formación y experiencia según su hoja de vida."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/equipo/",
+  "idioma": "es",
+  "id": 8427,
+  "tipo": "page",
+  "slug": "equipo",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8427__es__equipo.html",
+  "bytes": 41746,
+  "sha256": "d708128e37711295dcc48ef73ae84e268bffbd2d466bf1db10f236611a7617c2",
+  "fotos_nuevas": [
+   "scc-or-7.jpg",
+   "team-carvajal-portrait.jpg",
+   "team-martinez-portrait.jpg",
+   "team-mejia-portrait.jpg",
+   "team-reyes-portrait.jpg",
+   "team-salgado-portrait.jpg",
+   "team-tabares-portrait.jpg",
+   "team-toro-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Equipo médico: siete especialistas en Medellín | Stem Cells Colombia",
+   "descripcion": "Siete especialistas en Medellín: anestesiología y dolor, reumatología, medicina funcional, medicina estética, urología y seguimiento de pacientes."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/inicio/",
+  "idioma": "es",
+  "id": 8415,
+  "tipo": "page",
+  "slug": "inicio",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8415__es__inicio.html",
+  "bytes": 66091,
+  "sha256": "efa527e4184ee5777ddc8df8caaea2c8037f60ea84657ac7355cdb1e810e4b3e",
+  "fotos_nuevas": [
+   "scc-knee-app-1.jpg",
+   "scc-or-3.jpg",
+   "scc-spine-or-1.jpg",
+   "team-reyes-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells Colombia — Células madre en Medellín, por especialistas",
+   "descripcion": "Células madre en Medellín con especialistas: articulaciones, columna, autoinmunes, neuro, diabetes, antiedad. Todo incluido, precio claro y evaluación gratis."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/instalaciones/",
+  "idioma": "es",
+  "id": 8420,
+  "tipo": "page",
+  "slug": "instalaciones",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8420__es__instalaciones.html",
+  "bytes": 41661,
+  "sha256": "bac885ad778909bdfdc302976de001af53aec759eda88baec263326f0819457a",
+  "fotos_nuevas": [
+   "scc-hotel-workspace-1.jpg",
+   "scc-surgery-table-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Instalaciones — Quirófano real y hotel 4 estrellas en un edificio",
+   "descripcion": "Centro de tratamiento Incodol y un hotel 4 estrellas en el mismo edificio en El Poblado, Medellín: quirófano con guía por ecografía y fluoroscopia."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/nuestras-celulas-madre/",
+  "idioma": "es",
+  "id": 8424,
+  "tipo": "page",
+  "slug": "nuestras-celulas-madre",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8424__es__nuestras-celulas-madre.html",
+  "bytes": 53901,
+  "sha256": "ff14e302f34b8af5d82cc8068f788623411df83f773e404edc2926ca263104dc",
+  "fotos_nuevas": [
+   "scc-syringe-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Las células madre: mesenquimales de gelatina de Wharton",
+   "descripcion": "Stem Cells Colombia usa solo células mesenquimales de gelatina de Wharton, del cordón umbilical: cómo se cree que funcionan y cómo las aplican los médicos."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/politica-de-privacidad/",
+  "idioma": "es",
+  "id": 8426,
+  "tipo": "page",
+  "slug": "politica-de-privacidad",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "no_tocar",
+  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+ },
+ {
+  "ruta": "/es/precios/",
+  "idioma": "es",
+  "id": 8425,
+  "tipo": "page",
+  "slug": "precios",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8425__es__precios.html",
+  "bytes": 37302,
+  "sha256": "e0e7f93c2e3abc0aa2604794af80ee3f0a4f46a00726c9af12ce542d4a2d2c20",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Precios de células madre en Medellín | Stem Cells Colombia",
+   "descripcion": "Precios todo incluido en Medellín: articulación desde US$3.990, espalda US$5.100, facial con láser CO2 US$2.999, IV US$5.550 y cuerpo completo US$12.539."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/preguntas-frecuentes/",
+  "idioma": "es",
+  "id": 8421,
+  "tipo": "page",
+  "slug": "preguntas-frecuentes",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8421__es__preguntas-frecuentes.html",
+  "bytes": 38663,
+  "sha256": "b7193d4d95a50259f1b3c0f8fbe00c64c5c2cb0e7d323a9d7425f00d9c4a838e",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Preguntas frecuentes: células madre en Medellín, con claridad",
+   "descripcion": "Respuestas sobre la terapia con células madre en Medellín: candidatos, seguridad, FDA, resultados, días, precio y seguimiento."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/rejuvenecimiento-corporal/",
+  "idioma": "es",
+  "id": 8457,
+  "tipo": "page",
+  "slug": "rejuvenecimiento-corporal",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8457__es__rejuvenecimiento-corporal.html",
+  "bytes": 69859,
+  "sha256": "00d4aa515b6d3d2833dfd5989a3c6fc45d8bbe923542564cd4c8dd6c23cb52c3",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Rejuvenecimiento corporal: células madre IV en Medellín",
+   "descripcion": "Rejuvenecimiento corporal: células madre IV en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/rejuvenecimiento-facial/",
+  "idioma": "es",
+  "id": 8455,
+  "tipo": "page",
+  "slug": "rejuvenecimiento-facial",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8455__es__rejuvenecimiento-facial.html",
+  "bytes": 75423,
+  "sha256": "f431c8ba98dce94a66c6e301e19563eaa21c0008d3a4fbe101fdda6897c665c2",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Rejuvenecimiento facial con células madre y láser CO2 en Medellín",
+   "descripcion": "Rejuvenecimiento facial con células madre y láser CO2 en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/restauracion-capilar/",
+  "idioma": "es",
+  "id": 8456,
+  "tipo": "page",
+  "slug": "restauracion-capilar",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8456__es__restauracion-capilar.html",
+  "bytes": 67212,
+  "sha256": "18552bf78ae3e4182b569fafa9feae7a901f61f7ee4c3753660cceb8995ca6f2",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Restauración capilar con células madre en Medellín",
+   "descripcion": "Restauración capilar con células madre en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/sobre-medellin/",
+  "idioma": "es",
+  "id": 8423,
+  "tipo": "page",
+  "slug": "sobre-medellin",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8423__es__sobre-medellin.html",
+  "bytes": 38295,
+  "sha256": "0bf8cc68203e112cd9ddaa590c61986fc57d456f6afcc9d74de543f8d0104e87",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Medellín, la ciudad de la eterna primavera | Stem Cells Colombia",
+   "descripcion": "Medellín, la ciudad de la eterna primavera: cómo llegar, El Poblado y un día en la ciudad alrededor de tu tratamiento."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/sobre-nosotros/",
+  "idioma": "es",
+  "id": 8416,
+  "tipo": "page",
+  "slug": "sobre-nosotros",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8416__es__sobre-nosotros.html",
+  "bytes": 43239,
+  "sha256": "1f63bc91afc713859fd2a4d16e88f29236bbf5661ab6d200f73ad58967563f16",
+  "fotos_nuevas": [
+   "scc-or-2.jpg",
+   "scc-or-9.jpg",
+   "team-carvajal-portrait.jpg",
+   "team-martinez-portrait.jpg",
+   "team-mejia-portrait.jpg",
+   "team-reyes-portrait.jpg",
+   "team-salgado-portrait.jpg",
+   "team-tabares-portrait.jpg",
+   "team-toro-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Sobre Stem Cells Colombia — Medicina regenerativa con especialistas",
+   "descripcion": "Stem Cells Colombia en Medellín: siete especialistas, un precio claro, un quirófano real y un hotel 4 estrellas en el mismo edificio."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/terminos-y-condiciones/",
+  "idioma": "es",
+  "id": 8428,
+  "tipo": "page",
+  "slug": "terminos-y-condiciones",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "no_tocar",
+  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+ },
+ {
+  "ruta": "/es/test-epigenetico/",
+  "idioma": "es",
+  "id": 8454,
+  "tipo": "page",
+  "slug": "test-epigenetico",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8454__es__test-epigenetico.html",
+  "bytes": 35404,
+  "sha256": "f025bdaf0c25c931b0ad950fba65bc5e5d2bf33f06eecf728deb35a35fe93c29",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Test epigenético, bajo solicitud | Stem Cells Colombia",
+   "descripcion": "Test epigenético y nutrigenómico, bajo solicitud, interpretado por un especialista para personalizar tu plan de longevidad."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/testimonios/",
+  "idioma": "es",
+  "id": 8429,
+  "tipo": "page",
+  "slug": "testimonios",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8429__es__testimonios.html",
+  "bytes": 32182,
+  "sha256": "a7fd4929b384a3e7500153e48c6983d6045e3471e5a01f911540c6783c0fc8e2",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Historias de pacientes: videos reales y reseñas de Google",
+   "descripcion": "Pacientes reales en videos reales, y reseñas de Google copiadas palabra por palabra."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/tratamientos/",
+  "idioma": "es",
+  "id": 8431,
+  "tipo": "page",
+  "slug": "tratamientos",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8431__es__tratamientos.html",
+  "bytes": 53044,
+  "sha256": "2ab5456db4bf2cf4b0be4785a56f9d1521c0d538d0e14c9603ddafb761226b7e",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Tratamientos con células madre en Medellín | Stem Cells Colombia",
+   "descripcion": "Todos los tratamientos con células madre en cuatro categorías: articulaciones y columna, sistémicas, neurológicas y antienvejecimiento, con precios y días."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/es/tu-proceso/",
+  "idioma": "es",
+  "id": 8430,
+  "tipo": "page",
+  "slug": "tu-proceso",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8430__es__tu-proceso.html",
+  "bytes": 49086,
+  "sha256": "493db655ee22f1136fd4da8695532dfda93e601ebe1d617bef06c1b7133c4598",
+  "fotos_nuevas": [
+   "scc-or-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Tu proceso — Desde tu primer mensaje hasta tu vuelo de regreso",
+   "descripcion": "Así funciona tu tratamiento con células madre en Medellín: evaluación gratuita, consulta en línea, recogida, día del tratamiento, hotel y seguimiento."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/facial-rejuvenation/",
+  "idioma": "en",
+  "id": 8346,
+  "tipo": "page",
+  "slug": "facial-rejuvenation",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8346__facial-rejuvenation.html",
+  "bytes": 73715,
+  "sha256": "fbdd7dca63a5d206b5ac712cdbb715e466fd0bb996f96e48fb7cb381cc20a8d9",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Facial Rejuvenation with Stem Cells & CO2 Laser in Medellín",
+   "descripcion": "Facial Rejuvenation with Stem Cells & CO2 Laser in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/facilities/",
+  "idioma": "en",
+  "id": 8312,
+  "tipo": "page",
+  "slug": "facilities",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8312__facilities.html",
+  "bytes": 41275,
+  "sha256": "70153640a1f75b40454d005d0f916e27f491bad5458b4bc39df5d15b4b40a551",
+  "fotos_nuevas": [
+   "scc-hotel-workspace-1.jpg",
+   "scc-surgery-table-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Facilities — A Real Operating Room and a 4-Star Hotel in One Building | Stem Cells Colombia",
+   "descripcion": "Incodol treatment center and a 4-star hotel in the same building in El Poblado, Medellín: operating room with ultrasound and fluoroscopic guidance."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/faq/",
+  "idioma": "en",
+  "id": 532,
+  "tipo": "page",
+  "slug": "faq",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/532__faq.html",
+  "bytes": 37259,
+  "sha256": "68e5aa9ffe3d1c6414f3f7c651c40c11a30dbea1b226460c5d101c7ee7e6dc7e",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "FAQ — Stem Cell Therapy in Medellín, Answered Clearly | Stem Cells Colombia",
+   "descripcion": "Answers about stem cell therapy in Medellín: candidates, safety, FDA, results, days, price and follow-up."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/foot-ankle-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8327,
+  "tipo": "page",
+  "slug": "foot-ankle-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8327__foot-ankle-stem-cell-therapy.html",
+  "bytes": 65612,
+  "sha256": "974ef46e438b32ffb520bd11e86f0bcd2ec7c17933fa0c73969afbc26a68bb1c",
+  "fotos_nuevas": [
+   "scc-foot-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Foot & Ankle in Medellín | Stem Cells Colombia",
+   "descripcion": "Stem cells for the ankle, plantar fasciitis and the big toe, ultrasound-guided in the operating room. From $1,750."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/full-body-rejuvenation/",
+  "idioma": "en",
+  "id": 1027,
+  "tipo": "page",
+  "slug": "full-body-rejuvenation",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1027__full-body-rejuvenation.html",
+  "bytes": 68376,
+  "sha256": "83b388106ac3b124600b5edc03ac688a81052c505d899a5da064e7f16c5a6114",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Full-Body Rejuvenation: Stem Cell IV in Medellín",
+   "descripcion": "Full-Body Rejuvenation: Stem Cell IV in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/hair-restoration/",
+  "idioma": "en",
+  "id": 8347,
+  "tipo": "page",
+  "slug": "hair-restoration",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8347__hair-restoration.html",
+  "bytes": 65851,
+  "sha256": "84c355ed9d948c8d9eb4887e823b2443299a57a0bbd5f18f9c54112f35930809",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Hair Restoration with Stem Cells in Medellín",
+   "descripcion": "Hair Restoration with Stem Cells in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/hand-wrist-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8326,
+  "tipo": "page",
+  "slug": "hand-wrist-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
+  "bytes": 65149,
+  "sha256": "c2ec13fe55434e9cbfe9f4ac386d1246ba3fdbde2cc7a7b2ce92792e440da6f6",
+  "fotos_nuevas": [
+   "scc-hand-2.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Hand & Wrist in Medellín | Stem Cells Colombia",
+   "descripcion": "Stem cells for the wrist, the hand and the thumb, ultrasound-guided in the operating room. From $3,790 all-inclusive."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/hip-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8324,
+  "tipo": "page",
+  "slug": "hip-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8324__hip-stem-cell-therapy.html",
+  "bytes": 70846,
+  "sha256": "8636d6ad76703d8e3b9e07f00071036a9efedf5625b1801c1e884340e07fa552",
+  "fotos_nuevas": [
+   "scc-hip-proc-1.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Hips in Medellín — Before a Hip Replacement",
+   "descripcion": "Stem Cell Therapy for Hips in Medellín — Before a Hip Replacement. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/knee-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8307,
+  "tipo": "page",
+  "slug": "knee-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8307__knee-stem-cell-therapy.html",
+  "bytes": 64057,
+  "sha256": "4646f4eaf7269c444d9845fda73f10272039c3e0143e3aa2d3fe8a07932b2770",
+  "fotos_nuevas": [],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Knees in Medellín — Alternative to Knee Replacement",
+   "descripcion": "Stem Cell Therapy for Knees in Medellín — Alternative to Knee Replacement. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/lung-disease-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8336,
+  "tipo": "page",
+  "slug": "lung-disease-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8336__lung-disease-stem-cell-therapy.html",
+  "bytes": 60277,
+  "sha256": "aca99b67c7af87af4fb8c9ca329f8d2e58a579f4cdad3b2feb92d8f219340ccf",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Lung Disease in Medellín | Stem Cells Colombia",
+   "descripcion": "An intravenous and nebulized stem cell and exosome protocol for chronic respiratory conditions, reviewed first by an internist."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/medellin/",
+  "idioma": "en",
+  "id": 634,
+  "tipo": "page",
+  "slug": "medellin",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/634__medellin.html",
+  "bytes": 37867,
+  "sha256": "d240522f53cbdacde3cd833adebe3eaea1f3cace7893631a26c444f53c781bff",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Medellín — The City of Eternal Spring | Stem Cells Colombia",
+   "descripcion": "Medellín, the city of eternal spring: getting here, El Poblado, and a day in the city around your treatment."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/multiple-sclerosis-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8334,
+  "tipo": "page",
+  "slug": "multiple-sclerosis-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
+  "bytes": 61327,
+  "sha256": "970a45a44bea7c239135414b5b9055d83beca03347d0de711704ecef96faf5de",
+  "fotos_nuevas": [
+   "scc-intrathecal-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Multiple Sclerosis in Medellín | Stem Cells Colombia",
+   "descripcion": "IV or intrathecal stem cell protocols for multiple sclerosis in Medellín, after a neurologist review. From $5,850."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/muse/",
+  "idioma": "en",
+  "id": 6130,
+  "tipo": "page",
+  "slug": "muse",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6130__muse.html",
+  "bytes": 22432,
+  "sha256": "dd61a846686ba1ee696273b6d80a41d8a4991e87e35e379d6122f84937e510fa",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "MUSE Cells — The Clinic’s Position | Stem Cells Colombia",
+   "descripcion": "MUSE cells: what they are, and why Stem Cells Colombia does not offer them for now. What is used instead: Wharton’s jelly mesenchymal stem cells."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/nervous-system-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8337,
+  "tipo": "page",
+  "slug": "nervous-system-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
+  "bytes": 73142,
+  "sha256": "94fa508fd7ae6b91da469907ce715d0c13e2433982ff30865ef3b2720ac179fa",
+  "fotos_nuevas": [
+   "scc-intrathecal-4.jpg",
+   "scc-or-6.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Neurological Conditions in Medellín",
+   "descripcion": "Stem Cell Therapy for Neurological Conditions in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/neurodegenerative-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8338,
+  "tipo": "page",
+  "slug": "neurodegenerative-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
+  "bytes": 59970,
+  "sha256": "2996ed09d669a06f6860a2dbc4b0ffe0bb9812b2f581bac401083b9063ba00af",
+  "fotos_nuevas": [
+   "scc-or-4.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Neurodegenerative Conditions in Medellín | Stem Cells Colombia",
+   "descripcion": "Intravenous and intrathecal stem cell protocols for neurodegenerative conditions, aiming to slow progression, after a neurologist review."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/our-stem-cells/",
+  "idioma": "en",
+  "id": 582,
+  "tipo": "page",
+  "slug": "our-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/582__our-stem-cells.html",
+  "bytes": 52947,
+  "sha256": "056d7d9db6e4c862224ecaaaa3d2329fed6808e2ef54cb060a22973a498476b6",
+  "fotos_nuevas": [
+   "scc-syringe-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "The Stem Cells — Wharton’s Jelly Mesenchymal Stem Cells, Explained | Stem Cells Colombia",
+   "descripcion": "Only mesenchymal stem cells from Wharton’s jelly, the tissue of the umbilical cord. How they may help, and how the specialists apply them."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/pricing/",
+  "idioma": "en",
+  "id": 489,
+  "tipo": "page",
+  "slug": "pricing",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/489__pricing.html",
+  "bytes": 36585,
+  "sha256": "aac73e8030e328853766fe07073fd9094eab7e8e8729c67eb615de9a43037fc5",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy Pricing in Medellín — All-Inclusive Starting Prices | Stem Cells Colombia",
+   "descripcion": "All-inclusive starting prices in Medellín: joint from $3,990, back from $5,100, facial with CO2 laser from $2,999, IV from $5,550, Full Body from $12,539."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/privacy-policy/",
+  "idioma": "en",
+  "id": 6598,
+  "tipo": "page",
+  "slug": "privacy-policy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "no_tocar",
+  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+ },
+ {
+  "ruta": "/sexual-health-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8342,
+  "tipo": "page",
+  "slug": "sexual-health-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8342__sexual-health-stem-cell-therapy.html",
+  "bytes": 60392,
+  "sha256": "e48323456aab49495c2059da00d0dcddaf96bdf201ae3c2b6083ee874d4caf6b",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Sexual Health Stem Cell Therapy (P-Shot) in Medellín",
+   "descripcion": "Sexual Health Stem Cell Therapy (P-Shot) in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/shoulder-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8325,
+  "tipo": "page",
+  "slug": "shoulder-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8325__shoulder-stem-cell-therapy.html",
+  "bytes": 75903,
+  "sha256": "0febddcf10a85305632cb82c8723fbd7e7fcf935cbdd1eb77f353c4c4052bc3c",
+  "fotos_nuevas": [
+   "scc-ultrasound-1.jpg"
+  ],
+  "resenas": true,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Shoulders in Medellín",
+   "descripcion": "Stem Cell Therapy for Shoulders in Medellín. All-inclusive, specialist-led, with a free case review."
+  },
+  "ya_en_kx": true
+ },
+ {
+  "ruta": "/sms-policy/",
+  "idioma": "en",
+  "id": 6645,
+  "tipo": "page",
+  "slug": "sms-policy",
+  "plantilla_actual": "",
+  "accion": "no_tocar",
+  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+ },
+ {
+  "ruta": "/sports-injury-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8329,
+  "tipo": "page",
+  "slug": "sports-injury-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8329__sports-injury-stem-cell-therapy.html",
+  "bytes": 62317,
+  "sha256": "e4c2058301d4fbc22304fa6d5ff9b735fc209b566ea978e8b7047bfa207ddbab",
+  "fotos_nuevas": [
+   "scc-knee-proc-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Sports Injuries in Medellín | Stem Cells Colombia",
+   "descripcion": "Stem cells for partial tears of tendons, ligaments and muscles, ultrasound-guided. From $3,790 all-inclusive in Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/stroke-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8339,
+  "tipo": "page",
+  "slug": "stroke-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
+  "bytes": 60154,
+  "sha256": "acffe499a179415370b0eca65223a3f4aadf504c50acd8f78220a155e25821ec",
+  "fotos_nuevas": [
+   "scc-fluoro-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy After a Stroke in Medellín | Stem Cells Colombia",
+   "descripcion": "After a stroke: an intravenous stem cell protocol in Medellín, starting with a neurologist review that designs your plan."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/",
+  "idioma": "en",
+  "id": 625,
+  "tipo": "page",
+  "slug": "team",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/625__team.html",
+  "bytes": 41276,
+  "sha256": "746be9a13fcd29a52180ef490e87ea776c8afe31ea137cac4df16d8c85144f92",
+  "fotos_nuevas": [
+   "scc-or-7.jpg",
+   "team-carvajal-portrait.jpg",
+   "team-martinez-portrait.jpg",
+   "team-mejia-portrait.jpg",
+   "team-reyes-portrait.jpg",
+   "team-salgado-portrait.jpg",
+   "team-tabares-portrait.jpg",
+   "team-toro-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "The Medical Team — Seven Doctors in Medellín | Stem Cells Colombia",
+   "descripcion": "Seven doctors in Medellín: pain medicine, rheumatology, functional medicine, aesthetic medicine and urology. Where they trained and what they do for you."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-alejandro-carvajal/",
+  "idioma": "en",
+  "id": 9313,
+  "tipo": "page",
+  "slug": "dr-alejandro-carvajal",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9313__team__dr-alejandro-carvajal.html",
+  "bytes": 31653,
+  "sha256": "994892d460b8c0df32a9d3c978eb26ccdd0502aea8b0148283247bd08717fe13",
+  "fotos_nuevas": [
+   "team-carvajal-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dr. Alejandro Carvajal — Urology & Andrology Physician | Stem Cells Colombia",
+   "descripcion": "Dr. Alejandro Carvajal, Urologist at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-andres-martinez/",
+  "idioma": "en",
+  "id": 9310,
+  "tipo": "page",
+  "slug": "dr-andres-martinez",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9310__team__dr-andres-martinez.html",
+  "bytes": 33441,
+  "sha256": "af9c820e00a2bc2aeefa38a0e2586ff70a9938694bc76cd7f4848908892344a2",
+  "fotos_nuevas": [
+   "team-martinez-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dr. Andrés Martínez — Rheumatologist | Stem Cells Colombia",
+   "descripcion": "Dr. Andrés Martínez, Rheumatologist at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-diana-reyes/",
+  "idioma": "en",
+  "id": 609,
+  "tipo": "page",
+  "slug": "dr-diana-reyes",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/609__team__dr-diana-reyes.html",
+  "bytes": 35276,
+  "sha256": "579935a06aa84182b33964ba954f6d4a270168ca054b4c0692a895ccbe909a44",
+  "fotos_nuevas": [
+   "team-reyes-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dra. Diana Reyes — Anesthesiologist | Stem Cells Colombia",
+   "descripcion": "Dra. Diana Reyes, Anesthesiologist & pain specialist at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-esteban-toro/",
+  "idioma": "en",
+  "id": 9308,
+  "tipo": "page",
+  "slug": "dr-esteban-toro",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9308__team__dr-esteban-toro.html",
+  "bytes": 34135,
+  "sha256": "580b7a961441a7e37d750dff03972c0a9a69531180c190a105c16112de81461b",
+  "fotos_nuevas": [
+   "team-toro-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dr. Esteban Toro — Interventional Pain Physician | Stem Cells Colombia",
+   "descripcion": "Dr. Esteban Toro, Anesthesiologist & pain management specialist at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-felipe-salgado/",
+  "idioma": "en",
+  "id": 9311,
+  "tipo": "page",
+  "slug": "dr-felipe-salgado",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9311__team__dr-felipe-salgado.html",
+  "bytes": 32927,
+  "sha256": "2bc0f318960bf22eb41fbb91e6538e14357aaa302b9b367ad198ff7d10cd5b3a",
+  "fotos_nuevas": [
+   "team-salgado-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dr. Felipe Salgado — General Physician | Stem Cells Colombia",
+   "descripcion": "Dr. Felipe Salgado, General physician, orthopedics focus at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-luisa-mejia/",
+  "idioma": "en",
+  "id": 9309,
+  "tipo": "page",
+  "slug": "dr-luisa-mejia",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9309__team__dr-luisa-mejia.html",
+  "bytes": 31949,
+  "sha256": "e7eed42c8562f539ac4b3522ac7dfecdc1fc7bac6e7cefc6e1f9dd7213697bb8",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dra. Luisa Mejía — Functional Medicine Physician | Stem Cells Colombia",
+   "descripcion": "Dra. Luisa Mejía, Functional medicine doctor at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/team/dr-marcela-tabares/",
+  "idioma": "en",
+  "id": 9312,
+  "tipo": "page",
+  "slug": "dr-marcela-tabares",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9312__team__dr-marcela-tabares.html",
+  "bytes": 32641,
+  "sha256": "c2de6768956f78154b6ebe2c588e1bd5b4b3b0de7ce9691121ddaa675f710ebf",
+  "fotos_nuevas": [
+   "team-tabares-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dra. Marcela Tabares — Aesthetic & Regenerative Medicine Physician | Stem Cells Colombia",
+   "descripcion": "Dra. Marcela Tabares, Aesthetic doctor at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/terms-and-conditions/",
+  "idioma": "en",
+  "id": 6592,
+  "tipo": "page",
+  "slug": "terms-and-conditions",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "no_tocar",
+  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+ },
+ {
+  "ruta": "/testimonials/",
+  "idioma": "en",
+  "id": 656,
+  "tipo": "page",
+  "slug": "testimonials",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/656__testimonials.html",
+  "bytes": 31840,
+  "sha256": "cdbc9ee54b503fcd5b5556f5f2185fb2fa19a6490aba47896b9c794e2d514745",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Patient Stories — Real Videos and Google Reviews | Stem Cells Colombia",
+   "descripcion": "Real patients in real videos, and Google reviews copied word for word."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/traumatic-brain-injury-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8340,
+  "tipo": "page",
+  "slug": "traumatic-brain-injury-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
+  "bytes": 61947,
+  "sha256": "e8863b85009b3aa1831b4a57918efec892169f01fd4693cd13fc7e76d5011183",
+  "fotos_nuevas": [
+   "scc-intrathecal-2.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Traumatic Brain Injury in Medellín | Stem Cells Colombia",
+   "descripcion": "Stem cell protocols after a traumatic brain injury, IV or intrathecal depending on timing, after a neurologist review."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/treatments/",
+  "idioma": "en",
+  "id": 350,
+  "tipo": "page",
+  "slug": "treatments",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/350__treatments.html",
+  "bytes": 52409,
+  "sha256": "409d24661a634c97b27877a62c297c3dfd58212d5bb74699b90ef351f370761d",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Treatments in Medellín — Every Treatment, Clearly | Stem Cells Colombia",
+   "descripcion": "Every stem cell treatment at Stem Cells Colombia in four categories: joints and spine, systemic, neurological and anti-aging, with starting prices and days."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/your-journey/",
+  "idioma": "en",
+  "id": 8322,
+  "tipo": "page",
+  "slug": "your-journey",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8322__your-journey.html",
+  "bytes": 48170,
+  "sha256": "ac02c812f65f7c6db30882044157246808a68011b247d24b9c5e6d77a23e1009",
+  "fotos_nuevas": [
+   "scc-or-1.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Your Journey — From Your First Message to Your Flight Home | Stem Cells Colombia",
+   "descripcion": "How your stem cell treatment in Medellín works, step by step: free case review, online consultation, airport pickup, treatment day, hotel and follow-up."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/10-essential-questions-to-ask-before-choosing-an-umbilical-cord-stem-cell-treatment-center/",
+  "idioma": "en",
+  "id": 8704,
+  "tipo": "post",
+  "slug": "10-essential-questions-to-ask-before-choosing-an-umbilical-cord-stem-cell-treatment-center",
+  "plantilla_actual": "",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8704__10-essential-questions-to-ask-before-choosing-an-umbilical-cord-stem-cell-treatment-center.html",
+  "bytes": 38089,
+  "sha256": "7ec06f0fabd68bb4b5f63a6dc3f9dbf448d87f6ac6f87f4ea0c914630ec9f1f6",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "10 Questions to Ask a Stem Cell Clinic Before You Book",
+   "descripcion": "Where the cells come from, who applies them, how they reach the right spot, and what the price really covers. Ten questions, and the answers to expect."
+  },
+  "ya_en_kx": false,
+  "aviso": "Hoy su contenido NO trae el header/footer del sitio (plantilla por defecto): se publica con el header/footer de una página de referencia y plantilla elementor_canvas."
+ },
+ {
+  "ruta": "/10-reasons-why-medellin-is-a-top-destination-for-medical-tourism/",
+  "idioma": "en",
+  "id": 6141,
+  "tipo": "post",
+  "slug": "10-reasons-why-medellin-is-a-top-destination-for-medical-tourism",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6141__10-reasons-why-medellin-is-a-top-destination-for-medical-tourism.html",
+  "bytes": 34520,
+  "sha256": "f72564847d70f72f3f869edb56e3cc222350fe89a61bd2c230ac3af5e7f52e9f",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Medical Tourism in Medellín: 10 Reasons to Go",
+   "descripcion": "Mild weather, short flights, bilingual care and one clear price. Ten real reasons people fly to Medellín for treatment, and what to check first."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/alternatives-to-hip-replacement-surgery/",
+  "idioma": "en",
+  "id": 8694,
+  "tipo": "post",
+  "slug": "alternatives-to-hip-replacement-surgery",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8694__alternatives-to-hip-replacement-surgery.html",
+  "bytes": 36131,
+  "sha256": "b35eca895bdcd7f05038421a2b46b3307f04065ac1eeed7a945e20dea0a9e0f4",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Alternatives to Hip Replacement | Stem Cells Colombia",
+   "descripcion": "Exercise, weight, injections and stem cells: the steps worth trying before hip replacement, and how a specialist helps you find the right path for your hip."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/alternatives-to-knee-replacement-surgery/",
+  "idioma": "en",
+  "id": 8693,
+  "tipo": "post",
+  "slug": "alternatives-to-knee-replacement-surgery",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8693__alternatives-to-knee-replacement-surgery.html",
+  "bytes": 36586,
+  "sha256": "c23ffb85d983911c298557027e5b4eba0e66e3a5944de5c044dd3b6031d0bc70",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Alternatives to Knee Replacement Surgery (2026 Guide)",
+   "descripcion": "What to try before a knee replacement, where PRP and stem cells fit, and how a specialist helps you choose the right path for your knee."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/are-umbilical-cord-stem-cells-safe-and-effective/",
+  "idioma": "en",
+  "id": 6309,
+  "tipo": "post",
+  "slug": "are-umbilical-cord-stem-cells-safe-and-effective",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6309__are-umbilical-cord-stem-cells-safe-and-effective.html",
+  "bytes": 36916,
+  "sha256": "fc09225e7b22bdea075c322ebfc9efdd1403a73207684b077044d3322bdf3fa1",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Are Umbilical Cord Stem Cells Safe and Effective?",
+   "descripcion": "Where cord stem cells come from, what large safety reviews found, and why “does it work?” depends on what you want it to work for."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/biohacking-with-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 8696,
+  "tipo": "post",
+  "slug": "biohacking-with-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8696__biohacking-with-stem-cell-therapy.html",
+  "bytes": 35257,
+  "sha256": "95ff58323ed663946e125ad971cf28b0b35a9b6bac0c05e3dd64e59d70dfd4a0",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Biohacking With Stem Cell Therapy: Real vs. Hype",
+   "descripcion": "What mesenchymal stem cells may do for a body that wants to stay strong, where the research is heading, and how to spot a serious program."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/cartilage-damage-in-the-temporomandibular-joint-and-regenerative-medicine-the-emerging-role-of-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6588,
+  "tipo": "post",
+  "slug": "cartilage-damage-in-the-temporomandibular-joint-and-regenerative-medicine-the-emerging-role-of-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6588__cartilage-damage-in-the-temporomandibular-joint-and-regenerative-medicine-the-emerging-role-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 34674,
+  "sha256": "4472cf8cdc6fa112a4fdc35c6dc2669e6e29c8e89f9d3212ab1bd95b1a9f5c90",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "TMJ Cartilage Damage and Stem Cells: The Research",
+   "descripcion": "Clicking, locking, pain when you chew. Why jaw joint cartilage wears down, and what research on mesenchymal stem cells has shown so far."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/exploring-eboo-therapy-benefits-and-applications-in-modern-medicine/",
+  "idioma": "en",
+  "id": 6177,
+  "tipo": "post",
+  "slug": "exploring-eboo-therapy-benefits-and-applications-in-modern-medicine",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6177__exploring-eboo-therapy-benefits-and-applications-in-modern-medicine.html",
+  "bytes": 35547,
+  "sha256": "629343698e162262da3f2b4213046891ff29cefbbb049758fa109c03309a1e6a",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "EBOO Therapy Explained: Evidence and Questions to Ask",
+   "descripcion": "Blood, oxygen and ozone in a closed circuit. What EBOO is, what the research found, and what to ask before you sign up for it."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/exploring-the-potential-of-mesenchymal-stem-cells-from-the-umbilical-cord-in-treating-meniscus-injuries/",
+  "idioma": "en",
+  "id": 1267,
+  "tipo": "post",
+  "slug": "exploring-the-potential-of-mesenchymal-stem-cells-from-the-umbilical-cord-in-treating-meniscus-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1267__exploring-the-potential-of-mesenchymal-stem-cells-from-the-umbilical-cord-in-treating-meniscus-injuries.html",
+  "bytes": 35079,
+  "sha256": "ed8f228f15b35660406c089b054167d9854172296d4c690c3f9091415abf294c",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Meniscus Tears: Physical Therapy, Surgery and Stem Cells",
+   "descripcion": "Why a meniscus heals so poorly, what the usual options are, and what umbilical cord stem cells may add, and what studies have shown."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/harnessing-the-power-of-stem-cells-a-new-era-in-treating-sports-injuries/",
+  "idioma": "en",
+  "id": 1270,
+  "tipo": "post",
+  "slug": "harnessing-the-power-of-stem-cells-a-new-era-in-treating-sports-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1270__harnessing-the-power-of-stem-cells-a-new-era-in-treating-sports-injuries.html",
+  "bytes": 35576,
+  "sha256": "b8a4c421da272a29abc0e4ee6990a841d12bf025eb9b79476df07eb50040d9cf",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Sports Injuries: What the Studies Actually Show",
+   "descripcion": "Why tendons and ligaments heal so slowly, what stem cells are studied to do about it, and what the research has shown so far."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/healing-power-of-umbilical-cord-stem-cells-in-sports-injuries/",
+  "idioma": "en",
+  "id": 6201,
+  "tipo": "post",
+  "slug": "healing-power-of-umbilical-cord-stem-cells-in-sports-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6201__healing-power-of-umbilical-cord-stem-cells-in-sports-injuries.html",
+  "bytes": 35665,
+  "sha256": "55af05c0b29e5e97dd1b680194cc9ec00b5fb454e609e73138ee45e93fe68e41",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Umbilical Cord Stem Cells for Sports Injuries: Precision and Rehab",
+   "descripcion": "Tendons, ligaments and joints heal slowly. Here is what umbilical cord stem cells may add, and what the studies have shown."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/hopeful-advances-umbilical-cord-mesenchymal-stem-cells-for-type-2-diabetes/",
+  "idioma": "en",
+  "id": 6609,
+  "tipo": "post",
+  "slug": "hopeful-advances-umbilical-cord-mesenchymal-stem-cells-for-type-2-diabetes",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6609__hopeful-advances-umbilical-cord-mesenchymal-stem-cells-for-type-2-diabetes.html",
+  "bytes": 35294,
+  "sha256": "939ac266b3b26ccaffb93f92bef3fa169805b56dc49b3880d439626020d0149c",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Umbilical Cord Stem Cells for Type 2 Diabetes: Evidence",
+   "descripcion": "What randomized trials of umbilical cord stem cells in type 2 diabetes found for HbA1c and insulin, and what it means for you."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/how-to-choose-the-best-stem-cell-clinic-for-you-why-stem-cells-colombia-in-medellin-is-the-perfect-choice/",
+  "idioma": "en",
+  "id": 6159,
+  "tipo": "post",
+  "slug": "how-to-choose-the-best-stem-cell-clinic-for-you-why-stem-cells-colombia-in-medellin-is-the-perfect-choice",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6159__how-to-choose-the-best-stem-cell-clinic-for-you-why-stem-cells-colombia-in-medellin-is-the-perfect-choice.html",
+  "bytes": 35430,
+  "sha256": "63b4210647cc73f13ed661893e3603a9f4ced465fe4f929814565397ee0841ba",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "7 Questions to Ask a Stem Cell Clinic, With Stem Cells Colombia's Answers",
+   "descripcion": "Forget the adjectives. Here are seven things you can actually verify about any stem cell clinic before you book a flight, and how Stem Cells Colombia answers each one."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging/",
+  "idioma": "en",
+  "id": 4578,
+  "tipo": "post",
+  "slug": "intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/4578__intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging.html",
+  "bytes": 36007,
+  "sha256": "65a67bfe8356ba5278aabe44ef1a2924ecba5f983c2cf4dd8cb685ea16c7b748",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "IV Stem Cell Therapy for Healthy Aging | What to Expect",
+   "descripcion": "How an intravenous stem cell protocol works, what the research on aging has shown, how safe it is, and what four days in Medellín involve."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment/",
+  "idioma": "en",
+  "id": 6185,
+  "tipo": "post",
+  "slug": "lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6185__lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment.html",
+  "bytes": 35495,
+  "sha256": "bd780417c0854e88790795c05abf5a65eb49b8c1997c6dfdd171f694c2fac9ac",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Lower Back Pain: How They Work",
+   "descripcion": "Your low back pain may start in a disc, a small joint or a nerve. Here is how stem cells are applied to each, and what the research shows."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/mesenchymal-stem-cells-from-whartons-jelly-a-promising-approach-for-arthritis-treatment-2/",
+  "idioma": "en",
+  "id": 6145,
+  "tipo": "post",
+  "slug": "mesenchymal-stem-cells-from-whartons-jelly-a-promising-approach-for-arthritis-treatment-2",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6145__mesenchymal-stem-cells-from-whartons-jelly-a-promising-approach-for-arthritis-treatment-2.html",
+  "bytes": 35777,
+  "sha256": "a38aa2e024088e3c81286cce24016c1fc8f52a0717a64a7afdc4334a057f1589",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Wharton's Jelly Stem Cells for Arthritis",
+   "descripcion": "Wear-and-tear arthritis and rheumatoid arthritis are different problems. Here is how umbilical cord stem cells may help each, and what the trials show."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape/",
+  "idioma": "en",
+  "id": 6183,
+  "tipo": "post",
+  "slug": "neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6183__neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape.html",
+  "bytes": 35375,
+  "sha256": "8d4eb9b55f47426d0798b2fe10f189fdd0bc4168d8f9a5321fafe6ce969c67f6",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Neck Pain: What the Evidence Says",
+   "descripcion": "Discs, facet joints, pinched nerves. Where chronic neck pain comes from, how mesenchymal stem cells are studied for it, and what a good plan looks like."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications/",
+  "idioma": "en",
+  "id": 6163,
+  "tipo": "post",
+  "slug": "one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6163__one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications.html",
+  "bytes": 35450,
+  "sha256": "4d495c40713be2e6a6d5ec534a831e33b39ab1b0bb51c05a21849a35158764f2",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Intradiscal, Epidural and Facet Stem Cell Applications",
+   "descripcion": "Three different doors into the spine. What each application reaches, why the imaging guidance matters, and what the research has shown."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/osteoarthritis-of-the-knee/",
+  "idioma": "en",
+  "id": 4562,
+  "tipo": "post",
+  "slug": "osteoarthritis-of-the-knee",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/4562__osteoarthritis-of-the-knee.html",
+  "bytes": 35752,
+  "sha256": "bda7eeeaf7ecb4233477aeee4c9fe304c89f20340cdc0f9c4d46927cb8239b9f",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Knee Osteoarthritis: Causes, Stages and Treatment Options",
+   "descripcion": "What is really happening inside an arthritic knee, how the stages are graded, and where stem cells fit among the options, in plain words."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6586,
+  "tipo": "post",
+  "slug": "psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6586__psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 35299,
+  "sha256": "a24181cc44e6a5ece092999b5fe0fda0cfb26d9f1c26e32d63a0454c65fa2d09",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Psoriatic Arthritis: What Research Shows",
+   "descripcion": "Psoriatic arthritis is an immune problem that shows up in skin and joints. Here is how umbilical cord stem cells are studied to rebalance it."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment/",
+  "idioma": "en",
+  "id": 6181,
+  "tipo": "post",
+  "slug": "regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6181__regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment.html",
+  "bytes": 35219,
+  "sha256": "a42eb09b850d578e4832fa40656ceb99f579a9d88f85d1000a5bc8d2c8f248df",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy for Back Pain: How It Works",
+   "descripcion": "Discs, facet joints and irritated nerves: the three usual sources of chronic back pain, and how image-guided stem cell therapy aims at each one."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/regenerative-medicine-tools-for-sexual-health-a-deeper-look-into-techniques-and-science/",
+  "idioma": "en",
+  "id": 6147,
+  "tipo": "post",
+  "slug": "regenerative-medicine-tools-for-sexual-health-a-deeper-look-into-techniques-and-science",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6147__regenerative-medicine-tools-for-sexual-health-a-deeper-look-into-techniques-and-science.html",
+  "bytes": 34674,
+  "sha256": "7cddbf19a870979bb1e9b0cd736fd4fa3276492eb72de6399ab96d91b4c9ece1",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Regenerative Medicine for Sexual Health: The Science",
+   "descripcion": "Stem cells, PRP, shockwave therapy, gene therapy. What each regenerative tool for sexual health is, and what the studies found."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 1261,
+  "tipo": "post",
+  "slug": "revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1261__revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 35283,
+  "sha256": "26dc7cff935f1c3593ac7696f5d090c538b93d4893f87f98a86416a667ee46ad",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Herniated Disc Stem Cell Therapy | Stem Cells Colombia",
+   "descripcion": "What a herniated disc really is, why many heal on their own, and where umbilical cord stem cells fit for the ones that don't, with what the studies show."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/rotator-cuff-tears-and-regenerative-medicine-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6571,
+  "tipo": "post",
+  "slug": "rotator-cuff-tears-and-regenerative-medicine-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6571__rotator-cuff-tears-and-regenerative-medicine-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 35320,
+  "sha256": "80f5b514354c741fc990691233c8ec4975dbfaacfaaa7e1af48a38899e7982f4",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Rotator Cuff Tears: When You Need Surgery and Where Stem Cells Fit",
+   "descripcion": "Why rotator cuff tendons fray, how tears are classified, and what umbilical cord stem cells may offer, with the evidence in plain words."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/sacroiliac-joint-dysfunction-and-regenerative-medicine/",
+  "idioma": "en",
+  "id": 6574,
+  "tipo": "post",
+  "slug": "sacroiliac-joint-dysfunction-and-regenerative-medicine",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6574__sacroiliac-joint-dysfunction-and-regenerative-medicine.html",
+  "bytes": 36267,
+  "sha256": "602bd5345936265bc5a894e972fd3bb7a42ef2c65a5e461b74212ef9e31ca6fb",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Sacroiliac Joint Pain and Stem Cells: What to Know",
+   "descripcion": "Pain low in the back, near the dimple of your hip, may come from the sacroiliac joint. What it is, how it is treated, and where stem cells fit."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/spine-surgery-vs-regenerative-medicine/",
+  "idioma": "en",
+  "id": 8695,
+  "tipo": "post",
+  "slug": "spine-surgery-vs-regenerative-medicine",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8695__spine-surgery-vs-regenerative-medicine.html",
+  "bytes": 33992,
+  "sha256": "f913af793efb40f68b5703790a75529b8fee1f7da45d7642967dbc03094e8845",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Spine Surgery vs. Stem Cell Therapy: When Each Fits",
+   "descripcion": "Some spine problems truly need an operation. Many don’t, at least not first. How to tell the difference, and where stem cell therapy fits."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/stem-cell-therapy-colombia-cost/",
+  "idioma": "en",
+  "id": 8697,
+  "tipo": "post",
+  "slug": "stem-cell-therapy-colombia-cost",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
+  "bytes": 32880,
+  "sha256": "482f5d91226de9e5199d6789254aab762bde6fec58fa52ea1aea8055289ab1ff",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy Cost in Colombia (2026) | Stem Cells Colombia",
+   "descripcion": "Starting prices in Medellín, what the price includes, what it doesn't, and the few extras worth knowing before you book a flight."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/stem-cells-in-the-treatment-of-knee-anterior-cruciate-ligament-injuries/",
+  "idioma": "en",
+  "id": 6173,
+  "tipo": "post",
+  "slug": "stem-cells-in-the-treatment-of-knee-anterior-cruciate-ligament-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6173__stem-cells-in-the-treatment-of-knee-anterior-cruciate-ligament-injuries.html",
+  "bytes": 35486,
+  "sha256": "0e7ce478a180ae31799a335b29f25ff3d9c8e6ed6c45ccd98f723024d4f50150",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for ACL Injuries: What the Research Shows",
+   "descripcion": "Torn or strained ACL? How the ligament heals, where surgery fits, and what research on mesenchymal stem cells has found so far."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/strengthening-health-through-partnerships-the-power-of-alliances-at-stem-cells-colombia/",
+  "idioma": "en",
+  "id": 6167,
+  "tipo": "post",
+  "slug": "strengthening-health-through-partnerships-the-power-of-alliances-at-stem-cells-colombia",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6167__strengthening-health-through-partnerships-the-power-of-alliances-at-stem-cells-colombia.html",
+  "bytes": 35055,
+  "sha256": "a369e56bfe7cd87a44fe8f5ea9a81bb9b293a2a9e740375baf92255cf76a03a7",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Medical Alliances in Medellín | Stem Cells Colombia",
+   "descripcion": "A treatment center, a hotel upstairs, imaging nearby and seven specialists. How the pieces of your trip fit together, and why that matters to you."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6582,
+  "tipo": "post",
+  "slug": "systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6582__systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 35512,
+  "sha256": "dd0beb048c95318a5c3a912d42de4bd8f814df20149cab7b3dc624b8f3707a6a",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Rheumatoid Arthritis and Stem Cells: The Evidence",
+   "descripcion": "Why rheumatoid arthritis affects the whole body, how umbilical cord stem cells may help rebalance the immune system, and what trials show so far."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints/",
+  "idioma": "en",
+  "id": 6578,
+  "tipo": "post",
+  "slug": "the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6578__the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints.html",
+  "bytes": 36317,
+  "sha256": "7b027e7eee8f8c8952d7b1224368084ea035c3f6e77616348adcbfdcd296491f",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Rheumatoid Arthritis in the Hands",
+   "descripcion": "Why rheumatoid arthritis targets the small joints of the hands, how umbilical cord stem cells are studied for it, and what trials have found."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-potential-of-umbilical-cord-stem-cells-in-meniscus-injury-treatment/",
+  "idioma": "en",
+  "id": 6171,
+  "tipo": "post",
+  "slug": "the-potential-of-umbilical-cord-stem-cells-in-meniscus-injury-treatment",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6171__the-potential-of-umbilical-cord-stem-cells-in-meniscus-injury-treatment.html",
+  "bytes": 34704,
+  "sha256": "9aed95faa552a73167c4650f1cad2ef14695b022e5771270e746b8d4d766925f",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Umbilical Cord Stem Cells for a Torn Meniscus: Who Is a Candidate",
+   "descripcion": "Your meniscus is the knee’s shock absorber, and it heals poorly. What stem cells may add, what the studies show, and how your specialist chooses the right path."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-power-of-peptides-transforming-health-and-wellness/",
+  "idioma": "en",
+  "id": 6199,
+  "tipo": "post",
+  "slug": "the-power-of-peptides-transforming-health-and-wellness",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6199__the-power-of-peptides-transforming-health-and-wellness.html",
+  "bytes": 35953,
+  "sha256": "cccd076e5d6ecf1cce744f1b2af2428bc7e2c5cc736268d0c8df4a748022edb3",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Peptides for Health: What They Are and What Works",
+   "descripcion": "From insulin to BPC-157: what peptides are, which ones have strong human evidence, which are mostly lab results, and how to think before you try one."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-role-of-umbilical-cord-derived-mesenchymal-stem-cells-in-ligament-injuries/",
+  "idioma": "en",
+  "id": 6580,
+  "tipo": "post",
+  "slug": "the-role-of-umbilical-cord-derived-mesenchymal-stem-cells-in-ligament-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6580__the-role-of-umbilical-cord-derived-mesenchymal-stem-cells-in-ligament-injuries.html",
+  "bytes": 35637,
+  "sha256": "87cca05bdafbc19f14ed877f809845c5b4465e0af62d78f205df576c6ea66b77",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cells for Ligament Injuries | Stem Cells Colombia",
+   "descripcion": "Ligaments have a poor blood supply and tend to heal with scar. What umbilical cord stem cells are studied for in sprains and partial tears."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-therapeutic-potential-of-mesenchymal-stem-cells-from-umbilical-cord-for-systemic-treatment/",
+  "idioma": "en",
+  "id": 1273,
+  "tipo": "post",
+  "slug": "the-therapeutic-potential-of-mesenchymal-stem-cells-from-umbilical-cord-for-systemic-treatment",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1273__the-therapeutic-potential-of-mesenchymal-stem-cells-from-umbilical-cord-for-systemic-treatment.html",
+  "bytes": 34988,
+  "sha256": "2e603b427c080ca18cc7e374254499bf5eda578e6eab692e77f581804725e848",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Systemic Stem Cell Treatment with Umbilical Cord MSCs",
+   "descripcion": "What umbilical cord mesenchymal stem cells are, why they are sometimes given through a vein, what they are studied for, and how safe they look."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome/",
+  "idioma": "en",
+  "id": 6590,
+  "tipo": "post",
+  "slug": "the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6590__the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome.html",
+  "bytes": 35557,
+  "sha256": "c8d93e6f987df2287906c3dd846052a32dd9a2ef1e20050a185181089b0199cc",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Facet Joint Pain and Stem Cells: What to Know",
+   "descripcion": "Facet joints are small joints at the back of your spine that can wear like a knee. How facet pain is found, treated, and where stem cells fit."
+  },
+  "ya_en_kx": false,
+  "aviso": "Hoy su contenido trae 2 <main>: se reemplaza desde el primer <main> hasta el último </main>; revisar en dryRun."
+ },
+ {
+  "ruta": "/top-5-stem-cell-treatment-centers-in-colombia/",
+  "idioma": "en",
+  "id": 6880,
+  "tipo": "post",
+  "slug": "top-5-stem-cell-treatment-centers-in-colombia",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6880__top-5-stem-cell-treatment-centers-in-colombia.html",
+  "bytes": 34379,
+  "sha256": "4e62f7844cecefcbcbd4343302144fc6f1d3d8aec6510673605ff47d44ec0e65",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Clinics in Colombia: How to Evaluate Them",
+   "descripcion": "Forget “top 5” lists. Here are five things you can verify yourself about any stem cell clinic in Colombia, in an afternoon, before you book."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/top-stem-cell-clinics-in-the-world/",
+  "idioma": "en",
+  "id": 6203,
+  "tipo": "post",
+  "slug": "top-stem-cell-clinics-in-the-world",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6203__top-stem-cell-clinics-in-the-world.html",
+  "bytes": 34537,
+  "sha256": "e3c709f4caa4989e95beaa71ef2407474de504c58098bd876bfcfa72f6891c8d",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Top Stem Cell Clinics in the World: How to Judge One Yourself",
+   "descripcion": "Forget top-ten lists. Eight things you can verify yourself before choosing a stem cell clinic, from the cell source to who holds the needle."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/type-1-diabetes-and-regenerative-medicine-the-immunomodulatory-role-of-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6584,
+  "tipo": "post",
+  "slug": "type-1-diabetes-and-regenerative-medicine-the-immunomodulatory-role-of-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6584__type-1-diabetes-and-regenerative-medicine-the-immunomodulatory-role-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 36045,
+  "sha256": "c176446698d9d9a79b3afaf546f77d3f0e8e68f22a760258d5bb29e33981f3b7",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Type 1 Diabetes and Stem Cells | Stem Cells Colombia",
+   "descripcion": "Type 1 diabetes is an immune problem first. How umbilical cord stem cells are studied to calm that attack, what trials found, and what it means for you."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/understanding-aging-and-how-to-reverse-it-becoming-our-own-benjamin-button/",
+  "idioma": "en",
+  "id": 4575,
+  "tipo": "post",
+  "slug": "understanding-aging-and-how-to-reverse-it-becoming-our-own-benjamin-button",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/4575__understanding-aging-and-how-to-reverse-it-becoming-our-own-benjamin-button.html",
+  "bytes": 36254,
+  "sha256": "3aea41567b736bdca4155b7b3c1498caeecf75a860e171632087a3dfb83d266b",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Why Humans Age: Senescence, Inflammation and Stem Cells",
+   "descripcion": "Why cells age, what tired senescent cells have to do with it, and where stem cells and other approaches fit, without the movie magic."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/understanding-harnessing-the-power-of-umbilical-cord-derived-mesenchymal-stem-cells-for-rotator-cuff-injuries/",
+  "idioma": "en",
+  "id": 1264,
+  "tipo": "post",
+  "slug": "understanding-harnessing-the-power-of-umbilical-cord-derived-mesenchymal-stem-cells-for-rotator-cuff-injuries",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/1264__understanding-harnessing-the-power-of-umbilical-cord-derived-mesenchymal-stem-cells-for-rotator-cuff-injuries.html",
+  "bytes": 34615,
+  "sha256": "cb58504fdc849627dc7a660eaa2dd34d6b481b4bff7cd3a128ea0c51fed63361",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Rotator Cuff Injuries: Why They Heal Slowly and What Stem Cell Studies Show",
+   "descripcion": "Why rotator cuff tendons heal slowly, which tears may be treated without surgery, and what studies of stem cells in the shoulder have found."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/understanding-how-stem-cell-therapies-work/",
+  "idioma": "en",
+  "id": 6311,
+  "tipo": "post",
+  "slug": "understanding-how-stem-cell-therapies-work",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6311__understanding-how-stem-cell-therapies-work.html",
+  "bytes": 34463,
+  "sha256": "b8a75d62b5aefacdfd8d143d73ced1239790951d9086e4e9df29a6481ee5f889",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "How Stem Cell Therapy Works, in Plain English",
+   "descripcion": "Not by turning into new body parts. Mesenchymal stem cells work mostly by sending signals. Here is what happens after the injection, step by step."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/understanding-the-cost-of-stem-cell-treatments-around-the-world/",
+  "idioma": "en",
+  "id": 6169,
+  "tipo": "post",
+  "slug": "understanding-the-cost-of-stem-cell-treatments-around-the-world",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6169__understanding-the-cost-of-stem-cell-treatments-around-the-world.html",
+  "bytes": 34247,
+  "sha256": "d429886bea5af52ee185ca441db111ba72617e391106b2a2b504f479b2b70d26",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Therapy Cost: How to Compare Quotes",
+   "descripcion": "Why the same stem cell treatment can cost wildly different amounts, what actually drives the price, and how to compare quotes line by line."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/understanding-the-epigenetic-test-what-it-is-and-how-it-can-benefit-your-life/",
+  "idioma": "en",
+  "id": 6143,
+  "tipo": "post",
+  "slug": "understanding-the-epigenetic-test-what-it-is-and-how-it-can-benefit-your-life",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6143__understanding-the-epigenetic-test-what-it-is-and-how-it-can-benefit-your-life.html",
+  "bytes": 34824,
+  "sha256": "736f8d2f1795f3cdbe509ff1b562d2c0e12108c6188b617111071efc558df13c",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Epigenetic Testing Explained | Stem Cells Colombia",
+   "descripcion": "Your DNA is the script; epigenetics is how it is being performed. What an epigenetic test measures, what the numbers mean, and how to use them wisely."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/unlocking-longevity-and-better-health-with-umbilical-cord-derived-mesenchymal-stem-cells/",
+  "idioma": "en",
+  "id": 6149,
+  "tipo": "post",
+  "slug": "unlocking-longevity-and-better-health-with-umbilical-cord-derived-mesenchymal-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6149__unlocking-longevity-and-better-health-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
+  "bytes": 35647,
+  "sha256": "10b7935c3a4de224a79e19919c108a03f92ca5a1d22ae130173f29037229befc",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Longevity and Umbilical Cord Stem Cells: A Clear Guide",
+   "descripcion": "Healthspan, not just lifespan: what umbilical cord stem cells may add to a longevity plan, and how to track the results."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/vertebral-compression-fractures-and-how-stem-cells-can-help/",
+  "idioma": "en",
+  "id": 6576,
+  "tipo": "post",
+  "slug": "vertebral-compression-fractures-and-how-stem-cells-can-help",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6576__vertebral-compression-fractures-and-how-stem-cells-can-help.html",
+  "bytes": 35046,
+  "sha256": "0cfd9631e9e6a6e24e5409110e427dbbce8f7f791fd9ea7d718ef3c39e16262d",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Vertebral Compression Fractures and Stem Cells",
+   "descripcion": "When a weakened vertebra collapses, the usual care focuses on pain and stability. What research on Wharton’s jelly stem cells adds."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/what-are-stem-cells/",
+  "idioma": "en",
+  "id": 6313,
+  "tipo": "post",
+  "slug": "what-are-stem-cells",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6313__what-are-stem-cells.html",
+  "bytes": 34915,
+  "sha256": "9222fad898a27d5ed621842070e53ef172cb2e2ecdca91527c1c64c355b212f2",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "What Are Stem Cells? A Plain-English Guide",
+   "descripcion": "Two superpowers, four main families, and one common mix-up about the umbilical cord. Everything you need to follow the stem cell conversation."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/what-types-of-stem-cells-exist/",
+  "idioma": "en",
+  "id": 6315,
+  "tipo": "post",
+  "slug": "what-types-of-stem-cells-exist",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6315__what-types-of-stem-cells-exist.html",
+  "bytes": 35090,
+  "sha256": "f92d2ab49da0c8b03b33b9a973a02e423122da427045d4f6a33b09cafda9ccd3",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Types of Stem Cells Explained: A Plain-English Guide",
+   "descripcion": "Embryonic, adult, induced, cord blood, Wharton’s jelly, Muse. What each kind of stem cell is, where it comes from and how it is used today."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/why-choose-stem-cells-colombia-in-medellin-for-your-stem-cell-therapy/",
+  "idioma": "en",
+  "id": 6151,
+  "tipo": "post",
+  "slug": "why-choose-stem-cells-colombia-in-medellin-for-your-stem-cell-therapy",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6151__why-choose-stem-cells-colombia-in-medellin-for-your-stem-cell-therapy.html",
+  "bytes": 36482,
+  "sha256": "8afddaa38d10471263f1197369cb2de362d0b66b01769b2272f10d59098a13ce",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Why Choose Stem Cells Colombia in Medellín",
+   "descripcion": "One cell source, the right specialist for your case, a real operating room with the hotel upstairs, and one price in writing. What that looks like for you."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/why-fewer-passages-less-replication-is-bette/",
+  "idioma": "en",
+  "id": 6877,
+  "tipo": "post",
+  "slug": "why-fewer-passages-less-replication-is-bette",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6877__why-fewer-passages-less-replication-is-bette.html",
+  "bytes": 35996,
+  "sha256": "d45bd052c8d6e9704c1564a05ee22c818037ef80083cb3ebf5b374aee6112a46",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Passages Explained: Why Fewer Is Better",
+   "descripcion": "What a cell passage is, why cells grown for too long get tired, and the questions worth asking about how any stem cell product is made."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/why-people-choose-medellin-colombia-over-mexico-costa-rica-or-panama-for-stem-cell-treatment/",
+  "idioma": "en",
+  "id": 6307,
+  "tipo": "post",
+  "slug": "why-people-choose-medellin-colombia-over-mexico-costa-rica-or-panama-for-stem-cell-treatment",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6307__why-people-choose-medellin-colombia-over-mexico-costa-rica-or-panama-for-stem-cell-treatment.html",
+  "bytes": 33797,
+  "sha256": "43c2562e5dcb1170c56671ec7560f8ede45238486517216e8fe6e75f5e29b294",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Stem Cell Treatment Abroad: How to Choose Where to Go",
+   "descripcion": "The country matters less than the clinic. Five questions to ask anywhere, and what the trip looks like if you choose Medellín."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/why-umbilical-cord-stem-cells-outperform-fat-and-bone-marrow-sources/",
+  "idioma": "en",
+  "id": 6153,
+  "tipo": "post",
+  "slug": "why-umbilical-cord-stem-cells-outperform-fat-and-bone-marrow-sources",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6153__why-umbilical-cord-stem-cells-outperform-fat-and-bone-marrow-sources.html",
+  "bytes": 35567,
+  "sha256": "bdc31227fe6e30493f00fcc57a6ee50c3b9154528478d6d30985e79a1514bac7",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Umbilical Cord vs. Fat vs. Bone Marrow Stem Cells",
+   "descripcion": "Mesenchymal stem cells can come from three places. Here is how umbilical cord tissue compares and what lab studies show."
+  },
+  "ya_en_kx": false
+ },
+ {
+  "ruta": "/category/blog/",
+  "idioma": "en",
+  "accion": "tema",
+  "motivo": "Es el archivo del blog: lo arma el tema de WordPress, no una página. Se deja como está."
+ }
+]

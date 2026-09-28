@@ -1,0 +1,274 @@
+[
+ {
+  "archivo": "scc-fluoro-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-acv/",
+   "/stroke-stem-cell-therapy/"
+  ],
+  "bytes": 160067
+ },
+ {
+  "archivo": "scc-foot-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-pie-tobillo/",
+   "/foot-ankle-stem-cell-therapy/"
+  ],
+  "bytes": 150331
+ },
+ {
+  "archivo": "scc-hand-2.jpg",
+  "rutas": [
+   "/es/celulas-madre-mano-muneca/",
+   "/hand-wrist-stem-cell-therapy/"
+  ],
+  "bytes": 244606
+ },
+ {
+  "archivo": "scc-hand-3.jpg",
+  "rutas": [
+   "/arthritis-stem-cell-therapy/",
+   "/es/celulas-madre-artritis/"
+  ],
+  "bytes": 238338
+ },
+ {
+  "archivo": "scc-hip-proc-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-cadera/",
+   "/hip-stem-cell-therapy/"
+  ],
+  "bytes": 264119
+ },
+ {
+  "archivo": "scc-hotel-workspace-1.jpg",
+  "rutas": [
+   "/es/instalaciones/",
+   "/facilities/"
+  ],
+  "bytes": 99584
+ },
+ {
+  "archivo": "scc-intrathecal-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-esclerosis-multiple/",
+   "/multiple-sclerosis-stem-cell-therapy/"
+  ],
+  "bytes": 251547
+ },
+ {
+  "archivo": "scc-intrathecal-2.jpg",
+  "rutas": [
+   "/es/celulas-madre-lesion-cerebral/",
+   "/traumatic-brain-injury-stem-cell-therapy/"
+  ],
+  "bytes": 169342
+ },
+ {
+  "archivo": "scc-intrathecal-4.jpg",
+  "rutas": [
+   "/es/celulas-madre-sistema-nervioso/",
+   "/nervous-system-stem-cell-therapy/"
+  ],
+  "bytes": 233125
+ },
+ {
+  "archivo": "scc-knee-app-1.jpg",
+  "rutas": [
+   "/",
+   "/es/inicio/"
+  ],
+  "bytes": 87382
+ },
+ {
+  "archivo": "scc-knee-proc-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-lesiones-deportivas/",
+   "/sports-injury-stem-cell-therapy/"
+  ],
+  "bytes": 250589
+ },
+ {
+  "archivo": "scc-or-1.jpg",
+  "rutas": [
+   "/es/tu-proceso/",
+   "/your-journey/"
+  ],
+  "bytes": 195725
+ },
+ {
+  "archivo": "scc-or-2.jpg",
+  "rutas": [
+   "/about/",
+   "/es/sobre-nosotros/"
+  ],
+  "bytes": 208932
+ },
+ {
+  "archivo": "scc-or-3.jpg",
+  "rutas": [
+   "/",
+   "/es/inicio/"
+  ],
+  "bytes": 154483
+ },
+ {
+  "archivo": "scc-or-4.jpg",
+  "rutas": [
+   "/es/celulas-madre-neurodegenerativas/",
+   "/neurodegenerative-stem-cell-therapy/"
+  ],
+  "bytes": 115807
+ },
+ {
+  "archivo": "scc-or-6.jpg",
+  "rutas": [
+   "/es/celulas-madre-sistema-nervioso/",
+   "/nervous-system-stem-cell-therapy/"
+  ],
+  "bytes": 200037
+ },
+ {
+  "archivo": "scc-or-7.jpg",
+  "rutas": [
+   "/es/equipo/",
+   "/team/"
+  ],
+  "bytes": 209684
+ },
+ {
+  "archivo": "scc-or-8.jpg",
+  "rutas": [
+   "/diabetes-stem-cell-therapy/",
+   "/es/celulas-madre-diabetes/"
+  ],
+  "bytes": 110971
+ },
+ {
+  "archivo": "scc-or-9.jpg",
+  "rutas": [
+   "/about/",
+   "/es/sobre-nosotros/"
+  ],
+  "bytes": 219103
+ },
+ {
+  "archivo": "scc-spine-or-1.jpg",
+  "rutas": [
+   "/",
+   "/es/inicio/"
+  ],
+  "bytes": 184342
+ },
+ {
+  "archivo": "scc-spine-or-2.jpg",
+  "rutas": [
+   "/back-neck-pain-stem-cell-therapy/",
+   "/es/celulas-madre-espalda-cuello/"
+  ],
+  "bytes": 229345
+ },
+ {
+  "archivo": "scc-surgery-table-1.jpg",
+  "rutas": [
+   "/es/instalaciones/",
+   "/facilities/"
+  ],
+  "bytes": 127269
+ },
+ {
+  "archivo": "scc-syringe-1.jpg",
+  "rutas": [
+   "/es/nuestras-celulas-madre/",
+   "/our-stem-cells/"
+  ],
+  "bytes": 110287
+ },
+ {
+  "archivo": "scc-ultrasound-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-hombro/",
+   "/shoulder-stem-cell-therapy/"
+  ],
+  "bytes": 130361
+ },
+ {
+  "archivo": "team-carvajal-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-alejandro-carvajal/"
+  ],
+  "bytes": 95755
+ },
+ {
+  "archivo": "team-martinez-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-andres-martinez/"
+  ],
+  "bytes": 178817
+ },
+ {
+  "archivo": "team-mejia-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-luisa-mejia/"
+  ],
+  "bytes": 98403
+ },
+ {
+  "archivo": "team-reyes-portrait.jpg",
+  "rutas": [
+   "/",
+   "/about/",
+   "/es/dra-diana-reyes-es/",
+   "/es/equipo/",
+   "/es/inicio/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-diana-reyes/"
+  ],
+  "bytes": 91642
+ },
+ {
+  "archivo": "team-salgado-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-felipe-salgado/"
+  ],
+  "bytes": 62363
+ },
+ {
+  "archivo": "team-tabares-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-marcela-tabares/"
+  ],
+  "bytes": 56034
+ },
+ {
+  "archivo": "team-toro-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/team/",
+   "/team/dr-esteban-toro/"
+  ],
+  "bytes": 105154
+ }
+]
