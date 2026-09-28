@@ -1801,6 +1801,25 @@ body:has(#kx){padding-bottom:84px}
 /* nota de redireccion propuesta */
 #kx .kxe-gone{min-height:62vh;display:grid;place-items:center;text-align:center}
 #kx .kxe-gone code{display:inline-block;margin:6px 0;padding:6px 12px;border-radius:10px;background:rgba(255,255,255,.1);color:var(--mint);font-size:15px}
+/* blog: indice por temas */
+#kx .kxe-chips2 a{padding:11px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.22);background:rgba(255,255,255,.05);color:#fff;font:600 14px/1 Poppins,sans-serif;text-decoration:none;transition:all .2s}
+#kx .kxe-chips2 a:hover{background:var(--aqua);border-color:var(--aqua);color:#051628}
+#kx .kxe-feats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:40px}
+#kx .kxe-feat{display:flex;flex-direction:column;gap:10px;min-height:200px;padding:26px;border-radius:24px;background:linear-gradient(155deg,#0a2a52,#11407a);color:#fff;text-decoration:none;transition:transform .3s,box-shadow .3s}
+#kx .kxe-feat:hover{transform:translateY(-5px);box-shadow:0 30px 60px -30px rgba(10,42,82,.7)}
+#kx .kxe-feat small{font:700 11.5px/1 Poppins,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mint)}
+#kx .kxe-feat b{font:800 21px/1.25 Poppins,sans-serif;flex:1}
+#kx .kxe-feat i{font-style:normal;font:700 14px/1 Poppins,sans-serif;color:var(--mint)}
+#kx .kxe-topics{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
+#kx .kxe-topic{padding:24px 24px 14px;border-radius:24px;background:#fff;border:1px solid var(--line);scroll-margin-top:130px}
+#kx .kxe-topic__h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+#kx .kxe-topic__h em{font-style:normal;font:700 13px/1 Poppins,sans-serif;color:var(--ocean);margin-left:6px}
+#kx .kxe-topic__h a{font:700 13.5px/1 Poppins,sans-serif;color:var(--ocean);text-decoration:none;white-space:nowrap}
+#kx .kxe-topic__l a{display:flex;justify-content:space-between;gap:14px;padding:13px 0;border-bottom:1px dashed var(--line);color:var(--deep);text-decoration:none;font:600 15.5px/1.4 "Source Sans 3",sans-serif}
+#kx .kxe-topic__l a:last-child{border-bottom:0}
+#kx .kxe-topic__l a i{font-style:normal;color:var(--ocean);transition:transform .2s}
+#kx .kxe-topic__l a:hover{color:var(--ocean)}#kx .kxe-topic__l a:hover i{transform:translateX(4px)}
+@media (max-width:900px){#kx .kxe-feats,#kx .kxe-topics{grid-template-columns:1fr}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
