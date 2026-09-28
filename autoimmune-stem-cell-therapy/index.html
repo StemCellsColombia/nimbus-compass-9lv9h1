@@ -2187,6 +2187,32 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-hrev figcaption span{font-size:14.5px;color:var(--mut)}
 #kx .kxe-hrev--big figcaption span{color:var(--mint)}
 @media (max-width:860px){#kx .kxe-hrevs{grid-template-columns:1fr}#kx .kxe-hrev--big{grid-row:auto}}
+/* home: las celulas en su punto maximo (Passage 3–4) — Mia 28-sep */
+#kx .kxe-peak__grid{display:grid;grid-template-columns:1fr 1.05fr;gap:56px;align-items:center}
+#kx .kxe-peak .kx-p b{color:var(--mint)}
+#kx .kxe-peak__side{display:flex;flex-direction:column;gap:16px}
+#kx .kxe-pk{padding:26px 26px 22px;border-radius:24px;background:rgba(9,35,68,.55);border:1px solid rgba(126,240,217,.22);box-shadow:0 30px 70px -40px rgba(0,0,0,.7);backdrop-filter:blur(8px)}
+#kx .kxe-pk__t{margin:0 0 18px;font:700 12.5px/1.3 Poppins,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.62)}
+#kx .kxe-pk__track{display:grid;grid-template-columns:repeat(10,1fr);gap:6px;align-items:end;height:112px}
+#kx .kxe-pk__seg{position:relative;display:flex;align-items:flex-end;justify-content:center;height:46%;border-radius:10px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.1)}
+#kx .kxe-pk__seg:nth-child(n+5){background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,.03))}
+#kx .kxe-pk__seg.is-early{height:30%}
+#kx .kxe-pk__seg.is-peak{height:100%;background:linear-gradient(180deg,var(--mint),var(--aqua));border:0;box-shadow:0 0 34px rgba(126,240,217,.55);animation:kxePeak 3s ease-in-out infinite}
+@keyframes kxePeak{50%{box-shadow:0 0 12px rgba(126,240,217,.25)}}
+#kx .kxe-pk__seg i{font:700 12px/1 Poppins,sans-serif;font-style:normal;color:rgba(255,255,255,.55);padding-bottom:8px}
+#kx .kxe-pk__seg.is-peak i{color:#05223a;font-size:15px}
+#kx .kxe-pk__legend{display:grid;grid-template-columns:1fr 1.3fr 1fr;gap:10px;margin-top:16px}
+#kx .kxe-pk__legend span{font-size:13.5px;line-height:1.35;color:rgba(255,255,255,.6)}
+#kx .kxe-pk__legend b{display:block;font:800 16px/1.2 Poppins,sans-serif;color:#fff;margin-bottom:2px}
+#kx .kxe-pk__legend .is-peak{color:var(--mint)}
+#kx .kxe-pk__legend .is-peak b{color:var(--mint)}
+#kx .kxe-pk__tiles{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:12px}
+#kx .kxe-pk__tiles li{padding:16px 18px;border-radius:18px;background:rgba(9,35,68,.45);border:1px solid rgba(255,255,255,.08);border-left:3px solid var(--aqua)}
+#kx .kxe-pk__tiles b{display:block;font:700 15.5px/1.25 Poppins,sans-serif;color:#fff;margin-bottom:5px}
+#kx .kxe-pk__tiles span{font-size:14.5px;line-height:1.45;color:rgba(255,255,255,.7)}
+@media (max-width:980px){#kx .kxe-peak__grid{grid-template-columns:1fr;gap:34px}}
+@media (max-width:560px){#kx .kxe-pk__tiles{grid-template-columns:1fr}#kx .kxe-pk__track{gap:4px;height:96px}#kx .kxe-pk__seg i{font-size:10.5px}#kx .kxe-pk{padding:20px 16px}}
+@media (prefers-reduced-motion:reduce){#kx .kxe-pk__seg.is-peak{animation:none}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
