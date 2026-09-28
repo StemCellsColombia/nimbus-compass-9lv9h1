@@ -2136,6 +2136,45 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-revs--in .kx-quote figcaption{color:#46586b}#kx .kxe-revs--in .kx-quote figcaption b{color:var(--deep)}
 /* home en celular: que no se corte la cara de la doctora */
 @media (max-width:980px){#kx.kxe-home .kx-hero__bg img{object-position:14% 30%!important}}
+/* ===== home (28-sep): la historia del home en vivo, en kx ===== */
+#kx .kxe-specs{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+#kx .kxe-spec{display:flex;flex-direction:column;border-radius:28px;overflow:hidden;background:#fff;box-shadow:0 34px 70px -46px rgba(10,42,82,.55);border:1px solid var(--line)}
+#kx .kxe-spec__pic{position:relative;height:clamp(220px,24vw,320px)}
+#kx .kxe-spec__pic img{width:100%;height:100%;object-fit:cover}
+#kx .kxe-spec__pic span{position:absolute;left:18px;bottom:16px;padding:9px 14px;border-radius:999px;background:rgba(6,24,44,.78);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);color:#fff;font:700 15px/1 Poppins,sans-serif}
+#kx .kxe-spec__txt{padding:26px 28px 30px;display:flex;flex-direction:column;gap:14px;flex:1}
+#kx .kxe-spec__txt h3{margin:0;font:800 clamp(24px,2.4vw,32px)/1.15 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-spec__txt p{margin:0;font-size:17.5px;line-height:1.55;color:#33475c}
+#kx .kxe-spec__tags{display:flex;flex-wrap:wrap;gap:8px}
+#kx .kxe-spec__tags a{padding:8px 13px;border-radius:999px;background:var(--mist,#eef5fa);color:var(--deep);text-decoration:none;font:600 14px/1 Poppins,sans-serif}
+#kx .kxe-spec__txt .kx-btn{margin-top:auto;align-self:flex-start}
+#kx .kxe-whywrap{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(28px,4vw,64px);align-items:center}
+#kx .kxe-why{display:grid;gap:14px}
+#kx .kxe-why div{padding:22px 24px;border-radius:22px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14)}
+#kx .kxe-why b{display:block;font:800 clamp(28px,3vw,40px)/1 Poppins,sans-serif;color:#fff}
+#kx .kxe-why span{display:block;margin-top:8px;color:rgba(255,255,255,.75);font-size:16px}
+#kx .kxe-alsos{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+#kx .kxe-also{position:relative;display:flex;flex-direction:column;gap:10px;padding:26px;border-radius:26px;background:linear-gradient(160deg,#0a2240,#11406f);color:#fff;text-decoration:none;overflow:hidden;min-height:280px}
+#kx .kxe-also__art{position:absolute;right:-30px;top:-30px;width:170px;height:170px;opacity:.35}
+#kx .kxe-also__art svg{width:100%;height:100%}
+#kx .kxe-also b{font:800 23px/1.2 Poppins,sans-serif;position:relative}
+#kx .kxe-also p{margin:0;color:rgba(255,255,255,.8);font-size:16.5px;line-height:1.5;position:relative}
+#kx .kxe-also em{font-style:normal;color:var(--mint);font:700 16px/1 Poppins,sans-serif;margin-top:auto}
+#kx .kxe-also i{font-style:normal;font:700 15px/1 Poppins,sans-serif}
+#kx .kxe-cellsl{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+#kx .kxe-cellsl li{padding:18px 20px;border-radius:18px;background:rgba(255,255,255,.06);border-left:3px solid var(--aqua);color:rgba(255,255,255,.78);font-size:16px}
+#kx .kxe-cellsl b{display:block;color:#fff;font:700 18px/1.3 Poppins,sans-serif;margin-bottom:4px}
+#kx .kxe-lead{display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(28px,4vw,64px);align-items:center}
+#kx .kxe-lead__pic{margin:0;border-radius:30px;overflow:hidden;box-shadow:0 40px 80px -46px rgba(10,42,82,.6)}
+#kx .kxe-lead__pic img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 25%;display:block}
+#kx .kxe-proto{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+#kx .kxe-proto li{padding:22px;border-radius:22px;background:#fff;border:1px solid var(--line);display:flex;flex-direction:column;gap:10px}
+#kx .kxe-proto span{width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(135deg,var(--aqua),var(--ocean));color:#fff;font:800 17px Poppins,sans-serif}
+#kx .kxe-proto b{font:700 18px/1.25 Poppins,sans-serif;color:var(--deep)}
+#kx .kxe-proto p{margin:0;font-size:16px;line-height:1.5;color:#33475c}
+#kx .kxe-expband{background:radial-gradient(900px 500px at 50% 0%,rgba(55,198,208,.2),transparent 65%),linear-gradient(180deg,#061a30,#0b2a4d)}
+@media (max-width:980px){#kx .kxe-specs,#kx .kxe-whywrap,#kx .kxe-lead{grid-template-columns:1fr}#kx .kxe-alsos{grid-template-columns:1fr}#kx .kxe-proto{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){#kx .kxe-proto{grid-template-columns:1fr}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -2308,7 +2347,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"Amazing customer service leading up to the procedure as well as after."</blockquote><figcaption><b>Tyson G.</b> · Reseña de Google</figcaption></figure>
 <figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>"Great customer service, very professional, high-quality treatment and more competitive price than other clinics."</blockquote><figcaption><b>Alec D.</b> · Reseña de Google</figcaption></figure>
 </div>
-<div class="kx-reviews kx-r"><div class="kxe-revs kxe-revs--in"><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“From start to finish, Stem Cells Columbia was remarkable. Mia handled everything in advance making the trip very easy. She was waiting for us at the airport with multiple drivers to transport our group. Upon arrival at the hotel, check in was easy, rooms were spacious, modern, and clean. The attached mall seems endless and has something for everyone. For our treatments, Mia met us each morning and walked us to the Medical Tower which is at the far end of the mall. Very easy to walk and you can even grab coffee on the way. Between the 6 people in our group, we had a variety of joints, IVs, P shots, and facial rejuvenatiion. All procedures went well with but with the expected soreness afterwards. In our free time, Mia arranged a driver and tour guide to show us the beautiful countryside and towns. From ages 14-81 everyone was enjoying the vacation. We are back home and feeling better than before, getting better and stronger each day. If you are hesitant to go to Medellín, don’t be. If you are hesitant to use Stem Cells Columbia, don’t be! It was a great experience and family vacation all in one!”</blockquote><figcaption><b>Catherine M.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Mia was excellent. Great customer service, very professional, high-quality treatment and more competitive price than other clinics.”</blockquote><figcaption><b>Alec D.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Amazing customer service leading up to the procedure as well as after. Loved working with Mia :)”</blockquote><figcaption><b>Tyson G.</b> · Reseña de Google</figcaption></figure></div></div>
+<div class="kx-reviews kx-r"><div class="kxe-revs kxe-revs--in"><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“It was a great experienced ,the staff is wonderful ,all ways paying attention to you on what is going on, if it all works out for me ,I have type 2 Diabetes,I just have to stay with my diet ,,I will recommend this to everyone that needs a little help to get over the fence”</blockquote><figcaption><b>Michael D.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Mia was excellent. Great customer service, very professional, high-quality treatment and more competitive price than other clinics.”</blockquote><figcaption><b>Alec D.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Amazing customer service leading up to the procedure as well as after. Loved working with Mia :)”</blockquote><figcaption><b>Tyson G.</b> · Reseña de Google</figcaption></figure></div></div>
 </div>
 </section>
 <section class="kx-sec kx-mist" id="kx-price">
