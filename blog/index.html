@@ -1938,6 +1938,12 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-orbit__ic path{fill:none;stroke:#fff}
 #kx .kx-hero__bg .kxe-orbit{top:8%;bottom:auto;height:84%;width:auto;transform:none;right:4%}
 @media (max-width:900px){#kx .kx-hero__bg .kxe-orbit{right:-25%}}
+/* home: foto real del equipo en el hero (28-sep), con menos fundido para que se vea la doctora */
+#kx.kxe-home .kx-hero__bg img{width:58%;right:0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 22%);mask-image:linear-gradient(90deg,transparent,#000 22%);filter:saturate(.95) brightness(.92)}
+#kx.kxe-home .kx-hero__bg::after{background:linear-gradient(90deg,#051628 38%,rgba(5,22,40,.55) 55%,rgba(5,22,40,.05) 75%),linear-gradient(0deg,#051628,transparent 26%)}
+@media (max-width:900px){#kx.kxe-home .kx-hero__bg img{width:100%;opacity:.4}#kx.kxe-home .kx-hero__bg::after{background:linear-gradient(180deg,rgba(5,22,40,.45),#051628 85%)}}
+#kx.kxe-home .kx-glass--2{display:none}
+#kx.kxe-home .kx-hero__bg::after{background:linear-gradient(90deg,#051628 36%,rgba(5,22,40,.4) 50%,rgba(5,22,40,0) 62%),linear-gradient(0deg,#051628,transparent 24%)}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
