@@ -2038,6 +2038,55 @@ body:has(#kx){padding-bottom:84px}
 #kx .kxe-aboutteam small{font-size:14px;color:var(--mut);line-height:1.3}
 @media (max-width:900px){#kx .kxe-aboutteam{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:560px){#kx .kxe-aboutteam{grid-template-columns:repeat(2,1fr)}}
+/* ===== Variantes de hero (28-sep, Alejo: "que no todos los inicios se vean igual") =====
+   Se asignan por ruta en sitio.HV; el hero kx original queda para la home y las 12 puertas. */
+/* V1 · claro editorial: fondo claro, foto enmarcada a la derecha */
+#kx .kx-hero.kxe-hv-light{background:linear-gradient(160deg,#f5fafd 0%,#e6f1f7 100%);color:var(--deep);min-height:auto}
+#kx .kxe-hv-light .kx-hero__bg{left:auto;right:max(24px,calc((100vw - 1240px)/2));top:48px;bottom:48px;width:min(44vw,560px);border-radius:32px;overflow:hidden;box-shadow:0 40px 80px -46px rgba(10,42,82,.55)}
+#kx .kxe-hv-light .kx-hero__bg img{inset:0;right:0;width:100%;height:100%;-webkit-mask-image:none;mask-image:none;opacity:1}
+#kx .kxe-hv-light .kx-hero__bg::after{background:linear-gradient(0deg,rgba(5,22,40,.28),transparent 45%)}
+#kx .kxe-hv-light .kx-orb,#kx .kxe-hv-light .kx-gridbg,#kx .kxe-hv-light .kx-hero__cards,#kx .kxe-hv-light .kx-marquee{display:none}
+#kx .kxe-hv-light .kx-hero__in{grid-template-columns:minmax(0,1fr) min(44vw,560px);padding:clamp(64px,7vw,104px) 0}
+#kx .kxe-hv-light .kx-h1{color:var(--deep);font-size:clamp(40px,4.8vw,68px)}
+#kx .kxe-hv-light .kx-grad{background-image:linear-gradient(90deg,var(--ocean),var(--aqua))}
+#kx .kxe-hv-light .kx-h1__kicker{color:var(--ocean)}
+#kx .kxe-hv-light .kx-lead{color:#33475c}
+#kx .kxe-hv-light .kx-eyebrow{color:var(--ocean)}
+#kx .kxe-hv-light .kx-proof{color:#46586b}#kx .kxe-hv-light .kx-proof b{color:var(--deep)}
+#kx .kxe-hv-light .kx-btn--glass{background:#fff;color:var(--deep);border:1px solid rgba(10,42,82,.18);box-shadow:none}
+/* V2 · centrado con la foto en banda panoramica debajo */
+#kx .kx-hero.kxe-hv-band{min-height:auto;text-align:center}
+#kx .kxe-hv-band .kx-hero__in{order:1;grid-template-columns:1fr;justify-items:center;padding:clamp(64px,7vw,100px) 0 clamp(30px,3.5vw,44px)}
+#kx .kxe-hv-band .kx-hero__in>div:first-child{max-width:900px;display:flex;flex-direction:column;align-items:center}
+#kx .kxe-hv-band .kx-lead{margin-inline:auto}
+#kx .kxe-hv-band .kx-ctas,#kx .kxe-hv-band .kx-proof{justify-content:center}
+#kx .kxe-hv-band .kx-hero__cards{display:none}
+#kx .kxe-hv-band .kx-hero__bg{order:2;position:relative;inset:auto;width:min(1240px,calc(100% - 32px));height:clamp(240px,32vw,440px);margin:0 auto clamp(48px,5vw,76px);border-radius:30px;overflow:hidden;box-shadow:0 50px 90px -50px rgba(0,0,0,.8)}
+#kx .kxe-hv-band .kx-hero__bg img{inset:0;right:0;width:100%;height:100%;-webkit-mask-image:none;mask-image:none;opacity:1}
+#kx .kxe-hv-band .kx-hero__bg::after{background:linear-gradient(0deg,rgba(5,22,40,.35),transparent 50%)}
+#kx .kxe-hv-band .kx-hero__bg .kx-orb,#kx .kxe-hv-band .kx-hero__bg .kx-gridbg{display:none}
+#kx .kxe-hv-band .kx-marquee{order:3}
+#kx .kx-hero.kxe-hv-band::before{content:"";position:absolute;left:50%;top:-20%;width:900px;height:600px;transform:translateX(-50%);background:radial-gradient(closest-side,rgba(55,198,208,.22),transparent);pointer-events:none}
+/* V3 · partido: foto a la izquierda a sangre, texto a la derecha */
+#kx .kx-hero.kxe-hv-split{min-height:min(84vh,820px)}
+#kx .kxe-hv-split .kx-hero__bg{right:auto;width:47%;border-right:3px solid var(--aqua)}
+#kx .kxe-hv-split .kx-hero__bg img{inset:0;right:0;width:100%;height:100%;-webkit-mask-image:none;mask-image:none;opacity:1}
+#kx .kxe-hv-split .kx-hero__bg::after{background:linear-gradient(90deg,transparent 70%,rgba(5,22,40,.35))}
+#kx .kxe-hv-split .kx-hero__bg .kx-orb,#kx .kxe-hv-split .kx-hero__bg .kx-gridbg,#kx .kxe-hv-split .kx-hero__cards{display:none}
+#kx .kxe-hv-split .kx-hero__in{grid-template-columns:47% 1fr;gap:0}
+#kx .kxe-hv-split .kx-hero__in>div:first-child{grid-column:2;padding-left:clamp(28px,4vw,64px)}
+#kx .kxe-hv-split .kx-h1{font-size:clamp(38px,4.4vw,64px)}
+#kx .kx-hero.kxe-hv-split::before{content:"";position:absolute;right:-10%;top:-10%;width:60%;height:80%;background:radial-gradient(closest-side,rgba(55,198,208,.18),transparent);pointer-events:none}
+@media (max-width:980px){
+#kx .kxe-hv-light .kx-hero__bg,#kx .kxe-hv-split .kx-hero__bg{position:relative;inset:auto;order:2;width:auto;height:280px;margin:0 16px 32px;border-radius:24px;border-right:0}
+#kx .kxe-hv-light .kx-hero__in,#kx .kxe-hv-split .kx-hero__in{order:1;grid-template-columns:1fr;padding:44px 0 26px}
+#kx .kxe-hv-split .kx-hero__in>div:first-child{grid-column:1;padding-left:0}
+#kx .kxe-hv-band .kx-hero__bg{height:240px;border-radius:22px;margin-bottom:36px}
+#kx .kxe-hv-band .kx-hero__in{padding:44px 0 24px}
+}
+#kx .kxe-hv-band .kx-h1{font-size:clamp(36px,4.3vw,62px);line-height:1.04}
+#kx .kxe-hv-light .kx-marquee,#kx .kxe-hv-split .kx-marquee{order:3}
+@media (max-width:980px){#kx .kxe-hv-band .kx-h1{font-size:clamp(32px,8.6vw,44px)}}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -2204,7 +2253,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 </section>
 <section class="kx-sec kx-mist">
 <div class="kx-wrap kx-team">
-<div class="kx-team__photo kx-r"><img src="https://stemcellscolombia.com/wp-content/uploads/2026/07/scc-team-carvajal.jpg" alt="Dr. Alejandro Carvajal, urólogo en Medellín" loading="lazy"><span class="kx-team__badge">Dr. Alejandro Carvajal</span></div>
+<div class="kx-team__photo kx-r"><img src="/nimbus-compass-9lv9h1/img/wp/2026-07-scc-team-carvajal.jpg" alt="Dr. Alejandro Carvajal, urólogo en Medellín" loading="lazy"><span class="kx-team__badge">Dr. Alejandro Carvajal</span></div>
 <div class="kx-r">
 <p class="kx-eyebrow kx-eyebrow--dark"><span class="kx-dot"></span>Tu equipo médico</p>
 <h2 class="kx-h2">Tu médico es urólogo, no médico general.</h2>
