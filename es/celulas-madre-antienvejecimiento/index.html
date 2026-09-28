@@ -2127,6 +2127,13 @@ body:has(#kx){padding-bottom:84px}
 #kx .kx-mist .kxe-path b{color:var(--deep)}
 #kx .kx-mist .kxe-path p{color:#33475c}
 @media (max-width:980px){#kx .kx-mist .kxe-path{grid-template-columns:1fr 1fr}}@media (max-width:620px){#kx .kx-mist .kxe-path{grid-template-columns:1fr}}
+#kx .kxe-revs--in{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:6px}
+#kx .kxe-revs--in .kx-quote{margin:0}
+@media (max-width:860px){#kx .kxe-revs--in{grid-template-columns:1fr}}
+#kx .kxe-revs--in{columns:auto}
+#kx .kxe-revs--in .kx-quote{background:#f4f8fb;border:1px solid #e1eaf1;color:#1d2f44}
+#kx .kxe-revs--in .kx-quote blockquote{color:#1d2f44;font-size:16.5px;line-height:1.55;margin:0}
+#kx .kxe-revs--in .kx-quote figcaption{color:#46586b}#kx .kxe-revs--in .kx-quote figcaption b{color:var(--deep)}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
@@ -2295,7 +2302,7 @@ body.sccp *,body.sccp *::before,body.sccp *::after{box-sizing:border-box}
 <figure class="kx-quote"><div class="kx-quote__top"><span class="kx-stars">★★★★★</span><span class="kx-verif"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2l2.4 1.8 3-.3 1 2.8 2.6 1.5-.9 2.9.9 2.9-2.6 1.5-1 2.8-3-.3L12 22l-2.4-1.8-3 .3-1-2.8L3 16.2l.9-2.9L3 10.4l2.6-1.5 1-2.8 3 .3z"/><path fill="#0f0a04" d="M10.9 15.4l-2.8-2.8 1.1-1.1 1.7 1.7 4-4 1.1 1.1z"/></svg>Reseña de Google verificada</span></div><blockquote>"Everything was outstanding from beginning to end. The team was attentive, compassionate and extremely professional. It&rsquo;s well coordinated and all responses were rapid, and precise."</blockquote><figcaption><b>Jacqueline Chasteen</b> · Reseña de Google</figcaption></figure>
 </div>
 <p class="kx-verif__note kx-r">Cada cita de esta página es una reseña real, publicada en Google por un paciente real &mdash; no un testimonio escrito por nosotros. Aquí las tienes, directamente desde Google:</p>
-<div class="kx-reviews kx-r"><!--SCC-REVIEWS--></div>
+<div class="kx-reviews kx-r"><div class="kxe-revs kxe-revs--in"><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“From start to finish, Stem Cells Columbia was remarkable. Mia handled everything in advance making the trip very easy. She was waiting for us at the airport with multiple drivers to transport our group. Upon arrival at the hotel, check in was easy, rooms were spacious, modern, and clean. The attached mall seems endless and has something for everyone. For our treatments, Mia met us each morning and walked us to the Medical Tower which is at the far end of the mall. Very easy to walk and you can even grab coffee on the way. Between the 6 people in our group, we had a variety of joints, IVs, P shots, and facial rejuvenatiion. All procedures went well with but with the expected soreness afterwards. In our free time, Mia arranged a driver and tour guide to show us the beautiful countryside and towns. From ages 14-81 everyone was enjoying the vacation. We are back home and feeling better than before, getting better and stronger each day. If you are hesitant to go to Medellín, don’t be. If you are hesitant to use Stem Cells Columbia, don’t be! It was a great experience and family vacation all in one!”</blockquote><figcaption><b>Catherine M.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Mia was excellent. Great customer service, very professional, high-quality treatment and more competitive price than other clinics.”</blockquote><figcaption><b>Alec D.</b> · Reseña de Google</figcaption></figure><figure class="kx-quote"><span class="kx-stars">★★★★★</span><blockquote>“Amazing customer service leading up to the procedure as well as after. Loved working with Mia :)”</blockquote><figcaption><b>Tyson G.</b> · Reseña de Google</figcaption></figure></div></div>
 </div>
 </section>
 <section class="kx-sec kx-mist" id="kx-price">
@@ -2371,7 +2378,7 @@ function show(i){qs.forEach(function(q,j){q.classList.toggle('is-on',i===j)});ba
 qs.forEach(function(q,i){all('.kx-q__opts button',q).forEach(function(b){b.addEventListener('click',function(){ans[i]=b.textContent;if(b.hasAttribute('data-noimg'))flags.noimg=1;if(b.hasAttribute('data-surgery'))flags.surgery=1;show(i+1)})})});
 var rs=box.querySelector('[data-kx-restart]');if(rs)rs.addEventListener('click',function(){ans=[];flags={};show(0)})}
 var vis=root.querySelector('[data-kx-stagevis]');if(vis&&io){var sio=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var s=e.target.getAttribute('data-kx-stage');vis.setAttribute('data-stage',s);all('.kx-stage').forEach(function(x){x.classList.toggle('is-on',x===e.target)});var lb=vis.querySelector('[data-kx-stagelabel]');if(lb)lb.textContent=e.target.getAttribute('data-label')}})},{rootMargin:'-45% 0px -45% 0px'});all('.kx-stage').forEach(function(s){sio.observe(s)})}
-all('[data-kx-yt]').forEach(function(v){v.addEventListener('click',function(e){if(v.querySelector('iframe'))return;e.preventDefault();v.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+v.getAttribute('data-kx-yt')+'?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Patient video"></iframe>'})});
+all('[data-kx-yt]').forEach(function(v){v.addEventListener('click',function(e){if(v.querySelector('iframe'))return;e.preventDefault();v.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+v.getAttribute('data-kx-yt')+'?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Video de paciente"></iframe>'})});
 var sticky=root.querySelector('[data-kx-sticky]'),hero=root.querySelector('.kx-hero');if(sticky&&hero){window.addEventListener('scroll',function(){sticky.classList.toggle('on',window.scrollY>hero.offsetHeight*.8)},{passive:true})}
 })();
 /* kxe.js (26-sep-2026): interacciones NUEVAS para las paginas que kx no cubria. kx.js esta congelado; esto solo AGREGA.
@@ -2396,8 +2403,8 @@ all('[data-kxe-search]').forEach(function(inp){var box=root.querySelector(inp.ge
 all('[data-kxe-cinema]').forEach(function(c){var stage=c.querySelector('[data-kxe-stage]'),t=c.querySelector('[data-kxe-title]'),s=c.querySelector('[data-kxe-sub]');
   function play(b,auto){var id=b.getAttribute('data-kxe-yt');all('[data-kxe-yt]',c).forEach(function(x){x.classList.toggle('is-on',x===b)});
     if(t)t.textContent=b.getAttribute('data-kxe-t');if(s)s.textContent=b.getAttribute('data-kxe-s');
-    stage.innerHTML=auto?'<iframe src="https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Patient video"></iframe>'
-      :'<button type="button" class="kxe-cine__poster" aria-label="Play"><img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg" alt=""><span class="kx-video__play"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span></button>';
+    stage.innerHTML=auto?'<iframe src="https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Video de paciente"></iframe>'
+      :'<button type="button" class="kxe-cine__poster" aria-label="Reproducir"><img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg" alt=""><span class="kx-video__play"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span></button>';
     var p=stage.querySelector('button');if(p)p.addEventListener('click',function(){play(b,true)})}
   all('[data-kxe-yt]',c).forEach(function(b){b.addEventListener('click',function(){play(b,true);if(window.innerWidth<900)stage.scrollIntoView({behavior:'smooth',block:'center'})})});
   var f=c.querySelector('[data-kxe-yt]');if(f)play(f,false)});

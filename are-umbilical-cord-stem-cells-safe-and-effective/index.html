@@ -2127,6 +2127,13 @@ body:has(#kx){padding-bottom:84px}
 #kx .kx-mist .kxe-path b{color:var(--deep)}
 #kx .kx-mist .kxe-path p{color:#33475c}
 @media (max-width:980px){#kx .kx-mist .kxe-path{grid-template-columns:1fr 1fr}}@media (max-width:620px){#kx .kx-mist .kxe-path{grid-template-columns:1fr}}
+#kx .kxe-revs--in{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:6px}
+#kx .kxe-revs--in .kx-quote{margin:0}
+@media (max-width:860px){#kx .kxe-revs--in{grid-template-columns:1fr}}
+#kx .kxe-revs--in{columns:auto}
+#kx .kxe-revs--in .kx-quote{background:#f4f8fb;border:1px solid #e1eaf1;color:#1d2f44}
+#kx .kxe-revs--in .kx-quote blockquote{color:#1d2f44;font-size:16.5px;line-height:1.55;margin:0}
+#kx .kxe-revs--in .kx-quote figcaption{color:#46586b}#kx .kxe-revs--in .kx-quote figcaption b{color:var(--deep)}
 /* ===== marco de la vista previa (fuera de #kx): barra VISTA PREVIA + header + footer comunes. Mismos tokens de kx. Prefijo sccp-. ===== */
 html{scroll-behavior:smooth;scroll-padding-top:110px}
 body.sccp{margin:0;background:#fff;color:#0E2236;font-family:"Source Sans 3","Source Sans Pro",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:clip}
