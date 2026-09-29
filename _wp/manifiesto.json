@@ -880,7 +880,7 @@
   "slug": "politica-de-privacidad",
   "plantilla_actual": "elementor_canvas",
   "accion": "no_tocar",
-  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+  "motivo": "Página legal: no se toca (Alejo, 28-sep; la SMS policy sí se publica, 29-sep)."
  },
  {
   "ruta": "/es/precios/",
@@ -1033,7 +1033,7 @@
   "slug": "terminos-y-condiciones",
   "plantilla_actual": "elementor_canvas",
   "accion": "no_tocar",
-  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+  "motivo": "Página legal: no se toca (Alejo, 28-sep; la SMS policy sí se publica, 29-sep)."
  },
  {
   "ruta": "/es/test-epigenetico/",
@@ -1361,8 +1361,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6130__muse.html",
-  "bytes": 22432,
-  "sha256": "dd61a846686ba1ee696273b6d80a41d8a4991e87e35e379d6122f84937e510fa",
+  "bytes": 22518,
+  "sha256": "0605cfb18f557d48ee86506adfe443f97fc06e2d7b98303d09318fec26bc927a",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1462,7 +1462,7 @@
   "slug": "privacy-policy",
   "plantilla_actual": "elementor_canvas",
   "accion": "no_tocar",
-  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+  "motivo": "Página legal: no se toca (Alejo, 28-sep; la SMS policy sí se publica, 29-sep)."
  },
  {
   "ruta": "/sexual-health-stem-cell-therapy/",
@@ -1511,8 +1511,18 @@
   "tipo": "page",
   "slug": "sms-policy",
   "plantilla_actual": "",
-  "accion": "no_tocar",
-  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+  "accion": "reemplazar_main",
+  "archivo": "paginas/6645__sms-policy.html",
+  "bytes": 21653,
+  "sha256": "03203036f5db041bf02115c1a9c1800d9a6cfb2084a424966ed7a75f064cb18f",
+  "fotos_nuevas": [],
+  "resenas": false,
+  "yoast": {
+   "titulo": "SMS Policy | Stem Cells Colombia",
+   "descripcion": "How Stem Cells Colombia uses SMS messages and phone calls, with consent and under Colombian law."
+  },
+  "ya_en_kx": false,
+  "aviso": "Hoy su contenido NO trae el header/footer del sitio (plantilla por defecto): se publica con el header/footer de una página de referencia y plantilla elementor_canvas."
  },
  {
   "ruta": "/sports-injury-stem-cell-therapy/",
@@ -1739,7 +1749,7 @@
   "slug": "terms-and-conditions",
   "plantilla_actual": "elementor_canvas",
   "accion": "no_tocar",
-  "motivo": "Página legal: no se toca (Alejo, 28-sep)."
+  "motivo": "Página legal: no se toca (Alejo, 28-sep; la SMS policy sí se publica, 29-sep)."
  },
  {
   "ruta": "/testimonials/",
