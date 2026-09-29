@@ -602,8 +602,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8438__es__celulas-madre-lesiones-deportivas.html",
-  "bytes": 65104,
-  "sha256": "d184c3d6f9b3ee69c3a15473227f8318a032bc742a3bc9d67d131b6d83109eb0",
+  "bytes": 65068,
+  "sha256": "ef95b5abf530512075bc112c6c565a6b408cc5fe013a90467e75b1a7b3b3f06e",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -624,8 +624,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
-  "bytes": 66998,
-  "sha256": "8dffb462a5a323390c43529585dd950ba61430b1afb7d9b660a7dfe080a909d5",
+  "bytes": 66962,
+  "sha256": "b32f98847ae7c75302d6b770042d7cda3e23687cfef51a59873305af27a55371",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -666,8 +666,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8436__es__celulas-madre-pie-tobillo.html",
-  "bytes": 67551,
-  "sha256": "7772b821bf15eb79e0e1df595d1ebd3659945e893e1f4602d72ae0f136813b68",
+  "bytes": 67515,
+  "sha256": "3ace30a6e328a632aaf270ea799d502b24c8e36932a87bdde385b83dbfcc0992",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
@@ -1183,8 +1183,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8327__foot-ankle-stem-cell-therapy.html",
-  "bytes": 65476,
-  "sha256": "3fbe1b4628bedb64bcfe7f414a200813ca1a2095e36d8581f23059765ad7ff0a",
+  "bytes": 65442,
+  "sha256": "e3838fc1b78051e7bd82cc5c5bb6c75f8fbc3e8de646080a9dbb6bed07dde498",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
@@ -1242,8 +1242,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
-  "bytes": 64983,
-  "sha256": "3ecf4b5bf81c938b2126f5ff04147ff64d4f6dec5ca5ce5d7dd693d04a6dddfd",
+  "bytes": 64949,
+  "sha256": "7f4de5bd81153e0a90a295b6c02ac4973b1f9f3408a0df674a4b8c3890d17f16",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -1534,8 +1534,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8329__sports-injury-stem-cell-therapy.html",
-  "bytes": 62774,
-  "sha256": "36ad788192a3a2d0f266a2796be52dafabf5f23a5e11a756f23f7cb1de1334ee",
+  "bytes": 62740,
+  "sha256": "d2262e3d07e44e32a7854215bdf1600586ea606553ca13710f6ad7ed801b5568",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -1731,8 +1731,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/9312__team__dr-marcela-tabares.html",
-  "bytes": 32457,
-  "sha256": "cc786488fe58c34bbda45c93c1a97d79b37c3293b4c990963aa917204fa57edf",
+  "bytes": 32228,
+  "sha256": "f5fb9145eb4bf42160c0516fbcfc7a648d8a3a1001f74600b669e80e1804aa43",
   "fotos_nuevas": [
    "team-tabares-portrait.jpg"
   ],
