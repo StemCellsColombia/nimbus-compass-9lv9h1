@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 64637,
-  "sha256": "d47914eb66709259ee299b8603f6dc254b943eaf4ac0818345bce1a5da176962",
+  "bytes": 72491,
+  "sha256": "1ef9f0839be8ab0a41ed94ebfec37bb24b69c4b1baa085cda8a3af4b497a419c",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -62,8 +62,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
-  "bytes": 62957,
-  "sha256": "6a277473839f5959c6fa366461030e730627b740191fe8dc6ab034ff8cca8b33",
+  "bytes": 62994,
+  "sha256": "c15a56dfc227355418760228cd6423d8fbe2d0e2f0728feafe5f09097e6c0c7f",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -172,8 +172,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
-  "bytes": 66154,
-  "sha256": "79a38a2273ccd1f21cc03d21dd1059bf0baa698d8ea5b3a59eec23c1815d10ab",
+  "bytes": 65814,
+  "sha256": "fc195d78ca95b497661b6c74b2b9a866e3173b11affef8075739a1ea613300df",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -303,8 +303,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
-  "bytes": 68424,
-  "sha256": "dbabf9f7cc211b40c372b2626a994be1c34b903bc36d6e22c0b3dba2baa931e5",
+  "bytes": 67991,
+  "sha256": "7fda9a7c0cbdd28883a9cc55f1a9d88fe222438cf25f1862215130ca9db99f5e",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -365,8 +365,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
-  "bytes": 64308,
-  "sha256": "c6f3e92f955f3106aa96ed6729d22c4be8264e2ed672545f8111bb6c4c86e5a8",
+  "bytes": 64351,
+  "sha256": "37f91482937747f22783ab431273ccd81b595386f83ec096fa932b8bb13a28fb",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -530,8 +530,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 63375,
-  "sha256": "d9f4161263f55f221205c368833c82bd4795e61ae73aaa2245926e1e90fa62df",
+  "bytes": 63249,
+  "sha256": "a20fb2cb18851e50c7ad4759455b30c9e6c5e624dbbf8af93ce22584481e5334",
   "fotos_nuevas": [
    "scc-intrathecal-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -594,8 +594,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 64320,
-  "sha256": "5dd0c1a83627d26fe364b7ca70e961f21c19565b6ce51a2a2624e709735cd750",
+  "bytes": 64080,
+  "sha256": "84995fdf188877a3dcd73e292283b37ecc013b7d8608a3ea3214acbe86247e68",
   "fotos_nuevas": [
    "scc-intrathecal-2.jpg",
    "team-cabezas-portrait.jpg"
@@ -659,8 +659,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 61988,
-  "sha256": "0b8bf0b506b85f78fe864d07e3f74b7b9278587bba77392bcee32fe2f529b497",
+  "bytes": 61878,
+  "sha256": "8ca964a18f63c05a24c77bee14fc7d5860111bc58b5bb107ed31bcbf63daf48d",
   "fotos_nuevas": [
    "scc-or-4.jpg",
    "team-cabezas-portrait.jpg"
@@ -721,8 +721,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8451__es__celulas-madre-salud-sexual.html",
-  "bytes": 61646,
-  "sha256": "2702dcef896834718ca954ddd1d42e45d0b333d7eb6edf8f9659f4b333908040",
+  "bytes": 61740,
+  "sha256": "602f374483b91fc5431da6fb4c4a327771c3761ccc341b423849b727b7395fd6",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 66024,
-  "sha256": "2fd5ccc23c3ea2345b35439623eb7d0ee832f82c04cd82c3c5ea7bce5d1891c9",
+  "bytes": 74026,
+  "sha256": "fffe011eea78efaabdc6c93e45af8c89dbe11b9560b76d2af6bbc50a40311908",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -946,8 +946,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8457__es__rejuvenecimiento-corporal.html",
-  "bytes": 69859,
-  "sha256": "00d4aa515b6d3d2833dfd5989a3c6fc45d8bbe923542564cd4c8dd6c23cb52c3",
+  "bytes": 70593,
+  "sha256": "e22fa44287c7468329a7feeb7630c3f2e0e8e2a9229d77387c233e58e4f23f14",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -965,8 +965,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8455__es__rejuvenecimiento-facial.html",
-  "bytes": 75423,
-  "sha256": "f431c8ba98dce94a66c6e301e19563eaa21c0008d3a4fbe101fdda6897c665c2",
+  "bytes": 75170,
+  "sha256": "5e1aee8e3440c527b29ba1a5e7e04574f4fa5f9ed4eaa25dc868c59cbfa0ddb3",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -984,8 +984,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8456__es__restauracion-capilar.html",
-  "bytes": 67212,
-  "sha256": "18552bf78ae3e4182b569fafa9feae7a901f61f7ee4c3753660cceb8995ca6f2",
+  "bytes": 67324,
+  "sha256": "09ab1e98ce70843b2a5599a074b5a089e39534de77f46cbea02601536c7af223",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 53044,
-  "sha256": "2ab5456db4bf2cf4b0be4785a56f9d1521c0d538d0e14c9603ddafb761226b7e",
+  "bytes": 53075,
+  "sha256": "7be47cef08a95cfda2dd5a41b4d1b5af0958674e1eeee4a3503be3c89ec372f5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1140,8 +1140,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8346__facial-rejuvenation.html",
-  "bytes": 73715,
-  "sha256": "fbdd7dca63a5d206b5ac712cdbb715e466fd0bb996f96e48fb7cb381cc20a8d9",
+  "bytes": 73470,
+  "sha256": "15b5e1e7f7fb02c08667740be93edd7f193399d1f829aa1439f963910975699f",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1221,8 +1221,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1027__full-body-rejuvenation.html",
-  "bytes": 68376,
-  "sha256": "83b388106ac3b124600b5edc03ac688a81052c505d899a5da064e7f16c5a6114",
+  "bytes": 69061,
+  "sha256": "55c92bc18d631ad5a1f098dd42e3590fba8354a5ad7399d1ac885e251284ef28",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1240,8 +1240,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8347__hair-restoration.html",
-  "bytes": 65851,
-  "sha256": "84c355ed9d948c8d9eb4887e823b2443299a57a0bbd5f18f9c54112f35930809",
+  "bytes": 65884,
+  "sha256": "a4f9a4c12ca2a604108b37d3a693e65af50cf440fc1c7ff480358ba3dc042c70",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1360,8 +1360,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 61862,
-  "sha256": "6ea92c482da3aec3137f2a8f11fcd7db1c56fc4bb65bef90478529b5724c77ee",
+  "bytes": 61827,
+  "sha256": "825c6f79981f618aa8335bcebabec4fa897444d336a26f2813e078ee1b4e155b",
   "fotos_nuevas": [
    "scc-intrathecal-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1423,8 +1423,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 60502,
-  "sha256": "585457ef9ece7d190cf42ab16f91c6c31173dd0bd58003cc434843680c2db6e4",
+  "bytes": 60492,
+  "sha256": "5cdfe3f168eff4f09b051968ccd6fd633cb46d722b244d9f3cc25fb3d20f829f",
   "fotos_nuevas": [
    "scc-or-4.jpg",
    "team-cabezas-portrait.jpg"
@@ -1466,8 +1466,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 36675,
-  "sha256": "7e301799baabfd0233c0629eb910da2c0cbe5ad231be2e9175ae052e11c81d15",
+  "bytes": 36690,
+  "sha256": "33ff7c8254cad0549962275873e1ef4239d11683c2fb30bd5c4462d85b542196",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1495,8 +1495,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8342__sexual-health-stem-cell-therapy.html",
-  "bytes": 60392,
-  "sha256": "e48323456aab49495c2059da00d0dcddaf96bdf201ae3c2b6083ee874d4caf6b",
+  "bytes": 60462,
+  "sha256": "8df7ae28799da46079bd99ba447482e7d35165818b43d8d5609c13e066571263",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1810,8 +1810,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 62482,
-  "sha256": "0c3120116ba30fa8f6ec9e058035d1a8b889f1f016d39800743ade7cd8ec62fd",
+  "bytes": 62332,
+  "sha256": "8103a5354c921f54d398f633389fd7687063d4b59eb85b2faf85b1a259023b2b",
   "fotos_nuevas": [
    "scc-intrathecal-2.jpg",
    "team-cabezas-portrait.jpg"
@@ -1819,7 +1819,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Traumatic Brain Injury in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cell protocols after a traumatic brain injury, IV or intrathecal depending on timing, after a neurologist review."
+   "descripcion": "Stem cell protocols after a traumatic brain injury, IV or intrathecal, after a neurologist review."
   },
   "ya_en_kx": false
  },
@@ -1832,8 +1832,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 52409,
-  "sha256": "409d24661a634c97b27877a62c297c3dfd58212d5bb74699b90ef351f370761d",
+  "bytes": 52462,
+  "sha256": "7f07c08060a5a2bbaef57e9849ec4fefb762480e90349b3a00edd17e43efda39",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2272,8 +2272,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6147__regenerative-medicine-tools-for-sexual-health-a-deeper-look-into-techniques-and-science.html",
-  "bytes": 34674,
-  "sha256": "7cddbf19a870979bb1e9b0cd736fd4fa3276492eb72de6399ab96d91b4c9ece1",
+  "bytes": 34719,
+  "sha256": "58d5b0de00f3dc6012e3a0782e61b748625d040e3595b4a3b512fe3bbd8dc445",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2367,8 +2367,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
-  "bytes": 32864,
-  "sha256": "c57f54496e1b4f8d5ea8b4641d661989fe557ceaad0618eb11a4ea087f8054eb",
+  "bytes": 32879,
+  "sha256": "124d1c57d98ace74869ac739cc8d7a68e0c1613d58fbf552bcb8950e4dffbe79",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
