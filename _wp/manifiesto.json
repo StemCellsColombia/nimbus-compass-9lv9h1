@@ -171,9 +171,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
-  "bytes": 65566,
-  "sha256": "1d7fed5bd667ce1d358038994d5cc07181e01c52f80761e19e7f8d3025a872e6",
-  "fotos_nuevas": [],
+  "bytes": 66154,
+  "sha256": "79a38a2273ccd1f21cc03d21dd1059bf0baa698d8ea5b3a59eec23c1815d10ab",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "The Longevity Protocol in Medellín | Stem Cells Colombia",
@@ -298,9 +300,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
-  "bytes": 67835,
-  "sha256": "8953e0bf856c7a4a389e8b5a164d5ad256ebd4c15c030713fbe0c9329cd60d79",
-  "fotos_nuevas": [],
+  "bytes": 68424,
+  "sha256": "dbabf9f7cc211b40c372b2626a994be1c34b903bc36d6e22c0b3dba2baa931e5",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "Protocolo de longevidad en Medellín | Stem Cells Colombia",
@@ -499,9 +503,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8445__es__celulas-madre-enfermedad-pulmonar.html",
-  "bytes": 62043,
-  "sha256": "e85d72148edc3b24df8c272640d7c62548693a74f1630302a54254a6c8aef022",
-  "fotos_nuevas": [],
+  "bytes": 62632,
+  "sha256": "385d628783956368d1f28ef328dcf9626ff1efe1c0718448179250046600d285",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para los pulmones en Medellín | Stem Cells Colombia",
@@ -1303,9 +1309,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8336__lung-disease-stem-cell-therapy.html",
-  "bytes": 60277,
-  "sha256": "aca99b67c7af87af4fb8c9ca329f8d2e58a579f4cdad3b2feb92d8f219340ccf",
-  "fotos_nuevas": [],
+  "bytes": 60865,
+  "sha256": "708b4eedceae52b2d68edd3cad48877611da4c2b2ab837c1f491ef786b6e1331",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Lung Disease in Medellín | Stem Cells Colombia",

@@ -225,8 +225,12 @@
   "archivo": "team-mejia-portrait.jpg",
   "rutas": [
    "/about/",
+   "/biohacking-medellin/",
+   "/es/biohacking-medellin-es/",
+   "/es/celulas-madre-enfermedad-pulmonar/",
    "/es/equipo/",
    "/es/sobre-nosotros/",
+   "/lung-disease-stem-cell-therapy/",
    "/team/",
    "/team/dr-luisa-mejia/"
   ],
