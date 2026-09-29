@@ -80,14 +80,6 @@
   "bytes": 87382
  },
  {
-  "archivo": "scc-knee-proc-1.jpg",
-  "rutas": [
-   "/es/celulas-madre-lesiones-deportivas/",
-   "/sports-injury-stem-cell-therapy/"
-  ],
-  "bytes": 250589
- },
- {
   "archivo": "scc-or-1.jpg",
   "rutas": [
    "/es/tu-proceso/",
@@ -150,6 +142,22 @@
    "/es/sobre-nosotros/"
   ],
   "bytes": 219103
+ },
+ {
+  "archivo": "scc-reyes-nacional-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-lesiones-deportivas/",
+   "/sports-injury-stem-cell-therapy/"
+  ],
+  "bytes": 111749
+ },
+ {
+  "archivo": "scc-reyes-nacional-2.jpg",
+  "rutas": [
+   "/es/celulas-madre-lesiones-deportivas/",
+   "/sports-injury-stem-cell-therapy/"
+  ],
+  "bytes": 115086
  },
  {
   "archivo": "scc-spine-or-1.jpg",
