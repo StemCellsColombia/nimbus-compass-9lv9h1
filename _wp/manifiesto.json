@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 64691,
-  "sha256": "6117f8b4b73965674941f759828179c087f057eb57da2c82ff4432bb635f65da",
+  "bytes": 64641,
+  "sha256": "b46c8023eaccad08a1bb8d5dc5c6af8b72988c676f23dfcc5c8517ab7e95f88e",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -131,8 +131,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
-  "bytes": 65202,
-  "sha256": "e425136b9afa8438d3293c247856ddffcc69e8d1045b325385511d48c331fb27",
+  "bytes": 65002,
+  "sha256": "a742902586e44a640ffd0ad2c42d4498b11b5126818d4cb61ecee953a0be05a2",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -258,8 +258,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8335__diabetes-stem-cell-therapy.html",
-  "bytes": 76640,
-  "sha256": "1fb72ef2dd827d11150a5d60cfe50fe498a935512bc9755f1066ab327b1d7e19",
+  "bytes": 76430,
+  "sha256": "509ba4aeaaef6d2baaf11d997211c067d4a0b7b3a2089c30c244d968ecf768fb",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -336,8 +336,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 61699,
-  "sha256": "ac3d1ce61082efc15d4d0f84f1e2d41265e19b578a2bed6bf839f966f13d8f91",
+  "bytes": 61756,
+  "sha256": "f4cd851f785de7e390b8ba1cdb2fa4b3ff2b5e2933e3e2d7c9a3d88d50c32280",
   "fotos_nuevas": [
    "scc-fluoro-1.jpg"
   ],
@@ -408,8 +408,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
-  "bytes": 67007,
-  "sha256": "161592e1c7b566f105c14162d127db6cd8ed88b554e85b39509e4377a41f3b15",
+  "bytes": 66754,
+  "sha256": "e70ca11f66af73a79c3c2cc996cb134327b8cfe994c2f2c0bcd3c84c6f2057b7",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -467,8 +467,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8444__es__celulas-madre-diabetes.html",
-  "bytes": 78727,
-  "sha256": "88797f1cb7d2690f9358138fa1c3a33928178cc55a65a54bd6bdf1a202ee468d",
+  "bytes": 78479,
+  "sha256": "11d32b6e626d56d13366e96ad19a0f4541b40fe1bc673f9f044987ee1cf25892",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -725,8 +725,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
-  "bytes": 74763,
-  "sha256": "bb638b8c12e3b2af57ef9aa2ebc8af4545ee91bdf0722e01fa073b496d6ef989",
+  "bytes": 74697,
+  "sha256": "cacc359074468d2f8d9bb11bf27fc77b58cb7e98f9e9542b2eeb3042ac804c05",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -766,8 +766,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8419__es__dra-diana-reyes-es.html",
-  "bytes": 35590,
-  "sha256": "829bdcefa86bd72ec9d6da9acff4728cac978dc5cedf3e7f6a7be1b51d31fb05",
+  "bytes": 35547,
+  "sha256": "d43d46fa02f45a06cd65f2741dbe9459163a62229fd61233237d5b8dc0f6a9e2",
   "fotos_nuevas": [
    "team-reyes-portrait.jpg"
   ],
@@ -787,8 +787,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 41381,
-  "sha256": "c6aac93fe62da8224ded02f07d82e438ba233085224637f96e80ed4174d612c3",
+  "bytes": 41315,
+  "sha256": "d16aeaf6fd679c816faa4eac0e0d7cf79b9e86f4d17dadfbc11c8847ff11a639",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -815,8 +815,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 66077,
-  "sha256": "255aa6087d05a5e0657c544f3e2fe607cce41249095f93e7ef48a6c57b53b615",
+  "bytes": 66029,
+  "sha256": "d4e8a350745d3230ddce20b8287fba2b6d846a2401b71c4293a9f5fe52380bc9",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -1381,8 +1381,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
-  "bytes": 73146,
-  "sha256": "2714dd54b4525a302971c8d282cbb4985153ff7ee1063dbdf1f05dfb8a0690bc",
+  "bytes": 73101,
+  "sha256": "7be11fd8962c47d44c69be22c67655cf98e46fa86586278b5aad3126b1daa773",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -1556,8 +1556,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 60154,
-  "sha256": "acffe499a179415370b0eca65223a3f4aadf504c50acd8f78220a155e25821ec",
+  "bytes": 60221,
+  "sha256": "8a495f3ff756c545ae266da4451da84b3171c9230a0714eabb9384542a1ed618",
   "fotos_nuevas": [
    "scc-fluoro-1.jpg"
   ],
@@ -1577,8 +1577,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 40931,
-  "sha256": "00932ab59d9e97e59fa2e7fedba6c5e3d50b1f65ac7a51404bd161a23936fe44",
+  "bytes": 40870,
+  "sha256": "b2c836114ef7a408b4d313bce06ab55bf6ca01d1a88a18002f125e40eeca7bda",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -1647,8 +1647,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/609__team__dr-diana-reyes.html",
-  "bytes": 35278,
-  "sha256": "74ffa88b540b5b53a43a0cae394ec1d7b8fd3a17d991312dce8ed1c894bf2b41",
+  "bytes": 35236,
+  "sha256": "19d44f66a2069f5566c6606eeaebbbfd965a62df2fe2675922f9537fd9985d43",
   "fotos_nuevas": [
    "team-reyes-portrait.jpg"
   ],
@@ -2033,8 +2033,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6201__healing-power-of-umbilical-cord-stem-cells-in-sports-injuries.html",
-  "bytes": 35676,
-  "sha256": "9b50b048b8a08a8df29043f52034a3b55dab95ece1bb434cf5e953296c288f4b",
+  "bytes": 35683,
+  "sha256": "e1cde9f96138540fb5e0ade80300297afb1067eea7b697a6d35820eea9537ffb",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2090,8 +2090,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4578__intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging.html",
-  "bytes": 36007,
-  "sha256": "65a67bfe8356ba5278aabe44ef1a2924ecba5f983c2cf4dd8cb685ea16c7b748",
+  "bytes": 35947,
+  "sha256": "bb986b6eaf97ecc5639fce8e7b619bb4c82dc7473fcb720724bfde0f6fef1251",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2528,8 +2528,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6880__top-5-stem-cell-treatment-centers-in-colombia.html",
-  "bytes": 34379,
-  "sha256": "4e62f7844cecefcbcbd4343302144fc6f1d3d8aec6510673605ff47d44ec0e65",
+  "bytes": 34342,
+  "sha256": "0f508ed0e6e2749cc4e985effcb160ae8e4c014184e4a26c4c1b8e1601d337c0",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
