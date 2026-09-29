@@ -241,9 +241,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8333__crohns-disease-stem-cell-therapy.html",
-  "bytes": 60861,
-  "sha256": "7b606db23252240a23bb41a21732566cbbbb502e8cbdfb2fef2312b3df8024ae",
-  "fotos_nuevas": [],
+  "bytes": 61504,
+  "sha256": "ffc1a11282cf7870558c9628b9d4be7dedac630cedc025bbb8ec8f7e4bd1c65a",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Crohn’s Disease in Medellín | Stem Cells Colombia",
@@ -452,9 +454,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8442__es__celulas-madre-crohn.html",
-  "bytes": 62792,
-  "sha256": "76e974342f90173b03775ad0b38cb1edc5d4a6e6f4e7289d998d3a9b0f511125",
-  "fotos_nuevas": [],
+  "bytes": 63439,
+  "sha256": "540aaa9c2d29608951fc6c0c36e3966030d8f8774cff66e3f12bf30357e81982",
+  "fotos_nuevas": [
+   "team-mejia-portrait.jpg"
+  ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para Crohn en Medellín | Stem Cells Colombia",
@@ -793,8 +797,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 41315,
-  "sha256": "d16aeaf6fd679c816faa4eac0e0d7cf79b9e86f4d17dadfbc11c8847ff11a639",
+  "bytes": 41431,
+  "sha256": "b90eb8ecdb7d417cf882cb74260efa1e9d25ce917862d5dd2a195e168424dc3c",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -1585,8 +1589,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 40870,
-  "sha256": "b2c836114ef7a408b4d313bce06ab55bf6ca01d1a88a18002f125e40eeca7bda",
+  "bytes": 40995,
+  "sha256": "1715d14439a97be975d7aaaba1b34b9ad05c89fce735a5a00d1dcae92be09589",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -1718,8 +1722,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/9309__team__dr-luisa-mejia.html",
-  "bytes": 31949,
-  "sha256": "e7eed42c8562f539ac4b3522ac7dfecdc1fc7bac6e7cefc6e1f9dd7213697bb8",
+  "bytes": 32116,
+  "sha256": "1ae00dd3c33cd24270940b73448dae0052d27f361acf5aa1d38f4970d29c5ddb",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
