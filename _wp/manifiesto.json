@@ -343,10 +343,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 62294,
-  "sha256": "989b6f8b4fcbabf2f6ae5256c786d07250872174bbbc3e27717f331b2108d72f",
+  "bytes": 62298,
+  "sha256": "e2d8939094b13d37672715a4847f80ee0c3740fddf375911ded007c1ab7f8de8",
   "fotos_nuevas": [
-   "scc-fluoro-1.jpg",
+   "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -530,10 +530,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 63249,
-  "sha256": "a20fb2cb18851e50c7ad4759455b30c9e6c5e624dbbf8af93ce22584481e5334",
+  "bytes": 63251,
+  "sha256": "a34fe9ec186f1536118cbaede7470116b6c762d8f9855612cf46fc0a4a795a3f",
   "fotos_nuevas": [
-   "scc-intrathecal-1.jpg",
+   "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -594,10 +594,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 64080,
-  "sha256": "84995fdf188877a3dcd73e292283b37ecc013b7d8608a3ea3214acbe86247e68",
+  "bytes": 64085,
+  "sha256": "50de1f66c1618105bd51d0dcfe89517bc4e26937412faef1f116e338094bd751",
   "fotos_nuevas": [
-   "scc-intrathecal-2.jpg",
+   "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -659,10 +659,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 61878,
-  "sha256": "8ca964a18f63c05a24c77bee14fc7d5860111bc58b5bb107ed31bcbf63daf48d",
+  "bytes": 61886,
+  "sha256": "b83307913b957748e70f9e39dc6a2e9c20b89dac00aff4cb4c70f0d80c974421",
   "fotos_nuevas": [
-   "scc-or-4.jpg",
+   "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -908,8 +908,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 37334,
-  "sha256": "52d8f5e71a84dd1b52798df5e4e9b751d0d5508b14188b7e8ac801193bf8990a",
+  "bytes": 37340,
+  "sha256": "4a573ee24a38709fd0f30f223254ca19577f7c3f3b4607f5166d0079510766e0",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1360,10 +1360,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 61827,
-  "sha256": "825c6f79981f618aa8335bcebabec4fa897444d336a26f2813e078ee1b4e155b",
+  "bytes": 61829,
+  "sha256": "b81bb06f27d35ffb415bddd4d6eb8fe36f808ba95e266b5d5dd1a2ff767978e1",
   "fotos_nuevas": [
-   "scc-intrathecal-1.jpg",
+   "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -1423,10 +1423,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 60492,
-  "sha256": "5cdfe3f168eff4f09b051968ccd6fd633cb46d722b244d9f3cc25fb3d20f829f",
+  "bytes": 60500,
+  "sha256": "34fdcebffa8bdef09aaebad97647ae434ac2b3c93e9f7c59c55aa7b42cfb056f",
   "fotos_nuevas": [
-   "scc-or-4.jpg",
+   "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -1467,12 +1467,12 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
   "bytes": 36690,
-  "sha256": "33ff7c8254cad0549962275873e1ef4239d11683c2fb30bd5c4462d85b542196",
+  "sha256": "fba57b300052df7618526439957868ea309904906bf52acb1e86a4c46ef2b451",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — All-Inclusive Starting Prices | Stem Cells Colombia",
-   "descripcion": "All-inclusive starting prices in Medellín: joint from $3,990, back from $5,100, facial with CO2 laser from $2,999, IV from $5,550, Full Body from $12,539."
+   "descripcion": "All-inclusive starting prices in Medellín: joint from $3,990, back from $5,100, facial with CO2 laser from $2,999, IV from $5,550, Full Body from $11,840."
   },
   "ya_en_kx": false
  },
@@ -1577,10 +1577,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 60781,
-  "sha256": "1a99ca8797c44aa2695b64141ae03c829c9aa9b8069b6f9134f69494887636cb",
+  "bytes": 60785,
+  "sha256": "57a72e8a22ecdfc2420cb9cde0534c637910a139ccde7b74cab3af922ec9e98a",
   "fotos_nuevas": [
-   "scc-fluoro-1.jpg",
+   "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
@@ -1810,10 +1810,10 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 62332,
-  "sha256": "8103a5354c921f54d398f633389fd7687063d4b59eb85b2faf85b1a259023b2b",
+  "bytes": 62337,
+  "sha256": "62a8370e3c3d5b6cfe46b768866a55e5f3687c3d587e283a9a3e35914f4f1599",
   "fotos_nuevas": [
-   "scc-intrathecal-2.jpg",
+   "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
   ],
   "resenas": false,

@@ -1,11 +1,35 @@
 [
  {
-  "archivo": "scc-fluoro-1.jpg",
+  "archivo": "scc-brain-half-1.jpg",
   "rutas": [
    "/es/celulas-madre-acv/",
    "/stroke-stem-cell-therapy/"
   ],
-  "bytes": 160067
+  "bytes": 286744
+ },
+ {
+  "archivo": "scc-brain-mri-review-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-lesion-cerebral/",
+   "/traumatic-brain-injury-stem-cell-therapy/"
+  ],
+  "bytes": 146149
+ },
+ {
+  "archivo": "scc-brain-neurons-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-esclerosis-multiple/",
+   "/multiple-sclerosis-stem-cell-therapy/"
+  ],
+  "bytes": 250962
+ },
+ {
+  "archivo": "scc-brain-wire-1.jpg",
+  "rutas": [
+   "/es/celulas-madre-neurodegenerativas/",
+   "/neurodegenerative-stem-cell-therapy/"
+  ],
+  "bytes": 188187
  },
  {
   "archivo": "scc-foot-1.jpg",
@@ -48,22 +72,6 @@
   "bytes": 99584
  },
  {
-  "archivo": "scc-intrathecal-1.jpg",
-  "rutas": [
-   "/es/celulas-madre-esclerosis-multiple/",
-   "/multiple-sclerosis-stem-cell-therapy/"
-  ],
-  "bytes": 251547
- },
- {
-  "archivo": "scc-intrathecal-2.jpg",
-  "rutas": [
-   "/es/celulas-madre-lesion-cerebral/",
-   "/traumatic-brain-injury-stem-cell-therapy/"
-  ],
-  "bytes": 169342
- },
- {
   "archivo": "scc-intrathecal-4.jpg",
   "rutas": [
    "/es/celulas-madre-sistema-nervioso/",
@@ -102,14 +110,6 @@
    "/es/inicio/"
   ],
   "bytes": 154483
- },
- {
-  "archivo": "scc-or-4.jpg",
-  "rutas": [
-   "/es/celulas-madre-neurodegenerativas/",
-   "/neurodegenerative-stem-cell-therapy/"
-  ],
-  "bytes": 115807
  },
  {
   "archivo": "scc-or-6.jpg",
