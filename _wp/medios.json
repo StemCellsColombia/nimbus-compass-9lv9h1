@@ -200,6 +200,24 @@
   "bytes": 130361
  },
  {
+  "archivo": "team-cabezas-portrait.jpg",
+  "rutas": [
+   "/about/",
+   "/es/celulas-madre-acv/",
+   "/es/celulas-madre-esclerosis-multiple/",
+   "/es/celulas-madre-lesion-cerebral/",
+   "/es/celulas-madre-neurodegenerativas/",
+   "/es/equipo/",
+   "/es/sobre-nosotros/",
+   "/multiple-sclerosis-stem-cell-therapy/",
+   "/neurodegenerative-stem-cell-therapy/",
+   "/stroke-stem-cell-therapy/",
+   "/team/",
+   "/traumatic-brain-injury-stem-cell-therapy/"
+  ],
+  "bytes": 94872
+ },
+ {
   "archivo": "team-carvajal-portrait.jpg",
   "rutas": [
    "/about/",

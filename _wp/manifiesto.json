@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 64641,
-  "sha256": "b46c8023eaccad08a1bb8d5dc5c6af8b72988c676f23dfcc5c8517ab7e95f88e",
+  "bytes": 64637,
+  "sha256": "d47914eb66709259ee299b8603f6dc254b943eaf4ac0818345bce1a5da176962",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -32,11 +32,12 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/247__about.html",
-  "bytes": 42792,
-  "sha256": "b23e2f0ce8cc626824964af5355f2edf9d9d48eff02403afd5086e738ea18bd5",
+  "bytes": 43038,
+  "sha256": "2951552d5cd5c87764154f048b98534ed3d7ef48aa53052e440874094f6caa49",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
+   "team-cabezas-portrait.jpg",
    "team-carvajal-portrait.jpg",
    "team-martinez-portrait.jpg",
    "team-mejia-portrait.jpg",
@@ -48,7 +49,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "About Stem Cells Colombia — Regenerative Medicine, Practiced by Specialists",
-   "descripcion": "Stem Cells Colombia in Medellín: seven specialists, one clear price, a real operating room and a 4-star hotel in the same building."
+   "descripcion": "Stem Cells Colombia in Medellín: eight doctors, one clear price, a real operating room and a 4-star hotel in the same building."
   },
   "ya_en_kx": false
  },
@@ -99,8 +100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
-  "bytes": 63137,
-  "sha256": "8d191ac393605ed8d4160477773b6dd2bc5841be8942f71325cae7d8ada56302",
+  "bytes": 63063,
+  "sha256": "52f972780126798100eb3a93807a9f7c9bf25a3ca1b75feb11764651e094f5ba",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -131,8 +132,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
-  "bytes": 65002,
-  "sha256": "a742902586e44a640ffd0ad2c42d4498b11b5126818d4cb61ecee953a0be05a2",
+  "bytes": 64976,
+  "sha256": "8cdf3ad358b89a294e68f92d33a1cdb0a4bdbe3ababcbc00770c90e554074bc5",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -241,8 +242,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8333__crohns-disease-stem-cell-therapy.html",
-  "bytes": 61504,
-  "sha256": "ffc1a11282cf7870558c9628b9d4be7dedac630cedc025bbb8ec8f7e4bd1c65a",
+  "bytes": 61435,
+  "sha256": "59ead5a5f2b522b24ac8006bb1f607214889ed793ed1d4a95b21ffc9a80a2ee5",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -342,10 +343,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 61756,
-  "sha256": "f4cd851f785de7e390b8ba1cdb2fa4b3ff2b5e2933e3e2d7c9a3d88d50c32280",
+  "bytes": 62294,
+  "sha256": "989b6f8b4fcbabf2f6ae5256c786d07250872174bbbc3e27717f331b2108d72f",
   "fotos_nuevas": [
-   "scc-fluoro-1.jpg"
+   "scc-fluoro-1.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -382,8 +384,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8439__es__celulas-madre-artritis.html",
-  "bytes": 65136,
-  "sha256": "d809324773142bb98888fc823200645883806f9ab93f3b0e8a546eb0bd266a89",
+  "bytes": 65065,
+  "sha256": "0eb21719f58473a4cd8c9db6a7eb83294a04d0f6eaedaa784019ccfb65324b3f",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -414,13 +416,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
-  "bytes": 66754,
-  "sha256": "e70ca11f66af73a79c3c2cc996cb134327b8cfe994c2f2c0bcd3c84c6f2057b7",
+  "bytes": 66677,
+  "sha256": "0b05c91be42c306d3d3889ae47d24e82b38fc9c220ace34d2de76a30a2fa7b75",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para enfermedades autoinmunes en Medellín",
-   "descripcion": "Células madre para enfermedades autoinmunes en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para enfermedades autoinmunes en Medellín. Todo incluido, con especialistas y evaluación de tu caso."
   },
   "ya_en_kx": false
  },
@@ -454,8 +456,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8442__es__celulas-madre-crohn.html",
-  "bytes": 63439,
-  "sha256": "540aaa9c2d29608951fc6c0c36e3966030d8f8774cff66e3f12bf30357e81982",
+  "bytes": 63341,
+  "sha256": "09de20e597c78dcb1a189446aedc0be50d5c631bd63d7e5783918a4cda1b6f9f",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -507,8 +509,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8445__es__celulas-madre-enfermedad-pulmonar.html",
-  "bytes": 62632,
-  "sha256": "385d628783956368d1f28ef328dcf9626ff1efe1c0718448179250046600d285",
+  "bytes": 62534,
+  "sha256": "cb58c32ed204063290a81622063f24f76dca7c1cdeda39746ea88b222306eab0",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -528,10 +530,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 62857,
-  "sha256": "a56124c13b3cc5a499ee3e5e8185e73bcf5d31850d7f603edb2966fb4f3872eb",
+  "bytes": 63375,
+  "sha256": "d9f4161263f55f221205c368833c82bd4795e61ae73aaa2245926e1e90fa62df",
   "fotos_nuevas": [
-   "scc-intrathecal-1.jpg"
+   "scc-intrathecal-1.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -591,10 +594,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 63802,
-  "sha256": "ccfa46f5e92c07ede5b0c5c70bba36fa8bcd83c7a3213ad77142c620a6d3425b",
+  "bytes": 64320,
+  "sha256": "5dd0c1a83627d26fe364b7ca70e961f21c19565b6ce51a2a2624e709735cd750",
   "fotos_nuevas": [
-   "scc-intrathecal-2.jpg"
+   "scc-intrathecal-2.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -655,10 +659,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 61470,
-  "sha256": "aa8747b7acc2b371a3341af6386ba95dd27f48a8883cf6dfd3cb5d53f4f78d97",
+  "bytes": 61988,
+  "sha256": "0b8bf0b506b85f78fe864d07e3f74b7b9278587bba77392bcee32fe2f529b497",
   "fotos_nuevas": [
-   "scc-or-4.jpg"
+   "scc-or-4.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -735,8 +740,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
-  "bytes": 74697,
-  "sha256": "cacc359074468d2f8d9bb11bf27fc77b58cb7e98f9e9542b2eeb3042ac804c05",
+  "bytes": 74642,
+  "sha256": "b67b9f5efc5c7c16fb93415b80c9d11fe1fc1ac2307d903ef97a4423d560d1b9",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -744,7 +749,7 @@
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para condiciones neurológicas en Medellín",
-   "descripcion": "Células madre para condiciones neurológicas en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para condiciones neurológicas en Medellín. Todo incluido, con especialistas y evaluación de tu caso."
   },
   "ya_en_kx": false
  },
@@ -797,10 +802,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 41431,
-  "sha256": "b90eb8ecdb7d417cf882cb74260efa1e9d25ce917862d5dd2a195e168424dc3c",
+  "bytes": 42645,
+  "sha256": "ca4a2087b3dd12ac5098829f7a5688c4f2ebc3536694b990628e46a725dfece6",
   "fotos_nuevas": [
    "scc-or-7.jpg",
+   "team-cabezas-portrait.jpg",
    "team-carvajal-portrait.jpg",
    "team-martinez-portrait.jpg",
    "team-mejia-portrait.jpg",
@@ -811,8 +817,8 @@
   ],
   "resenas": false,
   "yoast": {
-   "titulo": "Equipo médico: siete especialistas en Medellín | Stem Cells Colombia",
-   "descripcion": "Siete especialistas en Medellín: anestesiología y dolor, reumatología, medicina funcional, medicina estética, urología y seguimiento de pacientes."
+   "titulo": "Equipo médico: ocho médicos en Medellín | Stem Cells Colombia",
+   "descripcion": "Ocho médicos en Medellín: anestesiología y dolor, reumatología, neurología, medicina funcional, medicina estética, urología y seguimiento de pacientes."
   },
   "ya_en_kx": false
  },
@@ -825,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 66029,
-  "sha256": "d4e8a350745d3230ddce20b8287fba2b6d846a2401b71c4293a9f5fe52380bc9",
+  "bytes": 66024,
+  "sha256": "2fd5ccc23c3ea2345b35439623eb7d0ee832f82c04cd82c3c5ea7bce5d1891c9",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -1016,11 +1022,12 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8416__es__sobre-nosotros.html",
-  "bytes": 43241,
-  "sha256": "0e68b91527bc7561c1fb47f95ecf8db0fc65560a272e7cbdbc2f5844e701078b",
+  "bytes": 43493,
+  "sha256": "a2ecc80d7254a243ce48a43a7edc56f5eaa1600f8fb73735dce0aead3dbffe0a",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
+   "team-cabezas-portrait.jpg",
    "team-carvajal-portrait.jpg",
    "team-martinez-portrait.jpg",
    "team-mejia-portrait.jpg",
@@ -1032,7 +1039,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Sobre Stem Cells Colombia — Medicina regenerativa con especialistas",
-   "descripcion": "Stem Cells Colombia en Medellín: siete especialistas, un precio claro, un quirófano real y un hotel 4 estrellas en el mismo edificio."
+   "descripcion": "Stem Cells Colombia en Medellín: ocho médicos, un precio claro, un quirófano real y un hotel 4 estrellas en el mismo edificio."
   },
   "ya_en_kx": false
  },
@@ -1313,8 +1320,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8336__lung-disease-stem-cell-therapy.html",
-  "bytes": 60865,
-  "sha256": "708b4eedceae52b2d68edd3cad48877611da4c2b2ab837c1f491ef786b6e1331",
+  "bytes": 60796,
+  "sha256": "ad024be8bb4af23e014e288b497f2ebbc62358e135355c89b5e68e30aaa12a86",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -1353,10 +1360,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 61327,
-  "sha256": "970a45a44bea7c239135414b5b9055d83beca03347d0de711704ecef96faf5de",
+  "bytes": 61862,
+  "sha256": "6ea92c482da3aec3137f2a8f11fcd7db1c56fc4bb65bef90478529b5724c77ee",
   "fotos_nuevas": [
-   "scc-intrathecal-1.jpg"
+   "scc-intrathecal-1.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -1393,8 +1401,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
-  "bytes": 73101,
-  "sha256": "7be11fd8962c47d44c69be22c67655cf98e46fa86586278b5aad3126b1daa773",
+  "bytes": 73096,
+  "sha256": "f7d0e57fd3829da26af107e8f943511154d674c116ccd698b0fd571255c035a7",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -1415,10 +1423,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 59970,
-  "sha256": "2996ed09d669a06f6860a2dbc4b0ffe0bb9812b2f581bac401083b9063ba00af",
+  "bytes": 60502,
+  "sha256": "585457ef9ece7d190cf42ab16f91c6c31173dd0bd58003cc434843680c2db6e4",
   "fotos_nuevas": [
-   "scc-or-4.jpg"
+   "scc-or-4.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -1568,10 +1577,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 60221,
-  "sha256": "8a495f3ff756c545ae266da4451da84b3171c9230a0714eabb9384542a1ed618",
+  "bytes": 60781,
+  "sha256": "1a99ca8797c44aa2695b64141ae03c829c9aa9b8069b6f9134f69494887636cb",
   "fotos_nuevas": [
-   "scc-fluoro-1.jpg"
+   "scc-fluoro-1.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -1589,10 +1599,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 40995,
-  "sha256": "1715d14439a97be975d7aaaba1b34b9ad05c89fce735a5a00d1dcae92be09589",
+  "bytes": 42209,
+  "sha256": "95789e6ac187856f112f29c1dfe83d98ea7f5f7d3e3f696277da3f24533ffe12",
   "fotos_nuevas": [
    "scc-or-7.jpg",
+   "team-cabezas-portrait.jpg",
    "team-carvajal-portrait.jpg",
    "team-martinez-portrait.jpg",
    "team-mejia-portrait.jpg",
@@ -1603,8 +1614,8 @@
   ],
   "resenas": false,
   "yoast": {
-   "titulo": "The Medical Team — Seven Doctors in Medellín | Stem Cells Colombia",
-   "descripcion": "Seven doctors in Medellín: pain medicine, rheumatology, functional medicine, aesthetic medicine and urology. Where they trained and what they do for you."
+   "titulo": "The Medical Team — Eight Doctors in Medellín | Stem Cells Colombia",
+   "descripcion": "Eight doctors in Medellín: pain medicine, rheumatology, neurology, functional medicine, aesthetic medicine and urology. Where they trained and what they do for you."
   },
   "ya_en_kx": false
  },
@@ -1756,6 +1767,12 @@
   "ya_en_kx": false
  },
  {
+  "ruta": "/team/dr-zaida-cabezas/",
+  "idioma": "en",
+  "accion": "revisar",
+  "motivo": "No existe en WordPress."
+ },
+ {
   "ruta": "/terms-and-conditions/",
   "idioma": "en",
   "id": 6592,
@@ -1793,10 +1810,11 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 61947,
-  "sha256": "e8863b85009b3aa1831b4a57918efec892169f01fd4693cd13fc7e76d5011183",
+  "bytes": 62482,
+  "sha256": "0c3120116ba30fa8f6ec9e058035d1a8b889f1f016d39800743ade7cd8ec62fd",
   "fotos_nuevas": [
-   "scc-intrathecal-2.jpg"
+   "scc-intrathecal-2.jpg",
+   "team-cabezas-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
@@ -1950,8 +1968,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8696__biohacking-with-stem-cell-therapy.html",
-  "bytes": 35257,
-  "sha256": "95ff58323ed663946e125ad971cf28b0b35a9b6bac0c05e3dd64e59d70dfd4a0",
+  "bytes": 35253,
+  "sha256": "93f1b9190700daf067264316ebace3db254478d4c80b924031a578a1a42ea9a1",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2216,8 +2234,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6586__psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35299,
-  "sha256": "a24181cc44e6a5ece092999b5fe0fda0cfb26d9f1c26e32d63a0454c65fa2d09",
+  "bytes": 35309,
+  "sha256": "871171bbb9a995f3cff9e91f6d7994a0fa3d5d6c455414a3e20fd534962e2ac4",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2387,13 +2405,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6167__strengthening-health-through-partnerships-the-power-of-alliances-at-stem-cells-colombia.html",
-  "bytes": 34966,
-  "sha256": "8b78a8c97893c6608fa2259f26800e7ce228459dd1f182f480c1848e91594623",
+  "bytes": 34954,
+  "sha256": "b6b505f6d85dc3240277128788ba38101ce63dd82157387b8517a8298253037c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Medical Alliances in Medellín | Stem Cells Colombia",
-   "descripcion": "A treatment center, a hotel upstairs, imaging nearby and seven specialists. How the pieces of your trip fit together, and why that matters to you."
+   "descripcion": "A treatment center, a hotel upstairs, imaging nearby and eight doctors. How the pieces of your trip fit together, and why that matters to you."
   },
   "ya_en_kx": false
  },
@@ -2406,8 +2424,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6582__systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35512,
-  "sha256": "dd0beb048c95318a5c3a912d42de4bd8f814df20149cab7b3dc624b8f3707a6a",
+  "bytes": 35513,
+  "sha256": "659c9d55f356876f2d6572f71a903d6a4c9ad653d8f8987b2ac878af3eb2e971",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2425,8 +2443,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6578__the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints.html",
-  "bytes": 36317,
-  "sha256": "7b027e7eee8f8c8952d7b1224368084ea035c3f6e77616348adcbfdcd296491f",
+  "bytes": 36328,
+  "sha256": "336957fe703941de49c8785a9c81a077089f3aa513a6ceb497fc56aef9665c62",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
