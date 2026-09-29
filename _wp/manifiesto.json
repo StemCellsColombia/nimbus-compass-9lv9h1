@@ -787,8 +787,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 41334,
-  "sha256": "042357617cfb510688a10dd1e0a7aaa97bab822a6544f550ee1db3bb5c2beebe",
+  "bytes": 41381,
+  "sha256": "c6aac93fe62da8224ded02f07d82e438ba233085224637f96e80ed4174d612c3",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -1577,8 +1577,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 40958,
-  "sha256": "7c78da3b2b2fdcd9b42aedfa843319088091efa99ee3f6469c94338218f599a3",
+  "bytes": 40931,
+  "sha256": "00932ab59d9e97e59fa2e7fedba6c5e3d50b1f65ac7a51404bd161a23936fe44",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-carvajal-portrait.jpg",
@@ -1605,8 +1605,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/9313__team__dr-alejandro-carvajal.html",
-  "bytes": 31653,
-  "sha256": "994892d460b8c0df32a9d3c978eb26ccdd0502aea8b0148283247bd08717fe13",
+  "bytes": 31644,
+  "sha256": "57ae28ecb39ff054af566cfa9b2b5a3ac1b81ac26ff839f23fe594f83992ec3b",
   "fotos_nuevas": [
    "team-carvajal-portrait.jpg"
   ],
