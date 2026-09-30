@@ -1769,8 +1769,23 @@
  {
   "ruta": "/team/dr-zaida-cabezas/",
   "idioma": "en",
-  "accion": "revisar",
-  "motivo": "No existe en WordPress."
+  "id": 9631,
+  "tipo": "page",
+  "slug": "dr-zaida-cabezas",
+  "plantilla_actual": "elementor_canvas",
+  "accion": "reemplazar_main",
+  "archivo": "paginas/9631__team__dr-zaida-cabezas.html",
+  "bytes": 31833,
+  "sha256": "040437192ab97f6412aaaf46bd20d77008ba16edac073bb814c8a1ead7ef687f",
+  "fotos_nuevas": [
+   "team-cabezas-portrait.jpg"
+  ],
+  "resenas": false,
+  "yoast": {
+   "titulo": "Dra. Zaida Cabezas — Clinical Neurologist | Stem Cells Colombia",
+   "descripcion": "Dra. Zaida Cabezas, Neurologist at Stem Cells Colombia in Medellín. Training and experience from the CV."
+  },
+  "ya_en_kx": false
  },
  {
   "ruta": "/terms-and-conditions/",
