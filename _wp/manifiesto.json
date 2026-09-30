@@ -212,13 +212,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8310__book.html",
-  "bytes": 25714,
-  "sha256": "1f25668510e3daa5efd13f98b5e2823f1e4b38572cd0a8535b02503ef7099c0b",
+  "bytes": 25711,
+  "sha256": "f49c45cd3d07f41f0f887c7e3aab986b4c2ada2e370afc8923525f591a3d72ec",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Book a Consultation — Stem Cells Colombia",
-   "descripcion": "Talk to Stem Cells Colombia: WhatsApp, the form or a free call with a coordinator. Address and hours in El Poblado, Medellín."
+   "descripcion": "Talk to Stem Cells Colombia: WhatsApp, the form or a free virtual consultation. Address and hours in El Poblado, Medellín."
   },
   "ya_en_kx": false
  },
@@ -284,13 +284,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8418__es__agendar.html",
-  "bytes": 25852,
-  "sha256": "14ead9351e3c3332e5cf3e85ca26aea3327bd8e65af78dd1caa39703ba2c0314",
+  "bytes": 25840,
+  "sha256": "94b63a593949596dada4b92c3e8f1dcff53ed7de8f8e2d8032620774c2025d00",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Agenda una consulta — Stem Cells Colombia",
-   "descripcion": "Habla con Stem Cells Colombia: WhatsApp, el formulario o una llamada gratuita con una coordinadora. Dirección y horarios en El Poblado, Medellín."
+   "descripcion": "Habla con Stem Cells Colombia: WhatsApp, el formulario o una consulta virtual gratuita. Dirección y horarios en El Poblado, Medellín."
   },
   "ya_en_kx": false
  },
