@@ -32,8 +32,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/247__about.html",
-  "bytes": 43038,
-  "sha256": "2951552d5cd5c87764154f048b98534ed3d7ef48aa53052e440874094f6caa49",
+  "bytes": 43031,
+  "sha256": "176f4808e0e2c39ff6462c5ac5c7f6d7d76f042fd758564fcf30799b5ab04aa9",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -193,8 +193,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/464__blog.html",
-  "bytes": 36132,
-  "sha256": "f076d1db46123dde6d329f49a5f49b309a2c50ac02fd5f41a1fb80a59859d851",
+  "bytes": 36128,
+  "sha256": "9909862c7d5b17899a52f665da03fcbbb203cc84bb53f9451ba88edb74a8c6db",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -212,13 +212,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8310__book.html",
-  "bytes": 25711,
-  "sha256": "f49c45cd3d07f41f0f887c7e3aab986b4c2ada2e370afc8923525f591a3d72ec",
+  "bytes": 25714,
+  "sha256": "1f25668510e3daa5efd13f98b5e2823f1e4b38572cd0a8535b02503ef7099c0b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Book a Consultation — Stem Cells Colombia",
-   "descripcion": "Talk to Stem Cells Colombia: WhatsApp, the form or a free virtual consultation. Address and hours in El Poblado, Medellín."
+   "descripcion": "Talk to Stem Cells Colombia: WhatsApp, the form or a free call with a coordinator. Address and hours in El Poblado, Medellín."
   },
   "ya_en_kx": false
  },
@@ -263,8 +263,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8335__diabetes-stem-cell-therapy.html",
-  "bytes": 76430,
-  "sha256": "509ba4aeaaef6d2baaf11d997211c067d4a0b7b3a2089c30c244d968ecf768fb",
+  "bytes": 76432,
+  "sha256": "86c77c4314bc25381692427a33b343ffbcafbfc381baac122717f8dfd18d3b75",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -284,13 +284,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8418__es__agendar.html",
-  "bytes": 25840,
-  "sha256": "94b63a593949596dada4b92c3e8f1dcff53ed7de8f8e2d8032620774c2025d00",
+  "bytes": 25852,
+  "sha256": "14ead9351e3c3332e5cf3e85ca26aea3327bd8e65af78dd1caa39703ba2c0314",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Agenda una consulta — Stem Cells Colombia",
-   "descripcion": "Habla con Stem Cells Colombia: WhatsApp, el formulario o una consulta virtual gratuita. Dirección y horarios en El Poblado, Medellín."
+   "descripcion": "Habla con Stem Cells Colombia: WhatsApp, el formulario o una llamada gratuita con una coordinadora. Dirección y horarios en El Poblado, Medellín."
   },
   "ya_en_kx": false
  },
@@ -324,8 +324,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8417__es__blog-es.html",
-  "bytes": 36344,
-  "sha256": "c825d64f673ed881229fa0a931404e4548d55bf3b9bb88af86d1311ac435f6d9",
+  "bytes": 36338,
+  "sha256": "5b9d778d043e92c6ec5aff6b98b41b4ee02fbd095484ae56b2fca9cf097ad180",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -477,8 +477,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8444__es__celulas-madre-diabetes.html",
-  "bytes": 78479,
-  "sha256": "11d32b6e626d56d13366e96ad19a0f4541b40fe1bc673f9f044987ee1cf25892",
+  "bytes": 78472,
+  "sha256": "c8ae65d48d6480b453f0dae0ee1376be3ce1eba748f5b9c07b37f4a2defcae4b",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -802,8 +802,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 42645,
-  "sha256": "ca4a2087b3dd12ac5098829f7a5688c4f2ebc3536694b990628e46a725dfece6",
+  "bytes": 42672,
+  "sha256": "7b6c535cc848d2dd9d784bc8c595888ea8afbe3753c14b72b7056717a5369e62",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -1022,8 +1022,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8416__es__sobre-nosotros.html",
-  "bytes": 43493,
-  "sha256": "a2ecc80d7254a243ce48a43a7edc56f5eaa1600f8fb73735dce0aead3dbffe0a",
+  "bytes": 43482,
+  "sha256": "3c894d9e02b68ebd12bd160ed5afd20085061ab2c5da4cf20ddc24fc231f1969",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -1081,8 +1081,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8429__es__testimonios.html",
-  "bytes": 32182,
-  "sha256": "a7fd4929b384a3e7500153e48c6983d6045e3471e5a01f911540c6783c0fc8e2",
+  "bytes": 32176,
+  "sha256": "510aff3a8ae774b1c3328a65fd8b1aec60134c5cea50b02651f75b7322e957f7",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 53075,
-  "sha256": "7be47cef08a95cfda2dd5a41b4d1b5af0958674e1eeee4a3503be3c89ec372f5",
+  "bytes": 53083,
+  "sha256": "367b0e8c0546b8b1d72c42bbc157c85b672306bfd284540c724c4e282b789779",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1119,8 +1119,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8430__es__tu-proceso.html",
-  "bytes": 49010,
-  "sha256": "fb13313dbeefb385db787badd9ddd416c490a7de3de6f918d16227ad844e1b3d",
+  "bytes": 49004,
+  "sha256": "a196f33ff0aa44b5a21e79e0c9dcab25e3df0a8556bc873af2fff26632b6e3dc",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1382,8 +1382,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6130__muse.html",
-  "bytes": 22518,
-  "sha256": "0605cfb18f557d48ee86506adfe443f97fc06e2d7b98303d09318fec26bc927a",
+  "bytes": 22528,
+  "sha256": "4c01ff6ca1f03ddb159ae3d4511c0861714698857e8b6ee9df4e4d0f6d5ec28e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1423,8 +1423,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 60500,
-  "sha256": "34fdcebffa8bdef09aaebad97647ae434ac2b3c93e9f7c59c55aa7b42cfb056f",
+  "bytes": 60507,
+  "sha256": "1a0edc5fad429b129d06a0c6365b29385050abac185fe501f843d6038a93d9b9",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1599,8 +1599,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 42209,
-  "sha256": "95789e6ac187856f112f29c1dfe83d98ea7f5f7d3e3f696277da3f24533ffe12",
+  "bytes": 42246,
+  "sha256": "9781853095018280661737ec3113f7c92cf8d1572e57d27b570edc9793a708db",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -1806,8 +1806,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/656__testimonials.html",
-  "bytes": 31840,
-  "sha256": "cdbc9ee54b503fcd5b5556f5f2185fb2fa19a6490aba47896b9c794e2d514745",
+  "bytes": 31836,
+  "sha256": "93e54027dc514ebc08130bc3e881d20a36a16737fd4b4f7d1d40573640f9d65a",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1847,8 +1847,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 52462,
-  "sha256": "7f07c08060a5a2bbaef57e9849ec4fefb762480e90349b3a00edd17e43efda39",
+  "bytes": 52476,
+  "sha256": "e51b9ce97ec885b4f979281aaa9bd1ca51e1063c51a9c56c4d05558f549d88b6",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1866,8 +1866,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8322__your-journey.html",
-  "bytes": 48109,
-  "sha256": "ce468cf46cff3f0ce7fdb1a60543fa77881c0fef49ab5fad67d6dd2ce8eea653",
+  "bytes": 48105,
+  "sha256": "3a183d8853f7cb6ef6c24662cd424753ef98297ab18d9c1bfc7c684dcccc1da2",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1964,8 +1964,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6309__are-umbilical-cord-stem-cells-safe-and-effective.html",
-  "bytes": 36926,
-  "sha256": "4c4e9845d90f1d50689755f037e762a24b652eeb98176aed4b13abb70bc3f0ce",
+  "bytes": 36914,
+  "sha256": "64dcc527457f57aafe520e25726663ad680f588ac8acb27622d3fbc2260e877c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2116,8 +2116,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6159__how-to-choose-the-best-stem-cell-clinic-for-you-why-stem-cells-colombia-in-medellin-is-the-perfect-choice.html",
-  "bytes": 35395,
-  "sha256": "edfe7511df164457f4d5bd3f43065a743beb8ae5e3097d4158c033be92886a0a",
+  "bytes": 35370,
+  "sha256": "635f11efb2d572310495f7d5a1b6ce6f206104063c33067cc51a00d1824d25fc",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2801,8 +2801,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6151__why-choose-stem-cells-colombia-in-medellin-for-your-stem-cell-therapy.html",
-  "bytes": 36453,
-  "sha256": "558cb8dbbe0a491db9807aa66f1d8e9930c3b09fc3d502962f2a755fdb8ce8a3",
+  "bytes": 36448,
+  "sha256": "2f4bf9e4a3797ec4d5a667d6bb97709ea4af813740b428e57e1d1ac3a0c9f0c4",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
