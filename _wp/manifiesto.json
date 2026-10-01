@@ -908,13 +908,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 37340,
-  "sha256": "4a573ee24a38709fd0f30f223254ca19577f7c3f3b4607f5166d0079510766e0",
+  "bytes": 58949,
+  "sha256": "f6f12f7a692b7f363165e009ffe6147e41a236c6d585700faec5c1b861c4d74c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Precios de células madre en Medellín | Stem Cells Colombia",
-   "descripcion": "Precios todo incluido en Medellín: articulación desde US$3.990, espalda US$5.100, facial con láser CO2 US$2.999, IV US$5.550 y cuerpo completo US$12.539."
+   "descripcion": "Precios todo incluido de todos los tratamientos con células madre en Medellín: articulación desde US$3.990, espalda US$5.100, facial desde US$2.300, IV desde US$5.550 y cuerpo completo US$11.840."
   },
   "ya_en_kx": false
  },
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 36690,
-  "sha256": "fba57b300052df7618526439957868ea309904906bf52acb1e86a4c46ef2b451",
+  "bytes": 64299,
+  "sha256": "731696077da5c4c262860951e693e65146b171ada09be70ab1f7bbe19777a298",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — All-Inclusive Starting Prices | Stem Cells Colombia",
-   "descripcion": "All-inclusive starting prices in Medellín: joint from $3,990, back from $5,100, facial with CO2 laser from $2,999, IV from $5,550, Full Body from $11,840."
+   "descripcion": "All-inclusive starting prices for every stem cell treatment in Medellín: joint from $3,990, back $5,100, facial from $2,300, IV from $5,550, Full Body $11,840."
   },
   "ya_en_kx": false
  },
