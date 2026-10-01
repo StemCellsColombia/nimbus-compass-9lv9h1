@@ -908,8 +908,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 58949,
-  "sha256": "f6f12f7a692b7f363165e009ffe6147e41a236c6d585700faec5c1b861c4d74c",
+  "bytes": 62987,
+  "sha256": "02a90ac6ce2cf56c4c8ce5f62f921a9c763bc900cae938f086bbd0b945cd91a5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 64299,
-  "sha256": "731696077da5c4c262860951e693e65146b171ada09be70ab1f7bbe19777a298",
+  "bytes": 68632,
+  "sha256": "bcc0787b3307a0fc5dc7c44debe6228bbb0c788b33669e5a5d44120ced8fea1f",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — All-Inclusive Starting Prices | Stem Cells Colombia",
-   "descripcion": "All-inclusive starting prices for every stem cell treatment in Medellín: joint from $3,990, back $5,100, facial from $2,300, IV from $5,550, Full Body $11,840."
+   "descripcion": "All-inclusive starting prices for every stem cell treatment in Medellín, and what each one includes: joint from $3,990, back $5,100, facial from $2,300, IV from $5,550, Full Body $11,840."
   },
   "ya_en_kx": false
  },
