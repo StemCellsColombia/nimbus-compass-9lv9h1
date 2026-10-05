@@ -908,13 +908,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 62987,
-  "sha256": "02a90ac6ce2cf56c4c8ce5f62f921a9c763bc900cae938f086bbd0b945cd91a5",
+  "bytes": 73042,
+  "sha256": "ef71f0f9cb30ca3c978a01edef18212e115d1b2e3064b0c8498f4d5b3ee9c835",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
-   "titulo": "Precios de células madre en Medellín | Stem Cells Colombia",
-   "descripcion": "Precios todo incluido de todos los tratamientos con células madre en Medellín: articulación desde US$3.990, espalda US$5.100, facial desde US$2.300, IV desde US$5.550 y cuerpo completo US$11.840."
+   "titulo": "Precios de células madre en Medellín: planes desde US$1.399 | Stem Cells Colombia",
+   "descripcion": "Planes de células madre en Medellín, con lo que incluye cada uno: rodilla u hombro desde US$1.999, cadera desde US$2.199, rostro desde US$1.399, cabello desde US$1.599, espalda desde US$4.900 e IV desde US$4.000."
   },
   "ya_en_kx": false
  },
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 68632,
-  "sha256": "bcc0787b3307a0fc5dc7c44debe6228bbb0c788b33669e5a5d44120ced8fea1f",
+  "bytes": 72332,
+  "sha256": "c86f85b5ac707e0098af715a9e58358a48416add6e34f8ca57129b8d45017c28",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
-   "titulo": "Stem Cell Therapy Pricing in Medellín — All-Inclusive Starting Prices | Stem Cells Colombia",
-   "descripcion": "All-inclusive starting prices for every stem cell treatment in Medellín, and what each one includes: joint from $3,990, back $5,100, facial from $2,300, IV from $5,550, Full Body $11,840."
+   "titulo": "Stem Cell Therapy Pricing in Medellín — Plans from $1,399 | Stem Cells Colombia",
+   "descripcion": "Stem cell therapy plans in Medellín, with what each one includes: knee or shoulder from $1,999, hip from $2,199, face from $1,399, hair from $1,599, back from $4,900 and IV from $4,000."
   },
   "ya_en_kx": false
  },
