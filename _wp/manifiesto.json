@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72544,
-  "sha256": "4dc71c92ee5a7d4b1fbf3922713b7d33b7865e3b262d48ec9f0dc2bd96abfd6f",
+  "bytes": 72552,
+  "sha256": "0688e5b7c7440c1cf90439378192c91e6a29a275481b8c50eb434b441ff26de7",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -172,15 +172,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
-  "bytes": 65814,
-  "sha256": "fc195d78ca95b497661b6c74b2b9a866e3173b11affef8075739a1ea613300df",
+  "bytes": 66676,
+  "sha256": "051964e119580143d814cab6ff287ae7961c2b86c6d865b0d3c6508920d2789a",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "The Longevity Protocol in Medellín | Stem Cells Colombia",
-   "descripcion": "The longevity protocol in Medellín: whole-body stem cell IV plus a 25-biomarker panel, full-body MRI and DEXA, over four days."
+   "descripcion": "The longevity protocol in Medellín: whole-body stem cell IV plus 20 trillion exosomes, full-body MRI and DEXA, over three days, with the hotel included."
   },
   "ya_en_kx": false
  },
@@ -303,15 +303,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
-  "bytes": 67991,
-  "sha256": "7fda9a7c0cbdd28883a9cc55f1a9d88fe222438cf25f1862215130ca9db99f5e",
+  "bytes": 68899,
+  "sha256": "f72eab4589904a23f94eb45955d9e23423f1f9da19b88590ad198e957ac5cd84",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Protocolo de longevidad en Medellín | Stem Cells Colombia",
-   "descripcion": "Protocolo de longevidad en Medellín: células madre IV de cuerpo completo, panel de 25 biomarcadores, resonancia de cuerpo completo y DEXA, en cuatro días."
+   "descripcion": "Protocolo de longevidad en Medellín: células madre IV de cuerpo completo, exosomas, resonancia de cuerpo completo y DEXA, en tres días, con hotel incluido."
   },
   "ya_en_kx": false
  },
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74032,
-  "sha256": "f65a3f82418db5e4d0f783f4965adf0ff04fc8de4f7a27ca67adf99646ad537c",
+  "bytes": 74031,
+  "sha256": "99a71f1d21916c26bc5dfbb039ec4b81f6c3a8ca1aa200db770c08e6584bbc28",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -908,13 +908,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 45797,
-  "sha256": "9ec6046fb449de4b36433deac4f155f8b3f9f6f112eb1950dbcec4650b6f1d5b",
+  "bytes": 49888,
+  "sha256": "3637afeb996cb63780d6fec8e633f62797a3007131e26f1e614f127b5e5dd2dd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Precios de células madre en Medellín: desde US$1.399 | Stem Cells Colombia",
-   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.199, espalda desde US$4.900 e IV desde US$4.000."
+   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.199, espalda desde US$4.900, IV desde US$4.000 y el Protocolo de longevidad desde US$6.999."
   },
   "ya_en_kx": false
  },
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 53105,
-  "sha256": "30ea852fc6def457f7667cdc7761c074af10ecb3a26c16453375533b1c059a89",
+  "bytes": 53119,
+  "sha256": "fb3b72307da87523e57fad0550460a998b6c89c1d131ca992c066ffb23c806e8",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 45405,
-  "sha256": "fbaf9ab1f7038daccf9784ea59610da53a7a42794f7657fb0b607e4997823594",
+  "bytes": 49408,
+  "sha256": "3648e656a20ca1ca5c08cb630565551c6a9061d2493f3e491907d889b5371b9f",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — From $1,399 | Stem Cells Colombia",
-   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,199, back from $4,900 and IV from $4,000."
+   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,199, back from $4,900, IV from $4,000 and the Longevity Protocol from $6,999."
   },
   "ya_en_kx": false
  },
@@ -1847,8 +1847,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 52504,
-  "sha256": "82991916d1bc7bf9d086a96ea0d462913b841a3f38e4baacda0022566021ffcb",
+  "bytes": 52528,
+  "sha256": "6a89fa4a1b3880b7a21eef49703fe7930b19eb48fb15a384a587597f5397831c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
