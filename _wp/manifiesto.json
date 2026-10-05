@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72491,
-  "sha256": "1ef9f0839be8ab0a41ed94ebfec37bb24b69c4b1baa085cda8a3af4b497a419c",
+  "bytes": 72544,
+  "sha256": "4dc71c92ee5a7d4b1fbf3922713b7d33b7865e3b262d48ec9f0dc2bd96abfd6f",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -19,7 +19,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cells Colombia — Stem Cell Therapy in Medellín, by Specialists",
-   "descripcion": "Stem cell therapy in Medellín by specialists: joints and spine first, plus autoimmune, neurological and anti-aging care. All-inclusive from $3,990, free case review."
+   "descripcion": "Stem cell therapy in Medellín by specialists: joints and spine first, plus autoimmune, neurological and anti-aging care. From $1,999, free case review."
   },
   "ya_en_kx": false
  },
@@ -62,13 +62,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
-  "bytes": 62994,
-  "sha256": "c15a56dfc227355418760228cd6423d8fbe2d0e2f0728feafe5f09097e6c0c7f",
+  "bytes": 63239,
+  "sha256": "40a17fc96cb82a190bb0ce22ecb5f101528bbe5d6545cf454d9299ee615fa841",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Anti-Aging Stem Cell Therapy in Medellín — Face, Hair, Sexual Health & IV",
-   "descripcion": "Anti-Aging Stem Cell Therapy in Medellín — Face, Hair, Sexual Health & IV. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Anti-Aging Stem Cell Therapy in Medellín — Face, Hair, Sexual Health & IV. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -100,8 +100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
-  "bytes": 63063,
-  "sha256": "52f972780126798100eb3a93807a9f7c9bf25a3ca1b75feb11764651e094f5ba",
+  "bytes": 63835,
+  "sha256": "d15751db28d449256e4a5c943759d97ff73d0b5772929609f36b90572976e6db",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -132,13 +132,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
-  "bytes": 64976,
-  "sha256": "8cdf3ad358b89a294e68f92d33a1cdb0a4bdbe3ababcbc00770c90e554074bc5",
+  "bytes": 65264,
+  "sha256": "ad1902e3aae15515a50d28f705e817174e9aa9a4c036ad565cb0c103dcd4ca86",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Autoimmune Conditions in Medellín",
-   "descripcion": "Stem Cell Therapy for Autoimmune Conditions in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Autoimmune Conditions in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -151,15 +151,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8328__back-neck-pain-stem-cell-therapy.html",
-  "bytes": 64531,
-  "sha256": "0cba1138a52ed16984f56eb109deb5fd185c726b4dc606cdd5df2730848e391a",
+  "bytes": 64938,
+  "sha256": "a516fc6496a9520b14026bf80dbea90030738797b84142467efa4c1889b28586",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Back & Neck Pain in Medellín",
-   "descripcion": "Stem Cell Therapy for Back & Neck Pain in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Back & Neck Pain in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -242,15 +242,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8333__crohns-disease-stem-cell-therapy.html",
-  "bytes": 61435,
-  "sha256": "59ead5a5f2b522b24ac8006bb1f607214889ed793ed1d4a95b21ffc9a80a2ee5",
+  "bytes": 61733,
+  "sha256": "913c18a0b437e20a7ca77095f67714426b8e989a78376282831c339ae9adbfa8",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Crohn’s Disease in Medellín | Stem Cells Colombia",
-   "descripcion": "An intravenous stem cell protocol for Crohn’s disease in Medellín: four days, cancer markers first, from $5,850 all-inclusive."
+   "descripcion": "An intravenous stem cell protocol for Crohn’s disease in Medellín: four days, cancer markers first, from $4,000."
   },
   "ya_en_kx": false
  },
@@ -263,15 +263,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8335__diabetes-stem-cell-therapy.html",
-  "bytes": 76432,
-  "sha256": "86c77c4314bc25381692427a33b343ffbcafbfc381baac122717f8dfd18d3b75",
+  "bytes": 76732,
+  "sha256": "0b135a5a3d0c87430d3bf1eca51ee00d7103acc920eab2df73f16aaee9c0a711",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Diabetes in Medellín",
-   "descripcion": "Stem Cell Therapy for Diabetes in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Diabetes in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -343,8 +343,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 62298,
-  "sha256": "e2d8939094b13d37672715a4847f80ee0c3740fddf375911ded007c1ab7f8de8",
+  "bytes": 62767,
+  "sha256": "521a7abc1b87735ef2e2e1f048fae95805cfc1827420c73fb2f3dd9e8fcecb91",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -365,13 +365,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
-  "bytes": 64351,
-  "sha256": "37f91482937747f22783ab431273ccd81b595386f83ec096fa932b8bb13a28fb",
+  "bytes": 64478,
+  "sha256": "e4c38d080dd4013941af5cdc1b8de964834002a2625408051076badd22789c19",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre antienvejecimiento en Medellín: rostro, cabello, salud sexual e IV",
-   "descripcion": "Células madre antienvejecimiento en Medellín: rostro, cabello, salud sexual e IV. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre antienvejecimiento en Medellín: rostro, cabello, salud sexual e IV. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -384,8 +384,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8439__es__celulas-madre-artritis.html",
-  "bytes": 65065,
-  "sha256": "0eb21719f58473a4cd8c9db6a7eb83294a04d0f6eaedaa784019ccfb65324b3f",
+  "bytes": 65840,
+  "sha256": "c0ba78773ba8f3b014f8968c0d57138e3ed28a3320b9960e7fa15fdc1d97dd32",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -416,13 +416,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
-  "bytes": 66677,
-  "sha256": "0b05c91be42c306d3d3889ae47d24e82b38fc9c220ace34d2de76a30a2fa7b75",
+  "bytes": 66928,
+  "sha256": "e845c36ec6870995204d3d0001883164fb92d4594a1027fee5645b016bedac5b",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para enfermedades autoinmunes en Medellín",
-   "descripcion": "Células madre para enfermedades autoinmunes en Medellín. Todo incluido, con especialistas y evaluación de tu caso."
+   "descripcion": "Células madre para enfermedades autoinmunes en Medellín. Con especialistas y evaluación de tu caso."
   },
   "ya_en_kx": false
  },
@@ -435,15 +435,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8433__es__celulas-madre-cadera.html",
-  "bytes": 73309,
-  "sha256": "31f726d7b433ce25ffc51ab868a79d05da6f74332d20104fe42f312f9b579d77",
+  "bytes": 73619,
+  "sha256": "3609a55ebfd7af4c0b0d7a2bdee83d72a862e27dad23973ea0d7179071095255",
   "fotos_nuevas": [
    "scc-hip-proc-1.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para la cadera en Medellín",
-   "descripcion": "Células madre para la cadera en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para la cadera en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -456,15 +456,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8442__es__celulas-madre-crohn.html",
-  "bytes": 63341,
-  "sha256": "09de20e597c78dcb1a189446aedc0be50d5c631bd63d7e5783918a4cda1b6f9f",
+  "bytes": 63590,
+  "sha256": "a6cda87eee467195b496b2584aafc2b081c81763d58424124283a0d4c23f7b0a",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para Crohn en Medellín | Stem Cells Colombia",
-   "descripcion": "Protocolo intravenoso de células madre para la enfermedad de Crohn en Medellín: cuatro días, primero marcadores tumorales, desde US$5.850 todo incluido."
+   "descripcion": "Protocolo intravenoso de células madre para la enfermedad de Crohn en Medellín: cuatro días, primero marcadores tumorales, desde US$4.000."
   },
   "ya_en_kx": false
  },
@@ -477,15 +477,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8444__es__celulas-madre-diabetes.html",
-  "bytes": 78472,
-  "sha256": "c8ae65d48d6480b453f0dae0ee1376be3ce1eba748f5b9c07b37f4a2defcae4b",
+  "bytes": 78743,
+  "sha256": "f87774b16902cc80472c85ad7a3baf1e80af112d3065cbcea75b26b4f8906d4d",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para la diabetes en Medellín",
-   "descripcion": "Células madre para la diabetes en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para la diabetes en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -509,8 +509,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8445__es__celulas-madre-enfermedad-pulmonar.html",
-  "bytes": 62534,
-  "sha256": "cb58c32ed204063290a81622063f24f76dca7c1cdeda39746ea88b222306eab0",
+  "bytes": 62914,
+  "sha256": "eb2c662fc440c79ca536a02679b763b93fbb6163d826e2d26e5f0d1d8a6dd8e9",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -530,8 +530,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 63251,
-  "sha256": "a34fe9ec186f1536118cbaede7470116b6c762d8f9855612cf46fc0a4a795a3f",
+  "bytes": 63677,
+  "sha256": "ea5852995f6772ff61a08271103d9870ceb99202747a9e560c93065218739f3f",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -539,7 +539,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Esclerosis múltiple y células madre en Medellín | Stem Cells Colombia",
-   "descripcion": "Protocolos de células madre IV o intratecales para la esclerosis múltiple en Medellín, tras la revisión de un neurólogo. Desde US$5.850."
+   "descripcion": "Protocolos de células madre IV o intratecales para la esclerosis múltiple en Medellín, tras la revisión de un neurólogo. Desde US$4.000."
   },
   "ya_en_kx": false
  },
@@ -552,15 +552,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8437__es__celulas-madre-espalda-cuello.html",
-  "bytes": 66297,
-  "sha256": "e2bfe5cfaa82af2212fb358d1b0b18747714cf0418c2923e6e3971406cb76319",
+  "bytes": 66679,
+  "sha256": "83eda1f2a1ec111bbd1d849a8878364d9d85643acbdd274d8bdd7a520ae16c5f",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para el dolor de espalda y cuello en Medellín",
-   "descripcion": "Células madre para el dolor de espalda y cuello en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para el dolor de espalda y cuello en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -573,15 +573,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8434__es__celulas-madre-hombro.html",
-  "bytes": 78331,
-  "sha256": "1d13371eb81a4a3bf2ef0555d6578b3266cc1f65081ea1033aa9424e3600b534",
+  "bytes": 78641,
+  "sha256": "d4434ba0fae5c81c3140f58050aae242f4a32e9389e20d27a60656823329f0be",
   "fotos_nuevas": [
    "scc-ultrasound-1.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para el hombro en Medellín",
-   "descripcion": "Células madre para el hombro en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para el hombro en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -594,8 +594,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 64085,
-  "sha256": "50de1f66c1618105bd51d0dcfe89517bc4e26937412faef1f116e338094bd751",
+  "bytes": 64578,
+  "sha256": "07a1b876a0a95b0707d596627e16dd49d230169780ee28ac58aa6e20f44925de",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -616,8 +616,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8438__es__celulas-madre-lesiones-deportivas.html",
-  "bytes": 65068,
-  "sha256": "ef95b5abf530512075bc112c6c565a6b408cc5fe013a90467e75b1a7b3b3f06e",
+  "bytes": 65493,
+  "sha256": "782bfbaf4f1b65672686be20cac05649cb0ed53fbcfac1adea90ee875e36a326",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -625,7 +625,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Lesiones deportivas: células madre en Medellín | Stem Cells Colombia",
-   "descripcion": "Células madre para rupturas parciales de tendones, ligamentos y músculos, guiadas por ecografía. Desde US$3.790 todo incluido en Medellín."
+   "descripcion": "Células madre para rupturas parciales de tendones, ligamentos y músculos, guiadas por ecografía. Desde US$1.599 en Medellín."
   },
   "ya_en_kx": false
  },
@@ -638,15 +638,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
-  "bytes": 66962,
-  "sha256": "b32f98847ae7c75302d6b770042d7cda3e23687cfef51a59873305af27a55371",
+  "bytes": 67395,
+  "sha256": "afc7f2c711edbcc241d8983435c7c72de0b573efd4915e09debd82c973de33ea",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para mano y muñeca en Medellín | Stem Cells Colombia",
-   "descripcion": "Células madre para la muñeca, la mano y el pulgar, guiadas por ecografía en quirófano. Desde US$3.790 todo incluido."
+   "descripcion": "Células madre para la muñeca, la mano y el pulgar, guiadas por ecografía en quirófano. Desde US$1.799."
   },
   "ya_en_kx": false
  },
@@ -659,8 +659,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 61886,
-  "sha256": "b83307913b957748e70f9e39dc6a2e9c20b89dac00aff4cb4c70f0d80c974421",
+  "bytes": 62312,
+  "sha256": "dff08d112f4da48c5c3df880c4d31eee1a3fc5deddd7a4225b281cc35050fcf4",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -681,15 +681,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8436__es__celulas-madre-pie-tobillo.html",
-  "bytes": 67515,
-  "sha256": "3ace30a6e328a632aaf270ea799d502b24c8e36932a87bdde385b83dbfcc0992",
+  "bytes": 68073,
+  "sha256": "6b59421ff7b290d385045cb5de69065a8dc15837e0ba4711192792656ad95767",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para pie y tobillo en Medellín | Stem Cells Colombia",
-   "descripcion": "Células madre para el tobillo, la fascitis plantar y el dedo gordo, guiadas por ecografía en quirófano. Desde US$1.750."
+   "descripcion": "Células madre para el tobillo, la fascitis plantar y el dedo gordo, guiadas por ecografía en quirófano. Desde US$1.399."
   },
   "ya_en_kx": false
  },
@@ -702,13 +702,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8432__es__celulas-madre-rodilla.html",
-  "bytes": 66175,
-  "sha256": "97b6ca5621eecc3e2875c4ad93f77930bd631b1497242b592bcf6306f65b33b4",
+  "bytes": 66485,
+  "sha256": "4185a7ff9810c8273be006b91edd7852ed088e347bfa84f000b9b689162e1f11",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para la rodilla en Medellín: la alternativa al reemplazo",
-   "descripcion": "Células madre para la rodilla en Medellín: la alternativa al reemplazo. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Células madre para la rodilla en Medellín: la alternativa al reemplazo. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -721,13 +721,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8451__es__celulas-madre-salud-sexual.html",
-  "bytes": 61740,
-  "sha256": "602f374483b91fc5431da6fb4c4a327771c3761ccc341b423849b727b7395fd6",
+  "bytes": 61952,
+  "sha256": "d3c8ebd320e41533455f8cce29a1783184330bad7d42904ea26a10919a5e844e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Salud sexual con células madre (P-Shot) en Medellín",
-   "descripcion": "Salud sexual con células madre (P-Shot) en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Salud sexual con células madre (P-Shot) en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -740,8 +740,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
-  "bytes": 74642,
-  "sha256": "b67b9f5efc5c7c16fb93415b80c9d11fe1fc1ac2307d903ef97a4423d560d1b9",
+  "bytes": 74931,
+  "sha256": "48baad5d5dcba758d5995d5d27aa30a5f622b6635422483c970e4defd467d772",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -749,7 +749,7 @@
   "resenas": true,
   "yoast": {
    "titulo": "Células madre para condiciones neurológicas en Medellín",
-   "descripcion": "Células madre para condiciones neurológicas en Medellín. Todo incluido, con especialistas y evaluación de tu caso."
+   "descripcion": "Células madre para condiciones neurológicas en Medellín. Con especialistas y evaluación de tu caso."
   },
   "ya_en_kx": false
  },
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74026,
-  "sha256": "fffe011eea78efaabdc6c93e45af8c89dbe11b9560b76d2af6bbc50a40311908",
+  "bytes": 74032,
+  "sha256": "f65a3f82418db5e4d0f783f4965adf0ff04fc8de4f7a27ca67adf99646ad537c",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -842,7 +842,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cells Colombia — Células madre en Medellín, por especialistas",
-   "descripcion": "Células madre en Medellín con especialistas: articulaciones, columna, autoinmunes, neuro, diabetes, antiedad. Todo incluido, precio claro y evaluación gratis."
+   "descripcion": "Células madre en Medellín con especialistas: articulaciones, columna, autoinmunes, neuro, diabetes, antiedad. Desde US$1.999, precio claro y evaluación gratis."
   },
   "ya_en_kx": false
  },
@@ -908,13 +908,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 73042,
-  "sha256": "ef71f0f9cb30ca3c978a01edef18212e115d1b2e3064b0c8498f4d5b3ee9c835",
+  "bytes": 45797,
+  "sha256": "9ec6046fb449de4b36433deac4f155f8b3f9f6f112eb1950dbcec4650b6f1d5b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
-   "titulo": "Precios de células madre en Medellín: planes desde US$1.399 | Stem Cells Colombia",
-   "descripcion": "Planes de células madre en Medellín, con lo que incluye cada uno: rodilla u hombro desde US$1.999, cadera desde US$2.199, rostro desde US$1.399, cabello desde US$1.599, espalda desde US$4.900 e IV desde US$4.000."
+   "titulo": "Precios de células madre en Medellín: desde US$1.399 | Stem Cells Colombia",
+   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.199, espalda desde US$4.900 e IV desde US$4.000."
   },
   "ya_en_kx": false
  },
@@ -927,8 +927,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8421__es__preguntas-frecuentes.html",
-  "bytes": 38645,
-  "sha256": "dbc452f10624ad88404920461de195b99ba6d3c8399223987c3410b6d8a28058",
+  "bytes": 38899,
+  "sha256": "bf25bdfb676f8f0a137ad49ab006622c334860e1437dd85926da1d161d7a03c5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -946,13 +946,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8457__es__rejuvenecimiento-corporal.html",
-  "bytes": 70593,
-  "sha256": "e22fa44287c7468329a7feeb7630c3f2e0e8e2a9229d77387c233e58e4f23f14",
+  "bytes": 71006,
+  "sha256": "febff8fe26864e315b3d6103fecdf276ebd750c36d0832da55112e343e8113b4",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Rejuvenecimiento corporal: células madre IV en Medellín",
-   "descripcion": "Rejuvenecimiento corporal: células madre IV en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Rejuvenecimiento corporal: células madre IV en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -965,13 +965,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8455__es__rejuvenecimiento-facial.html",
-  "bytes": 75170,
-  "sha256": "5e1aee8e3440c527b29ba1a5e7e04574f4fa5f9ed4eaa25dc868c59cbfa0ddb3",
+  "bytes": 75381,
+  "sha256": "e392dd1fe8e2d02d81df293746d5c06afb46d67a81ebfca73379c62b0856143f",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Rejuvenecimiento facial con células madre y láser CO2 en Medellín",
-   "descripcion": "Rejuvenecimiento facial con células madre y láser CO2 en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Rejuvenecimiento facial con células madre y láser CO2 en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -984,13 +984,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8456__es__restauracion-capilar.html",
-  "bytes": 67324,
-  "sha256": "09ab1e98ce70843b2a5599a074b5a089e39534de77f46cbea02601536c7af223",
+  "bytes": 67597,
+  "sha256": "a136372676bf9281777aba64912567f4eef095e760cd9c5e7321704d6b4b7579",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Restauración capilar con células madre en Medellín",
-   "descripcion": "Restauración capilar con células madre en Medellín. Todo incluido, con especialistas y evaluación gratuita de tu caso."
+   "descripcion": "Restauración capilar con células madre en Medellín. Con especialistas y evaluación gratuita de tu caso."
   },
   "ya_en_kx": false
  },
@@ -1003,8 +1003,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8423__es__sobre-medellin.html",
-  "bytes": 38295,
-  "sha256": "0bf8cc68203e112cd9ddaa590c61986fc57d456f6afcc9d74de543f8d0104e87",
+  "bytes": 38299,
+  "sha256": "245439348783b3a79e6216af8556538fb07d81a9443de47dc7f03683e9a932a5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1101,7 +1101,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
   "bytes": 53083,
-  "sha256": "367b0e8c0546b8b1d72c42bbc157c85b672306bfd284540c724c4e282b789779",
+  "sha256": "48e9fce2c5f5110a9a3e62dc83a42490623157ddab2369f55c21809389c8a1dd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1119,8 +1119,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8430__es__tu-proceso.html",
-  "bytes": 49004,
-  "sha256": "a196f33ff0aa44b5a21e79e0c9dcab25e3df0a8556bc873af2fff26632b6e3dc",
+  "bytes": 48978,
+  "sha256": "35afecbd815985871b4d4fa720dc9415f2302757d48ec57ab2182e2d18f8d874",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1140,13 +1140,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8346__facial-rejuvenation.html",
-  "bytes": 73470,
-  "sha256": "15b5e1e7f7fb02c08667740be93edd7f193399d1f829aa1439f963910975699f",
+  "bytes": 73753,
+  "sha256": "219c81c7f3220dab31d632c6eb5b6b0912f9624a2a61b6e6b215a8c8d6589491",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Facial Rejuvenation with Stem Cells & CO2 Laser in Medellín",
-   "descripcion": "Facial Rejuvenation with Stem Cells & CO2 Laser in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Facial Rejuvenation with Stem Cells & CO2 Laser in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1181,8 +1181,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/532__faq.html",
-  "bytes": 37251,
-  "sha256": "9c6ab0bb5ee9efc0ee1756a5ca3e2c64ec83561e3ef77e5351bf39fc7710db83",
+  "bytes": 37521,
+  "sha256": "902e7d6192de24c440ab042e22a8388dcdda3c2688594930498588db6fa17405",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1200,15 +1200,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8327__foot-ankle-stem-cell-therapy.html",
-  "bytes": 65442,
-  "sha256": "e3838fc1b78051e7bd82cc5c5bb6c75f8fbc3e8de646080a9dbb6bed07dde498",
+  "bytes": 66046,
+  "sha256": "12321f4ee118ac87eb3392d2544170edeac6be47bd800c573552269e9c934111",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Foot & Ankle in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cells for the ankle, plantar fasciitis and the big toe, ultrasound-guided in the operating room. From $1,750."
+   "descripcion": "Stem cells for the ankle, plantar fasciitis and the big toe, ultrasound-guided in the operating room. From $1,399."
   },
   "ya_en_kx": false
  },
@@ -1221,13 +1221,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1027__full-body-rejuvenation.html",
-  "bytes": 69061,
-  "sha256": "55c92bc18d631ad5a1f098dd42e3590fba8354a5ad7399d1ac885e251284ef28",
+  "bytes": 69483,
+  "sha256": "4ae9912b6e60e91efd445a83b3e283a8092a91af42d408a2a0ab7283d945bebf",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Full-Body Rejuvenation: Stem Cell IV in Medellín",
-   "descripcion": "Full-Body Rejuvenation: Stem Cell IV in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Full-Body Rejuvenation: Stem Cell IV in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1240,13 +1240,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8347__hair-restoration.html",
-  "bytes": 65884,
-  "sha256": "a4f9a4c12ca2a604108b37d3a693e65af50cf440fc1c7ff480358ba3dc042c70",
+  "bytes": 66205,
+  "sha256": "f1b026a8c41da06533b71ae9425db32a4fc082332c2c0261f4f113b4a2246616",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Hair Restoration with Stem Cells in Medellín",
-   "descripcion": "Hair Restoration with Stem Cells in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Hair Restoration with Stem Cells in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1259,15 +1259,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
-  "bytes": 64949,
-  "sha256": "7f4de5bd81153e0a90a295b6c02ac4973b1f9f3408a0df674a4b8c3890d17f16",
+  "bytes": 65448,
+  "sha256": "329b917757725c362066b779c65399d5d0ecdcf92ef5dd12a1ad47f53dce29dd",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Hand & Wrist in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cells for the wrist, the hand and the thumb, ultrasound-guided in the operating room. From $3,790 all-inclusive."
+   "descripcion": "Stem cells for the wrist, the hand and the thumb, ultrasound-guided in the operating room. From $1,799."
   },
   "ya_en_kx": false
  },
@@ -1280,15 +1280,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8324__hip-stem-cell-therapy.html",
-  "bytes": 70856,
-  "sha256": "eebd12d243537d6b1a4b6ad2c609f21704212a21d62e2103d0f9391cc1e0fae2",
+  "bytes": 71215,
+  "sha256": "05d5133ab82484dcf15f498de8970e5ae7ad191b4badca60c10fb3b3616ce0a8",
   "fotos_nuevas": [
    "scc-hip-proc-1.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Hips in Medellín — Before a Hip Replacement",
-   "descripcion": "Stem Cell Therapy for Hips in Medellín — Before a Hip Replacement. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Hips in Medellín — Before a Hip Replacement. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1301,13 +1301,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8307__knee-stem-cell-therapy.html",
-  "bytes": 64067,
-  "sha256": "45e27ca9a1f32fdde8d5d7ddcd52f57e5bea1549ee38845761c34ca02ce0080a",
+  "bytes": 64426,
+  "sha256": "627b70557bfc9692079d9c5b392c9d95b204798f068f4028aac8b6a9f1329ab6",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Knees in Medellín — Alternative to Knee Replacement",
-   "descripcion": "Stem Cell Therapy for Knees in Medellín — Alternative to Knee Replacement. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Knees in Medellín — Alternative to Knee Replacement. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1320,8 +1320,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8336__lung-disease-stem-cell-therapy.html",
-  "bytes": 60796,
-  "sha256": "ad024be8bb4af23e014e288b497f2ebbc62358e135355c89b5e68e30aaa12a86",
+  "bytes": 61193,
+  "sha256": "c7a6e08f930c6544a2080087210d5b89ba9dd80543e2b562c5a68d609ddacc2f",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -1341,8 +1341,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/634__medellin.html",
-  "bytes": 37867,
-  "sha256": "d240522f53cbdacde3cd833adebe3eaea1f3cace7893631a26c444f53c781bff",
+  "bytes": 37883,
+  "sha256": "bed66a605bec424a66c4c269b47076c6e02ee5eb42a2c6883ff1ce3e5c2f6bbc",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1360,8 +1360,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 61829,
-  "sha256": "b81bb06f27d35ffb415bddd4d6eb8fe36f808ba95e266b5d5dd1a2ff767978e1",
+  "bytes": 62287,
+  "sha256": "6159e23fa7df4e22b7dbeeb14132f2f3bbe9b174d93d9fd9ee0e9f8188b74774",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1369,7 +1369,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Multiple Sclerosis in Medellín | Stem Cells Colombia",
-   "descripcion": "IV or intrathecal stem cell protocols for multiple sclerosis in Medellín, after a neurologist review. From $5,850."
+   "descripcion": "IV or intrathecal stem cell protocols for multiple sclerosis in Medellín, after a neurologist review. From $4,000."
   },
   "ya_en_kx": false
  },
@@ -1401,8 +1401,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
-  "bytes": 73096,
-  "sha256": "f7d0e57fd3829da26af107e8f943511154d674c116ccd698b0fd571255c035a7",
+  "bytes": 73380,
+  "sha256": "63ae540d93d4eef06e31aa9c56f2a04d3d67f962dcd214a4d8011327fea2ef84",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -1410,7 +1410,7 @@
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Neurological Conditions in Medellín",
-   "descripcion": "Stem Cell Therapy for Neurological Conditions in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Neurological Conditions in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1423,8 +1423,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 60507,
-  "sha256": "1a0edc5fad429b129d06a0c6365b29385050abac185fe501f843d6038a93d9b9",
+  "bytes": 60970,
+  "sha256": "94072d52b81fb6a3f4e3bf6682336986f7ac67c8bc09f54490f0ab9b0d99c6e8",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 72332,
-  "sha256": "c86f85b5ac707e0098af715a9e58358a48416add6e34f8ca57129b8d45017c28",
+  "bytes": 45405,
+  "sha256": "fbaf9ab1f7038daccf9784ea59610da53a7a42794f7657fb0b607e4997823594",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
-   "titulo": "Stem Cell Therapy Pricing in Medellín — Plans from $1,399 | Stem Cells Colombia",
-   "descripcion": "Stem cell therapy plans in Medellín, with what each one includes: knee or shoulder from $1,999, hip from $2,199, face from $1,399, hair from $1,599, back from $4,900 and IV from $4,000."
+   "titulo": "Stem Cell Therapy Pricing in Medellín — From $1,399 | Stem Cells Colombia",
+   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,199, back from $4,900 and IV from $4,000."
   },
   "ya_en_kx": false
  },
@@ -1495,13 +1495,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8342__sexual-health-stem-cell-therapy.html",
-  "bytes": 60462,
-  "sha256": "8df7ae28799da46079bd99ba447482e7d35165818b43d8d5609c13e066571263",
+  "bytes": 60704,
+  "sha256": "8dcf7b0c091888fbd21a3c19099e375869f7b34775ae218a4611aed36f435896",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Sexual Health Stem Cell Therapy (P-Shot) in Medellín",
-   "descripcion": "Sexual Health Stem Cell Therapy (P-Shot) in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Sexual Health Stem Cell Therapy (P-Shot) in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1514,15 +1514,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8325__shoulder-stem-cell-therapy.html",
-  "bytes": 75913,
-  "sha256": "1710aad19a1f7e8bf98a1c29e4c4912607c5cb13e34d18ba210fbfba29898695",
+  "bytes": 76272,
+  "sha256": "0bbf9d8a7d3258907f7d711fb42dbe6eac96ad84dafe201793d8b52a07517dec",
   "fotos_nuevas": [
    "scc-ultrasound-1.jpg"
   ],
   "resenas": true,
   "yoast": {
    "titulo": "Stem Cell Therapy for Shoulders in Medellín",
-   "descripcion": "Stem Cell Therapy for Shoulders in Medellín. All-inclusive, specialist-led, with a free case review."
+   "descripcion": "Stem Cell Therapy for Shoulders in Medellín. Specialist-led, with a free case review."
   },
   "ya_en_kx": true
  },
@@ -1555,8 +1555,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8329__sports-injury-stem-cell-therapy.html",
-  "bytes": 62740,
-  "sha256": "d2262e3d07e44e32a7854215bdf1600586ea606553ca13710f6ad7ed801b5568",
+  "bytes": 63226,
+  "sha256": "ff6cd6709ce3e88a187fc42ad23fd0d523feb42ac771c26f16d696ac62e752cf",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -1564,7 +1564,7 @@
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Sports Injuries in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cells for partial tears of tendons, ligaments and muscles, ultrasound-guided. From $3,790 all-inclusive in Medellín."
+   "descripcion": "Stem cells for partial tears of tendons, ligaments and muscles, ultrasound-guided. From $1,599 in Medellín."
   },
   "ya_en_kx": false
  },
@@ -1577,8 +1577,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 60785,
-  "sha256": "57a72e8a22ecdfc2420cb9cde0534c637910a139ccde7b74cab3af922ec9e98a",
+  "bytes": 61284,
+  "sha256": "fcee2689e22093d5bc715a52a2d4b795bf88d0eecd7a225e57bd35cb74027f0d",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1825,8 +1825,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 62337,
-  "sha256": "62a8370e3c3d5b6cfe46b768866a55e5f3687c3d587e283a9a3e35914f4f1599",
+  "bytes": 62856,
+  "sha256": "32cc6efac9b5c5ce7c6acc9a3111bb990c84a4fc1b7df6b3c6305dcfd50d3730",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1848,7 +1848,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
   "bytes": 52476,
-  "sha256": "e51b9ce97ec885b4f979281aaa9bd1ca51e1063c51a9c56c4d05558f549d88b6",
+  "sha256": "71848011da6b1e994cdc3902390f148ee4c819a3e349dd19f20d15de067b5b66",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1866,8 +1866,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8322__your-journey.html",
-  "bytes": 48105,
-  "sha256": "3a183d8853f7cb6ef6c24662cd424753ef98297ab18d9c1bfc7c684dcccc1da2",
+  "bytes": 48138,
+  "sha256": "8ee6b9eaa6b65dd6f8febcc07265050d9c796d1bce97867fb2d976d20e5d253a",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1887,8 +1887,8 @@
   "plantilla_actual": "",
   "accion": "reemplazar_main",
   "archivo": "paginas/8704__10-essential-questions-to-ask-before-choosing-an-umbilical-cord-stem-cell-treatment-center.html",
-  "bytes": 38092,
-  "sha256": "710b68fb0aa5dccc89c335db59a241c4052f365f8a11e807c293be10ca2220dc",
+  "bytes": 38439,
+  "sha256": "f7d8aae9a29acb363322b79e574da4ffcab0bdd0bd881b740b91c413f6cf924e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1907,8 +1907,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6141__10-reasons-why-medellin-is-a-top-destination-for-medical-tourism.html",
-  "bytes": 34516,
-  "sha256": "9180a8f1fce5dd08ec3b22970c9d21665c95dce0d3e7e9727e9ab119d85fb02f",
+  "bytes": 34635,
+  "sha256": "2cdc67f65137889dc83f1259f4fce33fcb21323c1bd128d9fbbc44e6c9b1be2f",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1926,8 +1926,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8694__alternatives-to-hip-replacement-surgery.html",
-  "bytes": 36097,
-  "sha256": "708764980031df61fcf1fe1d0df665eac0c37bbccb37d1bdcd7ebb1f1c652d38",
+  "bytes": 36251,
+  "sha256": "8074a1bf0d7e5adfb8464e3d8681276d3b6591809aa05a477434b0c38f06e1da",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1945,8 +1945,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8693__alternatives-to-knee-replacement-surgery.html",
-  "bytes": 36586,
-  "sha256": "b2f606bc825d3f6554f1326a247e7efa1c19138c0642331f370f9b26908ad8db",
+  "bytes": 36571,
+  "sha256": "aeb89194539b0e2b104c7c64639b7d8f6500b67e74d295d96d05ff19fb9a6645",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1983,8 +1983,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8696__biohacking-with-stem-cell-therapy.html",
-  "bytes": 35253,
-  "sha256": "93f1b9190700daf067264316ebace3db254478d4c80b924031a578a1a42ea9a1",
+  "bytes": 35246,
+  "sha256": "6c3200ebc2cd7962442394c3c0a7d98c0884deba8be2c3942c14ca51d8a395eb",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2021,8 +2021,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6177__exploring-eboo-therapy-benefits-and-applications-in-modern-medicine.html",
-  "bytes": 35547,
-  "sha256": "629343698e162262da3f2b4213046891ff29cefbbb049758fa109c03309a1e6a",
+  "bytes": 35536,
+  "sha256": "6dd8d04890a0e57c84bacb5cc845c7bf458cd2627acdb3c6339208c5db8350fd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2040,8 +2040,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1267__exploring-the-potential-of-mesenchymal-stem-cells-from-the-umbilical-cord-in-treating-meniscus-injuries.html",
-  "bytes": 35079,
-  "sha256": "ed8f228f15b35660406c089b054167d9854172296d4c690c3f9091415abf294c",
+  "bytes": 35064,
+  "sha256": "28c7b132be4f6080fc43584bdd13866733145512efdcf0a3d754f17770b437a0",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2059,8 +2059,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1270__harnessing-the-power-of-stem-cells-a-new-era-in-treating-sports-injuries.html",
-  "bytes": 35542,
-  "sha256": "451302baca838c0396348758fc68695690f5f2b923174d2344bcca4ba658906f",
+  "bytes": 35527,
+  "sha256": "f31f17fc6bdfb543785812864b3bb323da7bbef1c102715c68422ee48a72569c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2079,7 +2079,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6201__healing-power-of-umbilical-cord-stem-cells-in-sports-injuries.html",
   "bytes": 35683,
-  "sha256": "e1cde9f96138540fb5e0ade80300297afb1067eea7b697a6d35820eea9537ffb",
+  "sha256": "3a1103e6615cdc3ef714e86dcbd4ea74888c517dd303675d2507a459992dac8b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2097,8 +2097,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6609__hopeful-advances-umbilical-cord-mesenchymal-stem-cells-for-type-2-diabetes.html",
-  "bytes": 35294,
-  "sha256": "939ac266b3b26ccaffb93f92bef3fa169805b56dc49b3880d439626020d0149c",
+  "bytes": 35276,
+  "sha256": "9870fbedbce0a1068a9412b8217241f30cd7368626a46feb3c575ef60b3a75bd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2116,8 +2116,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6159__how-to-choose-the-best-stem-cell-clinic-for-you-why-stem-cells-colombia-in-medellin-is-the-perfect-choice.html",
-  "bytes": 35370,
-  "sha256": "635f11efb2d572310495f7d5a1b6ce6f206104063c33067cc51a00d1824d25fc",
+  "bytes": 35523,
+  "sha256": "d5e01dba113a6b67f0f2838c6e118170bcd12b704a40d10236ecf7d6a5313d03",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2135,8 +2135,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4578__intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging.html",
-  "bytes": 35947,
-  "sha256": "bb986b6eaf97ecc5639fce8e7b619bb4c82dc7473fcb720724bfde0f6fef1251",
+  "bytes": 36424,
+  "sha256": "8e4eafa9fc6f3d8a4a108d639bbc9a13546f003a7d74b5734caa151297f7b8c4",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2154,8 +2154,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6185__lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment.html",
-  "bytes": 35461,
-  "sha256": "62365bc9e1eb12331597d94063ff01425f135a3f209a1bf08ec45e0e397e19e4",
+  "bytes": 35446,
+  "sha256": "fff575d408e3638051bf5d8d2303200d62e00572d65f3faf12668b24c1c1b781",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2174,7 +2174,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6145__mesenchymal-stem-cells-from-whartons-jelly-a-promising-approach-for-arthritis-treatment-2.html",
   "bytes": 35777,
-  "sha256": "a38aa2e024088e3c81286cce24016c1fc8f52a0717a64a7afdc4334a057f1589",
+  "sha256": "dbe6b33f1c1ec07bd600472f1b004228779245ce812cd961c21dee2998d96b50",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2192,8 +2192,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6183__neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape.html",
-  "bytes": 35375,
-  "sha256": "8d4eb9b55f47426d0798b2fe10f189fdd0bc4168d8f9a5321fafe6ce969c67f6",
+  "bytes": 35360,
+  "sha256": "a2a6f2694ac184a8879573c84fb6b72c667a9e2ca7cede72621d9ac8cf4b3aed",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2212,7 +2212,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6163__one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications.html",
   "bytes": 35434,
-  "sha256": "32e6da6a54a9fcd4c9f79b5f1a866b45548b257db16cdf627b5c30eeada00a9c",
+  "sha256": "bde40fa5c1e47656d595951f6bf4235fe1a9624d97cd2b434955a5a18e169016",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2230,8 +2230,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4562__osteoarthritis-of-the-knee.html",
-  "bytes": 35718,
-  "sha256": "d67a97d1f45064d1eb8d00728e8668f11be459e0942a7a4da8a917a9de70dff1",
+  "bytes": 35703,
+  "sha256": "0ddec6278588d3861320c2345c58d55e5f9b638d920c506cd4c519d9f470c5a4",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2249,8 +2249,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6586__psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35309,
-  "sha256": "871171bbb9a995f3cff9e91f6d7994a0fa3d5d6c455414a3e20fd534962e2ac4",
+  "bytes": 35512,
+  "sha256": "341c48326ec74e35138d46d7d53986f363757115084d2329c735f3ce5bf32f48",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2269,7 +2269,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6181__regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment.html",
   "bytes": 35185,
-  "sha256": "b6c8cc66e696450d71cdb764c835593b014290675cc38aaf087dbd8c262fb776",
+  "sha256": "52c5475e654e4c772c54ef305a02b8cddfbd854d871b7acf3cc2664178e85db9",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2287,8 +2287,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6147__regenerative-medicine-tools-for-sexual-health-a-deeper-look-into-techniques-and-science.html",
-  "bytes": 34719,
-  "sha256": "58d5b0de00f3dc6012e3a0782e61b748625d040e3595b4a3b512fe3bbd8dc445",
+  "bytes": 34662,
+  "sha256": "f32a12cf83bf762b70f6a61e08479ca5d226f2e0e02d76a39bf3db009d2d616f",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2307,7 +2307,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/1261__revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
   "bytes": 35249,
-  "sha256": "999fdd02cc163193ffdef84ebb582546778642893d898b0696927a49e50d82e6",
+  "sha256": "d78190c910c513c0231e86b5c51c4d8676c6fe361ce6217e42aa49b6bb4192e2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2325,8 +2325,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6571__rotator-cuff-tears-and-regenerative-medicine-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35320,
-  "sha256": "80f5b514354c741fc990691233c8ec4975dbfaacfaaa7e1af48a38899e7982f4",
+  "bytes": 35305,
+  "sha256": "f4bfc0152f540ed153f28de6cc12112d08143acb59fdd7e803621ba5d9ec6699",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2344,8 +2344,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6574__sacroiliac-joint-dysfunction-and-regenerative-medicine.html",
-  "bytes": 36229,
-  "sha256": "fa0ede1433531404c18253090b27e1eb942af363e32e5a3c5f8276e6fb6d3416",
+  "bytes": 36284,
+  "sha256": "2da192fb02e77b02f858d2e89b2801617d7281af87108188b28a51b1b8242212",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2364,7 +2364,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8695__spine-surgery-vs-regenerative-medicine.html",
   "bytes": 33958,
-  "sha256": "9227afe2eb05cddfebe526c92b33dab3a0d0572b9af33e1178047bfa168022c5",
+  "sha256": "69649999f4ba482325c05fb475e98d672047499b5db735ca5dd6ca941322f862",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2382,8 +2382,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
-  "bytes": 32879,
-  "sha256": "124d1c57d98ace74869ac739cc8d7a68e0c1613d58fbf552bcb8950e4dffbe79",
+  "bytes": 34280,
+  "sha256": "e3ddbb3f1fc33aeef9314559d08e0a10d800c99b6047d9e25684a0b86873a454",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2401,8 +2401,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6173__stem-cells-in-the-treatment-of-knee-anterior-cruciate-ligament-injuries.html",
-  "bytes": 35478,
-  "sha256": "8058e94802ddbe08b719d9ca7322b40de3258991674a607eab6e1543c29b3a18",
+  "bytes": 35641,
+  "sha256": "f545bf65eb373cfcce8f8bd05f7c5ba6a2d0fa77665be4d75b3cf248151bb020",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2420,8 +2420,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6167__strengthening-health-through-partnerships-the-power-of-alliances-at-stem-cells-colombia.html",
-  "bytes": 34954,
-  "sha256": "b6b505f6d85dc3240277128788ba38101ce63dd82157387b8517a8298253037c",
+  "bytes": 35016,
+  "sha256": "a23861d754a8a66d76c421393ce2cb7b5e04da172aaf46452b0dae6691d84db9",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2439,8 +2439,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6582__systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35513,
-  "sha256": "659c9d55f356876f2d6572f71a903d6a4c9ad653d8f8987b2ac878af3eb2e971",
+  "bytes": 35498,
+  "sha256": "eb36b280641c6c599a524c422b4f20c37dde5763d94775de5ecb19068b042122",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2459,7 +2459,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6578__the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints.html",
   "bytes": 36328,
-  "sha256": "336957fe703941de49c8785a9c81a077089f3aa513a6ceb497fc56aef9665c62",
+  "sha256": "3069b3b76841e6b23f38342a00e168541387b0a349dbc284b466abd8d0d75546",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2478,7 +2478,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6171__the-potential-of-umbilical-cord-stem-cells-in-meniscus-injury-treatment.html",
   "bytes": 34670,
-  "sha256": "d2fce1124df31b65d9b2e1c639a6100670fde1596b51943fa902e45fd832b7f1",
+  "sha256": "081547acd667cbcabe04fcb355afd3e17e0fa77b10cc82fd6550a952f48e6bdd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2515,8 +2515,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6580__the-role-of-umbilical-cord-derived-mesenchymal-stem-cells-in-ligament-injuries.html",
-  "bytes": 35637,
-  "sha256": "87cca05bdafbc19f14ed877f809845c5b4465e0af62d78f205df576c6ea66b77",
+  "bytes": 35750,
+  "sha256": "0c69dd2e047d7504b2fb2aaf26bf8f6598796db28fbf02e6f8ac1326aecc4d2a",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2535,7 +2535,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/1273__the-therapeutic-potential-of-mesenchymal-stem-cells-from-umbilical-cord-for-systemic-treatment.html",
   "bytes": 34988,
-  "sha256": "2e603b427c080ca18cc7e374254499bf5eda578e6eab692e77f581804725e848",
+  "sha256": "9f9c93dff72f99a5b6d3566be63aadd36d1ea9e7a462b241712d4943ed33b209",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2553,8 +2553,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6590__the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome.html",
-  "bytes": 35557,
-  "sha256": "c9a64ba41fafb8bfce5cfabb035e62d862f6ecadab677ac4ec15aee874768f24",
+  "bytes": 35542,
+  "sha256": "3e574960c72041d5f7fdf911e52a9ccb2e54f4fb81449c319d462fdede948d90",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2573,8 +2573,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6880__top-5-stem-cell-treatment-centers-in-colombia.html",
-  "bytes": 34342,
-  "sha256": "0f508ed0e6e2749cc4e985effcb160ae8e4c014184e4a26c4c1b8e1601d337c0",
+  "bytes": 34394,
+  "sha256": "e1c5ee165c1ca797bf8560942a4aaa4b61911ee49ee771669c07f951c9d1ca5a",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2592,8 +2592,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6203__top-stem-cell-clinics-in-the-world.html",
-  "bytes": 34537,
-  "sha256": "e3c709f4caa4989e95beaa71ef2407474de504c58098bd876bfcfa72f6891c8d",
+  "bytes": 34562,
+  "sha256": "00eb5d4147a5dd124c3c550527a24cf33a0981abad62174d0af6acbbe13d41d2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2611,8 +2611,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6584__type-1-diabetes-and-regenerative-medicine-the-immunomodulatory-role-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 36045,
-  "sha256": "c176446698d9d9a79b3afaf546f77d3f0e8e68f22a760258d5bb29e33981f3b7",
+  "bytes": 36098,
+  "sha256": "3456b7342ce4a7f927c3aab7a3a8594698c58058399da0515fb952dbb82f15e8",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2630,8 +2630,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4575__understanding-aging-and-how-to-reverse-it-becoming-our-own-benjamin-button.html",
-  "bytes": 36254,
-  "sha256": "3aea41567b736bdca4155b7b3c1498caeecf75a860e171632087a3dfb83d266b",
+  "bytes": 36239,
+  "sha256": "2e5efbd5207710ce4d0b204ff3d065afdcccfa8c4de95f16ceb94c7d3accffa7",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2649,8 +2649,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1264__understanding-harnessing-the-power-of-umbilical-cord-derived-mesenchymal-stem-cells-for-rotator-cuff-injuries.html",
-  "bytes": 34615,
-  "sha256": "cb58504fdc849627dc7a660eaa2dd34d6b481b4bff7cd3a128ea0c51fed63361",
+  "bytes": 34600,
+  "sha256": "38c752e0cd0ad445a2a2dedd381aa56d4196df2ca8edbfaa858ccc3a29a55983",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2687,8 +2687,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6169__understanding-the-cost-of-stem-cell-treatments-around-the-world.html",
-  "bytes": 34243,
-  "sha256": "5739f12f370c28f1850ab094d5429805e1432cf7a27ecfbe74c76a151276e2db",
+  "bytes": 34618,
+  "sha256": "4763e091a3d7aea6c72f693e3402ebcad972db6c6380846a9c2933d4429f409e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2725,8 +2725,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6149__unlocking-longevity-and-better-health-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35647,
-  "sha256": "10b7935c3a4de224a79e19919c108a03f92ca5a1d22ae130173f29037229befc",
+  "bytes": 35632,
+  "sha256": "66f12dfe48d1db37dc70c3747270b28bb0f76cfda6f9d915fd0af4baa4c80a4b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2801,13 +2801,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6151__why-choose-stem-cells-colombia-in-medellin-for-your-stem-cell-therapy.html",
-  "bytes": 36448,
-  "sha256": "2f4bf9e4a3797ec4d5a667d6bb97709ea4af813740b428e57e1d1ac3a0c9f0c4",
+  "bytes": 36476,
+  "sha256": "bcda4b4efd00ee6e34144f32c3833064ec2348e5f27b26ee3675821ff7a4c145",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Why Choose Stem Cells Colombia in Medellín",
-   "descripcion": "One cell source, the right specialist for your case, a real operating room with the hotel upstairs, and one price in writing. What that looks like for you."
+   "descripcion": "One cell source, the right specialist for your case, a real operating room with the hotel upstairs, and your price in writing. What that looks like for you."
   },
   "ya_en_kx": false
  },
@@ -2839,8 +2839,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6307__why-people-choose-medellin-colombia-over-mexico-costa-rica-or-panama-for-stem-cell-treatment.html",
-  "bytes": 33803,
-  "sha256": "5e8ff9b5141d4695d14ef60a73166377d68476a00ff4254a8b6390c11aef4750",
+  "bytes": 33825,
+  "sha256": "51c0c4124f87f66f9cfe2e1c99e2917289b7136b9bb2b76730bfd72000e60019",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
