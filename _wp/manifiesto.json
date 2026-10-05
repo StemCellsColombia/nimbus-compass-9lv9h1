@@ -32,8 +32,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/247__about.html",
-  "bytes": 43031,
-  "sha256": "176f4808e0e2c39ff6462c5ac5c7f6d7d76f042fd758564fcf30799b5ab04aa9",
+  "bytes": 43051,
+  "sha256": "daeefbd1c8f943c4cc67c2c984bedf8e911ae422d8f44b71b6f18e52209e7845",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -62,8 +62,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
-  "bytes": 63239,
-  "sha256": "40a17fc96cb82a190bb0ce22ecb5f101528bbe5d6545cf454d9299ee615fa841",
+  "bytes": 63263,
+  "sha256": "175cf53cdd848f87e06a27393c9ffe134cdb595b9ac0c147703abc67fbd83ce0",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -100,8 +100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
-  "bytes": 63835,
-  "sha256": "d15751db28d449256e4a5c943759d97ff73d0b5772929609f36b90572976e6db",
+  "bytes": 63840,
+  "sha256": "859264f1cb77d65d2a74dfd1a7f211c2796bdbae87d3a063fcf46db1caedb1b5",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -132,8 +132,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
-  "bytes": 65264,
-  "sha256": "ad1902e3aae15515a50d28f705e817174e9aa9a4c036ad565cb0c103dcd4ca86",
+  "bytes": 65248,
+  "sha256": "ff8f8c98460963282b237c37af80469acbb8831af2c063bdf850f442ee1f78fc",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -242,15 +242,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8333__crohns-disease-stem-cell-therapy.html",
-  "bytes": 61733,
-  "sha256": "913c18a0b437e20a7ca77095f67714426b8e989a78376282831c339ae9adbfa8",
+  "bytes": 61740,
+  "sha256": "5ce51c4e3f6e357134f668713846a036a4d9dcbdcdc7d4048958a1b4b3102898",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Crohn’s Disease in Medellín | Stem Cells Colombia",
-   "descripcion": "An intravenous stem cell protocol for Crohn’s disease in Medellín: four days, cancer markers first, from $4,000."
+   "descripcion": "An intravenous stem cell protocol for Crohn’s disease in Medellín: three days, cancer markers first, from $4,000."
   },
   "ya_en_kx": false
  },
@@ -263,8 +263,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8335__diabetes-stem-cell-therapy.html",
-  "bytes": 76732,
-  "sha256": "0b135a5a3d0c87430d3bf1eca51ee00d7103acc920eab2df73f16aaee9c0a711",
+  "bytes": 76959,
+  "sha256": "9ccc24bcfc62f82e38eeb6c03e8b2d93cab872cea502c935dc895ea34c7df11b",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -343,8 +343,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 62767,
-  "sha256": "521a7abc1b87735ef2e2e1f048fae95805cfc1827420c73fb2f3dd9e8fcecb91",
+  "bytes": 62763,
+  "sha256": "49b590f2071cc12b5c96f0a6a4a3d50b7803929108f7e4766e8657705fdacd7e",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -365,8 +365,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
-  "bytes": 64478,
-  "sha256": "e4c38d080dd4013941af5cdc1b8de964834002a2625408051076badd22789c19",
+  "bytes": 64491,
+  "sha256": "c0af0253ea9a9af139224410d25e6e94e50febe990a7c5c24a2b51d94e8c9c03",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -384,8 +384,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8439__es__celulas-madre-artritis.html",
-  "bytes": 65840,
-  "sha256": "c0ba78773ba8f3b014f8968c0d57138e3ed28a3320b9960e7fa15fdc1d97dd32",
+  "bytes": 65830,
+  "sha256": "6ab2adf772ac870f1e9ab6e629f298b3d5c791e37ee44152db72ea1218e195f4",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -416,8 +416,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
-  "bytes": 66928,
-  "sha256": "e845c36ec6870995204d3d0001883164fb92d4594a1027fee5645b016bedac5b",
+  "bytes": 66820,
+  "sha256": "d8f5cf3cdbbb0b6dc9eab8769fa23b43067fa3b7ae947f3a54d5e64348e7eed3",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -456,15 +456,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8442__es__celulas-madre-crohn.html",
-  "bytes": 63590,
-  "sha256": "a6cda87eee467195b496b2584aafc2b081c81763d58424124283a0d4c23f7b0a",
+  "bytes": 63576,
+  "sha256": "e6319dde3bff6559493e803f6ca3664ca485ffb5f09a5453aa15cbe1f46a1187",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para Crohn en Medellín | Stem Cells Colombia",
-   "descripcion": "Protocolo intravenoso de células madre para la enfermedad de Crohn en Medellín: cuatro días, primero marcadores tumorales, desde US$4.000."
+   "descripcion": "Protocolo intravenoso de células madre para la enfermedad de Crohn en Medellín: tres días, primero marcadores tumorales, desde US$4.000."
   },
   "ya_en_kx": false
  },
@@ -477,8 +477,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8444__es__celulas-madre-diabetes.html",
-  "bytes": 78743,
-  "sha256": "f87774b16902cc80472c85ad7a3baf1e80af112d3065cbcea75b26b4f8906d4d",
+  "bytes": 78950,
+  "sha256": "502a5c1bb6cd2148994bbc26b91cbe0c9e1344fa72d4652913617b8faa465469",
   "fotos_nuevas": [
    "scc-or-8.jpg"
   ],
@@ -509,15 +509,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8445__es__celulas-madre-enfermedad-pulmonar.html",
-  "bytes": 62914,
-  "sha256": "eb2c662fc440c79ca536a02679b763b93fbb6163d826e2d26e5f0d1d8a6dd8e9",
+  "bytes": 62990,
+  "sha256": "15320f55ba15ade65d9bfb1e481ae23834cbe71964b8bdee8c0c955dcd1d1f52",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para los pulmones en Medellín | Stem Cells Colombia",
-   "descripcion": "Protocolo de células madre y exosomas, intravenoso y nebulizado, para condiciones respiratorias crónicas, revisado primero por un internista."
+   "descripcion": "Protocolo intravenoso de células madre, con exosomas nebulizados que se pueden sumar, para condiciones respiratorias crónicas, revisado primero por un internista."
   },
   "ya_en_kx": false
  },
@@ -530,8 +530,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 63677,
-  "sha256": "ea5852995f6772ff61a08271103d9870ceb99202747a9e560c93065218739f3f",
+  "bytes": 64269,
+  "sha256": "de589faa4b092b47b0837f052284ff7ed5345131fdbfae951210ca1bdb54b630",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -594,8 +594,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 64578,
-  "sha256": "07a1b876a0a95b0707d596627e16dd49d230169780ee28ac58aa6e20f44925de",
+  "bytes": 65172,
+  "sha256": "ce36120e3a65d79de9e76a963ad6570e742fc5765a797dfa7961220480f50b68",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -638,8 +638,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
-  "bytes": 67395,
-  "sha256": "afc7f2c711edbcc241d8983435c7c72de0b573efd4915e09debd82c973de33ea",
+  "bytes": 67791,
+  "sha256": "40dbb83c0a95b7ebd1270577df87300151f4ca616434d7eb2cb82dff1d74d204",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -659,8 +659,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 62312,
-  "sha256": "dff08d112f4da48c5c3df880c4d31eee1a3fc5deddd7a4225b281cc35050fcf4",
+  "bytes": 62855,
+  "sha256": "14e0dbb5322ba9e16ead606efbb6dc7a2b81d7742e5dfdcc3eb6edcc84b5326d",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -740,8 +740,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
-  "bytes": 74931,
-  "sha256": "48baad5d5dcba758d5995d5d27aa30a5f622b6635422483c970e4defd467d772",
+  "bytes": 75131,
+  "sha256": "52fb9eff560a43026ecee422255baca2bb78c30ff25e80d8e50ef70a0acb7e38",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -762,8 +762,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8422__es__como-funciona.html",
-  "bytes": 36274,
-  "sha256": "3955b538a3347bc3a378cd43ffd6322d0a1a4c61e078a714520d9bc3e9026a76",
+  "bytes": 36203,
+  "sha256": "734060142317a87be0ac41d2ffe27c782c03552670e072a7cfcf20daa20cdc96",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -877,8 +877,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8424__es__nuestras-celulas-madre.html",
-  "bytes": 53901,
-  "sha256": "ff14e302f34b8af5d82cc8068f788623411df83f773e404edc2926ca263104dc",
+  "bytes": 53882,
+  "sha256": "7be081df98b08eab9c1a9ac0a35599a2c1fd38f82a98f01d8694c74146c92ea8",
   "fotos_nuevas": [
    "scc-syringe-1.jpg"
   ],
@@ -927,8 +927,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8421__es__preguntas-frecuentes.html",
-  "bytes": 38899,
-  "sha256": "bf25bdfb676f8f0a137ad49ab006622c334860e1437dd85926da1d161d7a03c5",
+  "bytes": 38947,
+  "sha256": "4cefae4bd05039910e006828211fb2ff21cf39293f5c605bd7774c12e70f0d83",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -946,8 +946,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8457__es__rejuvenecimiento-corporal.html",
-  "bytes": 71006,
-  "sha256": "febff8fe26864e315b3d6103fecdf276ebd750c36d0832da55112e343e8113b4",
+  "bytes": 70985,
+  "sha256": "25eaa1a88c778b32d2b0558cd38ed789b5e5ff089adc8e8274ebb2972f9f198a",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -984,8 +984,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8456__es__restauracion-capilar.html",
-  "bytes": 67597,
-  "sha256": "a136372676bf9281777aba64912567f4eef095e760cd9c5e7321704d6b4b7579",
+  "bytes": 67605,
+  "sha256": "54bf50ca2f50a710e76e19d8fba72618b9e907b796a14bb063e867790561b1be",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1022,8 +1022,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8416__es__sobre-nosotros.html",
-  "bytes": 43482,
-  "sha256": "3c894d9e02b68ebd12bd160ed5afd20085061ab2c5da4cf20ddc24fc231f1969",
+  "bytes": 43487,
+  "sha256": "e27e023fb4ca499d4e979252093ee6fbc34cf31e3e88fbfffcfdb2c57386d34a",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 53083,
-  "sha256": "48e9fce2c5f5110a9a3e62dc83a42490623157ddab2369f55c21809389c8a1dd",
+  "bytes": 53105,
+  "sha256": "30ea852fc6def457f7667cdc7761c074af10ecb3a26c16453375533b1c059a89",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1119,8 +1119,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8430__es__tu-proceso.html",
-  "bytes": 48978,
-  "sha256": "35afecbd815985871b4d4fa720dc9415f2302757d48ec57ab2182e2d18f8d874",
+  "bytes": 49004,
+  "sha256": "08e7a9f30aed1b19bbc746b794e6a600525eb17052e94213c1ff9291854e8968",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1181,8 +1181,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/532__faq.html",
-  "bytes": 37521,
-  "sha256": "902e7d6192de24c440ab042e22a8388dcdda3c2688594930498588db6fa17405",
+  "bytes": 37581,
+  "sha256": "cad4b80c2c9b91e55af9acd7cd2ffdf0c1efccccea34b22bb1af24a63104c9ff",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1221,8 +1221,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1027__full-body-rejuvenation.html",
-  "bytes": 69483,
-  "sha256": "4ae9912b6e60e91efd445a83b3e283a8092a91af42d408a2a0ab7283d945bebf",
+  "bytes": 69582,
+  "sha256": "d6062b7222719e5b5ac4c8d6e77621e43d461e9e08547a34fe9ea4b750891378",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1240,8 +1240,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8347__hair-restoration.html",
-  "bytes": 66205,
-  "sha256": "f1b026a8c41da06533b71ae9425db32a4fc082332c2c0261f4f113b4a2246616",
+  "bytes": 66209,
+  "sha256": "a36dd8456b4ec08de0b8594991760b3a0b2f83deef8017a9e309ebd5121d4ea2",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1259,8 +1259,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
-  "bytes": 65448,
-  "sha256": "329b917757725c362066b779c65399d5d0ecdcf92ef5dd12a1ad47f53dce29dd",
+  "bytes": 65716,
+  "sha256": "f79b29177a058eb496e257f751d9b6a458bcde92c0884142f0b202346f9edf4a",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -1320,15 +1320,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8336__lung-disease-stem-cell-therapy.html",
-  "bytes": 61193,
-  "sha256": "c7a6e08f930c6544a2080087210d5b89ba9dd80543e2b562c5a68d609ddacc2f",
+  "bytes": 61294,
+  "sha256": "6e23f479ed7056f7a1c5087251a9dccdfa46156f00a2329536bc683112540b0a",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Lung Disease in Medellín | Stem Cells Colombia",
-   "descripcion": "An intravenous and nebulized stem cell and exosome protocol for chronic respiratory conditions, reviewed first by an internist."
+   "descripcion": "An intravenous stem cell protocol, with exosomes that can be added by nebulization, for chronic respiratory conditions, reviewed first by an internist."
   },
   "ya_en_kx": false
  },
@@ -1360,8 +1360,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 62287,
-  "sha256": "6159e23fa7df4e22b7dbeeb14132f2f3bbe9b174d93d9fd9ee0e9f8188b74774",
+  "bytes": 62918,
+  "sha256": "2d62d54aa747618a6f8c472d345c41e4908ba6e99061f2968668aae1b0675d1f",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1401,8 +1401,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
-  "bytes": 73380,
-  "sha256": "63ae540d93d4eef06e31aa9c56f2a04d3d67f962dcd214a4d8011327fea2ef84",
+  "bytes": 73595,
+  "sha256": "a67ece50bea924e92b1ad81cb516059bf9835f89a132a0f1fc8a2a7303c0a734",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -1423,8 +1423,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 60970,
-  "sha256": "94072d52b81fb6a3f4e3bf6682336986f7ac67c8bc09f54490f0ab9b0d99c6e8",
+  "bytes": 61565,
+  "sha256": "c601b4d877863f05bf5ad9f8267ee730d44c6ee14e423caa0f7a8db740123db6",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1445,8 +1445,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/582__our-stem-cells.html",
-  "bytes": 52947,
-  "sha256": "056d7d9db6e4c862224ecaaaa3d2329fed6808e2ef54cb060a22973a498476b6",
+  "bytes": 52946,
+  "sha256": "2f4e3c9156ccd3a550b3beaa6888e8ca2e3b872389716480d7e729b75fca4493",
   "fotos_nuevas": [
    "scc-syringe-1.jpg"
   ],
@@ -1577,8 +1577,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 61284,
-  "sha256": "fcee2689e22093d5bc715a52a2d4b795bf88d0eecd7a225e57bd35cb74027f0d",
+  "bytes": 61286,
+  "sha256": "739671534c28af5fa6dd7c2f9f3a16dfa68713c2ba71b45830010ea4f23ee6aa",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1825,8 +1825,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 62856,
-  "sha256": "32cc6efac9b5c5ce7c6acc9a3111bb990c84a4fc1b7df6b3c6305dcfd50d3730",
+  "bytes": 63486,
+  "sha256": "956db376b01e8eb40eed0d1f2a6b2c58aa5c36a5e4c9d3aede7e64ff79638313",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1847,8 +1847,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 52476,
-  "sha256": "71848011da6b1e994cdc3902390f148ee4c819a3e349dd19f20d15de067b5b66",
+  "bytes": 52504,
+  "sha256": "82991916d1bc7bf9d086a96ea0d462913b841a3f38e4baacda0022566021ffcb",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1866,8 +1866,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8322__your-journey.html",
-  "bytes": 48138,
-  "sha256": "8ee6b9eaa6b65dd6f8febcc07265050d9c796d1bce97867fb2d976d20e5d253a",
+  "bytes": 48171,
+  "sha256": "065de9161ed4775d2bd4a17f80e45d68c87ccfc06c677f7769b0864c9ad61ed6",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1907,8 +1907,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6141__10-reasons-why-medellin-is-a-top-destination-for-medical-tourism.html",
-  "bytes": 34635,
-  "sha256": "2cdc67f65137889dc83f1259f4fce33fcb21323c1bd128d9fbbc44e6c9b1be2f",
+  "bytes": 34637,
+  "sha256": "1527fb88fba7726bf4386865e888dd478cb4d918f9e2df61578593541e68e007",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1983,8 +1983,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8696__biohacking-with-stem-cell-therapy.html",
-  "bytes": 35246,
-  "sha256": "6c3200ebc2cd7962442394c3c0a7d98c0884deba8be2c3942c14ca51d8a395eb",
+  "bytes": 35247,
+  "sha256": "fcf15bc033c295f6ec72b6952d9341b8fe13e1518ebe62d21f338977b4dbef31",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2021,8 +2021,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6177__exploring-eboo-therapy-benefits-and-applications-in-modern-medicine.html",
-  "bytes": 35536,
-  "sha256": "6dd8d04890a0e57c84bacb5cc845c7bf458cd2627acdb3c6339208c5db8350fd",
+  "bytes": 35537,
+  "sha256": "e3043eecfdf1c3b4fe94c16f0eceef7c432c03879e45d075ac8ccb2e5e8eecef",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2097,8 +2097,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6609__hopeful-advances-umbilical-cord-mesenchymal-stem-cells-for-type-2-diabetes.html",
-  "bytes": 35276,
-  "sha256": "9870fbedbce0a1068a9412b8217241f30cd7368626a46feb3c575ef60b3a75bd",
+  "bytes": 35279,
+  "sha256": "02a818bc2f7f1ec5936f4cb3f8e5a84726892c0d42aa29daaa239611348380eb",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2135,13 +2135,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4578__intravenous-stem-cell-treatment-a-promising-frontier-in-preventive-medicine-and-anti-aging.html",
-  "bytes": 36424,
-  "sha256": "8e4eafa9fc6f3d8a4a108d639bbc9a13546f003a7d74b5734caa151297f7b8c4",
+  "bytes": 36460,
+  "sha256": "b96b85b7722b7c4fc4d02f5a8acb413661a7866b42d6e1b35586f06ed40d803a",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "IV Stem Cell Therapy for Healthy Aging | What to Expect",
-   "descripcion": "How an intravenous stem cell protocol works, what the research on aging has shown, how safe it is, and what four days in Medellín involve."
+   "descripcion": "How an intravenous stem cell protocol works, what the research on aging has shown, how safe it is, and what three days in Medellín involve."
   },
   "ya_en_kx": false
  },
@@ -2173,8 +2173,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6145__mesenchymal-stem-cells-from-whartons-jelly-a-promising-approach-for-arthritis-treatment-2.html",
-  "bytes": 35777,
-  "sha256": "dbe6b33f1c1ec07bd600472f1b004228779245ce812cd961c21dee2998d96b50",
+  "bytes": 35778,
+  "sha256": "5a80869a271b81a40c431c3a57933e9a39d0a6a827f402865148eaa37266b079",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2249,8 +2249,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6586__psoriatic-arthritis-and-regenerative-medicine-exploring-the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35512,
-  "sha256": "341c48326ec74e35138d46d7d53986f363757115084d2329c735f3ce5bf32f48",
+  "bytes": 35515,
+  "sha256": "0c2bb923152357bdd63d26053255eee999e2960a858953cbe4524bac348e55d1",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2382,8 +2382,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
-  "bytes": 34280,
-  "sha256": "e3ddbb3f1fc33aeef9314559d08e0a10d800c99b6047d9e25684a0b86873a454",
+  "bytes": 34282,
+  "sha256": "de4b067303b0e90aa7099f15aa77aa7cc4ba8ffaec897a7567b575322a448d1b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2439,8 +2439,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6582__systemic-rheumatoid-arthritis-and-regenerative-medicine-the-immunomodulatory-potential-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35498,
-  "sha256": "eb36b280641c6c599a524c422b4f20c37dde5763d94775de5ecb19068b042122",
+  "bytes": 35540,
+  "sha256": "9623560471db98b3e8c18249334c7e3b8a1244f903f1749d46b16215d91c4b48",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2458,8 +2458,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6578__the-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-in-rheumatoid-arthritis-of-the-hand-joints.html",
-  "bytes": 36328,
-  "sha256": "3069b3b76841e6b23f38342a00e168541387b0a349dbc284b466abd8d0d75546",
+  "bytes": 36329,
+  "sha256": "aeffcdac1d95c8aa7c2c2c3a6730033db46371da6659ba1d8bb27a44767e2c0e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2534,8 +2534,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/1273__the-therapeutic-potential-of-mesenchymal-stem-cells-from-umbilical-cord-for-systemic-treatment.html",
-  "bytes": 34988,
-  "sha256": "9f9c93dff72f99a5b6d3566be63aadd36d1ea9e7a462b241712d4943ed33b209",
+  "bytes": 35043,
+  "sha256": "4fe1106c2d49cd8a2c0778bb3b7e69267b138dc1ee74aa33ae2bd38f2715ce6d",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2611,8 +2611,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6584__type-1-diabetes-and-regenerative-medicine-the-immunomodulatory-role-of-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 36098,
-  "sha256": "3456b7342ce4a7f927c3aab7a3a8594698c58058399da0515fb952dbb82f15e8",
+  "bytes": 36099,
+  "sha256": "170b1a537718bf748d80cc92a29fdb391273128931fe3f18caf20ebbb21d30ec",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2630,8 +2630,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/4575__understanding-aging-and-how-to-reverse-it-becoming-our-own-benjamin-button.html",
-  "bytes": 36239,
-  "sha256": "2e5efbd5207710ce4d0b204ff3d065afdcccfa8c4de95f16ceb94c7d3accffa7",
+  "bytes": 36284,
+  "sha256": "be708198a7430f89d3019fbcd51d02ed1d76eace419a4b514cdad372c37a0377",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2668,8 +2668,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6311__understanding-how-stem-cell-therapies-work.html",
-  "bytes": 34463,
-  "sha256": "b8a75d62b5aefacdfd8d143d73ced1239790951d9086e4e9df29a6481ee5f889",
+  "bytes": 34464,
+  "sha256": "8504d4ae10046ae0be0b57d74eea88c22eddfb79ad862b442e7b39f6d22f8012",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2687,8 +2687,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6169__understanding-the-cost-of-stem-cell-treatments-around-the-world.html",
-  "bytes": 34618,
-  "sha256": "4763e091a3d7aea6c72f693e3402ebcad972db6c6380846a9c2933d4429f409e",
+  "bytes": 34619,
+  "sha256": "5e505296e33027c018af9a9fe961c645555c24759ed7dba60d9307a13b1a9527",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2725,8 +2725,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/6149__unlocking-longevity-and-better-health-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
-  "bytes": 35632,
-  "sha256": "66f12dfe48d1db37dc70c3747270b28bb0f76cfda6f9d915fd0af4baa4c80a4b",
+  "bytes": 35677,
+  "sha256": "ae45372dcc672fc96d2243be4cb699b81b539c6c7551aa8473b49fd8b2b6423e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
