@@ -172,8 +172,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
-  "bytes": 66676,
-  "sha256": "051964e119580143d814cab6ff287ae7961c2b86c6d865b0d3c6508920d2789a",
+  "bytes": 66666,
+  "sha256": "bc4f8afbcd4c555b1cd13936bcd6e0905c1a355c8ef8b3e6d8e47f6a99028464",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -303,8 +303,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
-  "bytes": 68899,
-  "sha256": "f72eab4589904a23f94eb45955d9e23423f1f9da19b88590ad198e957ac5cd84",
+  "bytes": 68881,
+  "sha256": "6ff501f3288bf595ace371b3c50339c6d36077bf463fc1db484368c0f7f2fefb",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -909,7 +909,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
   "bytes": 49888,
-  "sha256": "3637afeb996cb63780d6fec8e633f62797a3007131e26f1e614f127b5e5dd2dd",
+  "sha256": "d161cf78ac22c3363a2e516acd178bddf06b47f7eef729685f4be0b339826e5b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1101,7 +1101,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
   "bytes": 53119,
-  "sha256": "fb3b72307da87523e57fad0550460a998b6c89c1d131ca992c066ffb23c806e8",
+  "sha256": "ff3e1ceb195fbcd1ec8dec9d133cd1371d56b203ba104de3f8b6cf99c35a67ae",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1467,7 +1467,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
   "bytes": 49408,
-  "sha256": "3648e656a20ca1ca5c08cb630565551c6a9061d2493f3e491907d889b5371b9f",
+  "sha256": "47c4f052470148ac55b58261dfb9a7a16844c1f2ac6a0979e8e04eb198917591",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1848,7 +1848,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
   "bytes": 52528,
-  "sha256": "6a89fa4a1b3880b7a21eef49703fe7930b19eb48fb15a384a587597f5397831c",
+  "sha256": "e23d0035c338c75d127704365ae8df2159953470e1f30dd0ba6ab4bda3c33e3c",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1877,6 +1877,18 @@
    "descripcion": "How your stem cell treatment in Medellín works, step by step: free case review, online consultation, airport pickup, treatment day, hotel and follow-up."
   },
   "ya_en_kx": false
+ },
+ {
+  "ruta": "/loma/",
+  "idioma": "en",
+  "accion": "revisar",
+  "motivo": "No existe en WordPress."
+ },
+ {
+  "ruta": "/es/loma/",
+  "idioma": "es",
+  "accion": "revisar",
+  "motivo": "No existe en WordPress."
  },
  {
   "ruta": "/10-essential-questions-to-ask-before-choosing-an-umbilical-cord-stem-cell-treatment-center/",
