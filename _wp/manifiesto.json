@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72681,
-  "sha256": "290fd046f09276f9a4f8cdd7942cb2e27480f4b8fe7cb9f4cfa803f90f9de27c",
+  "bytes": 72680,
+  "sha256": "d741ee3123ba558aff8b61ff43656a10855dfbd9f3164c3a560b2dc8f77c360c",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -172,15 +172,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
-  "bytes": 66666,
-  "sha256": "bc4f8afbcd4c555b1cd13936bcd6e0905c1a355c8ef8b3e6d8e47f6a99028464",
+  "bytes": 66659,
+  "sha256": "e674cee4a9797c8c93cfb7232688fa62827139a14d5aed06eb8070632e8c97fe",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "The Longevity Protocol in Medellín | Stem Cells Colombia",
-   "descripcion": "The longevity protocol in Medellín: whole-body stem cell IV plus 20 trillion exosomes, full-body MRI and DEXA, over three days, with the hotel included."
+   "descripcion": "The longevity protocol in Medellín: whole-body stem cell IV plus 20 billion exosomes, full-body MRI and DEXA, over three days, with the hotel included."
   },
   "ya_en_kx": false
  },
@@ -303,8 +303,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
-  "bytes": 68881,
-  "sha256": "6ff501f3288bf595ace371b3c50339c6d36077bf463fc1db484368c0f7f2fefb",
+  "bytes": 68909,
+  "sha256": "116bbdc36a1ceab6f5add2a7d6d06c2d8863f8346472421f26fd293b78bbe205",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74160,
-  "sha256": "7068a6c1bc7f6bd9dd25d5ebe45cd81a6a2006b1b7da9e506034c8d7419c643e",
+  "bytes": 74164,
+  "sha256": "9a034517aaa8ab1e985d93d76f1f26fa09f5c88bb37129decbfdc58336d1b54d",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -908,8 +908,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 57877,
-  "sha256": "8c992a79515bd0370ba32b56332a109f48459c64ac9c8872c68771d2f4cb8680",
+  "bytes": 57880,
+  "sha256": "42f7a1ef2afc646a84e42e627ee5c34650de69868b448ded8fde4f7e4a9182f5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 56136,
-  "sha256": "11a2e820d4e0085379448b02668823359cda839694bf3de1963bc1ffcbf05adc",
+  "bytes": 56140,
+  "sha256": "3390178e9b411ad56fe6bd84ae5b5679c58c62915307b3f44027f87b1beecedf",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1466,8 +1466,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 57203,
-  "sha256": "fe5fa85c45e447121a987e923fd5b080eecb49e7a2c08b37d479302b71a612b4",
+  "bytes": 57201,
+  "sha256": "86bc68df8928a117870a199c91b5bd07c07a381ca837b0fb2b97bda8d7f7cbfd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1847,8 +1847,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 55459,
-  "sha256": "a974a30902f0f3678c2f5f0af534fb59256d9cf42e8a326ac9b9dd621af44742",
+  "bytes": 55458,
+  "sha256": "543b3a310f143831c3cdd24d446c1cf0181eea54d6a4091918bd9363d98f6696",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
