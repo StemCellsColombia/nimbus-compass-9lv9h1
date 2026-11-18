@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72299,
-  "sha256": "91dcd47a09187faf59805111cfe4149d221edbbfe7e6c644d2c9864553613b31",
+  "bytes": 72589,
+  "sha256": "034b86407d9826e3f55aabe8769d4c6c97e2cfaebce07b24949a3ff5c7be44c7",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -32,8 +32,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/247__about.html",
-  "bytes": 43051,
-  "sha256": "daeefbd1c8f943c4cc67c2c984bedf8e911ae422d8f44b71b6f18e52209e7845",
+  "bytes": 43297,
+  "sha256": "c93d78671c11bd35b80505c475d2ae073ad1d82675902d2a29f8d510ea41b240",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -62,8 +62,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
-  "bytes": 63263,
-  "sha256": "89e6fae21422e0762bf4a518a43ebde07be25159f8d97d6be34779768147fc14",
+  "bytes": 63464,
+  "sha256": "1f93538c570f6cf0c93f8016aef13b6964a2e96ccc5e0a00fd3f188e7abd1edf",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -100,8 +100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
-  "bytes": 63840,
-  "sha256": "70af55cd16911b7e8107d93d90b969749913aa2fd2e469db557b25d00f46b994",
+  "bytes": 64090,
+  "sha256": "809505c7c5071ecef4ce2401ab16c220294541484c77b99a0b33903ba27137c8",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -132,8 +132,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8332__autoimmune-stem-cell-therapy.html",
-  "bytes": 65248,
-  "sha256": "ff8f8c98460963282b237c37af80469acbb8831af2c063bdf850f442ee1f78fc",
+  "bytes": 65453,
+  "sha256": "3fb53ebbc9b699e3fd43f31d5d50b20fd374ce308c6581f81a09cc3328dc40d2",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -151,8 +151,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8328__back-neck-pain-stem-cell-therapy.html",
-  "bytes": 64938,
-  "sha256": "197c08e7322937b0133bddcf3ba2559c9abfe5e3bcb484a0334a33292c90b56f",
+  "bytes": 65147,
+  "sha256": "1bc823fa78c0076d777335d70721f409b809e27d8a00547360a40a806ef4a500",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -343,8 +343,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8448__es__celulas-madre-acv.html",
-  "bytes": 62763,
-  "sha256": "49b590f2071cc12b5c96f0a6a4a3d50b7803929108f7e4766e8657705fdacd7e",
+  "bytes": 63025,
+  "sha256": "d2b15cdd23cf77f25aa41585a8283b0ce3d895f12eac0c4281f10f97f0a1fddd",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -365,8 +365,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
-  "bytes": 64491,
-  "sha256": "5db8100f69805d66c20eb949c8531bbe4a308924d5fa9841693b2dcdc6754035",
+  "bytes": 64692,
+  "sha256": "a38ead112d2f5ba0b05902af779892f1e8165622ac04a444e8f54aeb3a80c97c",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -384,8 +384,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8439__es__celulas-madre-artritis.html",
-  "bytes": 65830,
-  "sha256": "4918a7e96f8d60bd796d13532f1b6d53ceda120f236d3880eb9bf47408b29535",
+  "bytes": 66080,
+  "sha256": "a86543e104150bef37fa249dee2e77faf47097f3b07d22bc86b2527427b4aa72",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -416,8 +416,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8441__es__celulas-madre-autoinmunes.html",
-  "bytes": 66820,
-  "sha256": "d8f5cf3cdbbb0b6dc9eab8769fa23b43067fa3b7ae947f3a54d5e64348e7eed3",
+  "bytes": 67025,
+  "sha256": "f183b8d1e0e39821b073697f0acaa6b0dbd2786d5a0c3b81419ccd17c8305442",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -530,8 +530,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
-  "bytes": 64269,
-  "sha256": "335099445339c479baa8d44dd23b3eb10c2d5c62cc880bc6d25d46c14023dd1c",
+  "bytes": 64537,
+  "sha256": "a0230ba8ef13435b9da8b12f73c383b727766a761b904201177ecdd5a4e268e0",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -552,8 +552,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8437__es__celulas-madre-espalda-cuello.html",
-  "bytes": 66679,
-  "sha256": "18533c2ff6d110defff00af5ddff46dfb7211798867bf8efddf15e90d25ab370",
+  "bytes": 66888,
+  "sha256": "053aa2657f253adc8bed94835f0ffde77b3166f10e015b4e004b762a62cc4184",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -594,8 +594,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
-  "bytes": 65172,
-  "sha256": "da1f9ca1f5f784d46598661c772bc1a7ef9d34449ae9f4686f1ed10c753e4fd8",
+  "bytes": 65446,
+  "sha256": "e72398ab26fe3c640ebf945d545f54571b004efe106f326547dbf6f42fbb1bbe",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -616,8 +616,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8438__es__celulas-madre-lesiones-deportivas.html",
-  "bytes": 65493,
-  "sha256": "782bfbaf4f1b65672686be20cac05649cb0ed53fbcfac1adea90ee875e36a326",
+  "bytes": 65763,
+  "sha256": "131c01ba08b08608d2c4e7c290e5068aa16d34b3b229246844a940bd964ae681",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -638,8 +638,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
-  "bytes": 67743,
-  "sha256": "84cbacfbd91c071615e2dbd627d4f1448ef9d28223e84eaec9006be8f419b030",
+  "bytes": 67993,
+  "sha256": "5630b77d87c716c3edfc9ce9f81143377ea456ac09cd69bb1c6a1a3facb6bf71",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -659,8 +659,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
-  "bytes": 62855,
-  "sha256": "c4e8750051c322e67c57fb715e02a178da94ee6ec82c07bf9db9287fb04641df",
+  "bytes": 63117,
+  "sha256": "bde5d6b48d77c23c3b54cd7c1b09ba0603076eef54cb130918bb9fb757a406e2",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -681,8 +681,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8436__es__celulas-madre-pie-tobillo.html",
-  "bytes": 68073,
-  "sha256": "b859019786a59a14bae0cbb70ba0c10a4472e4ea1a44a0d5f8be50211bf7578c",
+  "bytes": 68323,
+  "sha256": "78caf1446c41764aa5484919247a034199d4c0b891b2ea36cb1afa8ec2378635",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
@@ -702,8 +702,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8432__es__celulas-madre-rodilla.html",
-  "bytes": 66485,
-  "sha256": "4185a7ff9810c8273be006b91edd7852ed088e347bfa84f000b9b689162e1f11",
+  "bytes": 66698,
+  "sha256": "249c7612d7be2e2a217d346d145860ced216576d30a4a347246de5ed643f7399",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -802,8 +802,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 42767,
-  "sha256": "dd6a275c66890c4dd48e67ea0c6f6a0be58477881fade8aa0519eb6a1eeeef12",
+  "bytes": 43013,
+  "sha256": "e0a8aa98838ba3abe5397bcad80e88b66f49b8589ad791abe01aff20516838f7",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74171,
-  "sha256": "7c2ca692dde841051757def2dd24dccb39438cd86c966e3f2c2d1dfa51d07193",
+  "bytes": 74073,
+  "sha256": "7b2364762e866cffe577f6e1160d407b05e584efc3df48dcc6cd1094d83df985",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -855,8 +855,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8420__es__instalaciones.html",
-  "bytes": 41669,
-  "sha256": "ea16d57676c31b148f802b55e9005b588e2bc5a029c3f4a9c1e8860cb3464d58",
+  "bytes": 41890,
+  "sha256": "103c0e852605b4d4a1f9cefdb04dc4b6da22056d0b543215e3cc0947a446b263",
   "fotos_nuevas": [
    "scc-hotel-workspace-1.jpg",
    "scc-surgery-table-1.jpg"
@@ -877,8 +877,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8424__es__nuestras-celulas-madre.html",
-  "bytes": 53882,
-  "sha256": "7be081df98b08eab9c1a9ac0a35599a2c1fd38f82a98f01d8694c74146c92ea8",
+  "bytes": 54081,
+  "sha256": "1a9a36ec4ea2acdca58e018d3a60d66eed3aafbce0ca228086d09b580b22e584",
   "fotos_nuevas": [
    "scc-syringe-1.jpg"
   ],
@@ -1003,8 +1003,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8423__es__sobre-medellin.html",
-  "bytes": 38299,
-  "sha256": "245439348783b3a79e6216af8556538fb07d81a9443de47dc7f03683e9a932a5",
+  "bytes": 38520,
+  "sha256": "e869be4726e517032c9d15cefd253beb5b0795a9a6b2e79111d5ac6d8d31cdc2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1022,8 +1022,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8416__es__sobre-nosotros.html",
-  "bytes": 43487,
-  "sha256": "e27e023fb4ca499d4e979252093ee6fbc34cf31e3e88fbfffcfdb2c57386d34a",
+  "bytes": 43733,
+  "sha256": "12fc8c11d4b916e667b48459cba86b837b39d5e4f772049b89bca062b2b657d2",
   "fotos_nuevas": [
    "scc-or-2.jpg",
    "scc-or-9.jpg",
@@ -1119,8 +1119,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8430__es__tu-proceso.html",
-  "bytes": 49004,
-  "sha256": "08e7a9f30aed1b19bbc746b794e6a600525eb17052e94213c1ff9291854e8968",
+  "bytes": 49250,
+  "sha256": "ed6466f23e20a8293169a4732ff2f2808edc9b670808465528682ef996c72c23",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
@@ -1159,8 +1159,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8312__facilities.html",
-  "bytes": 41285,
-  "sha256": "c63624fabda7946b53e999ad1e937e42eace3cf3174be0423312ae13506d24b5",
+  "bytes": 41506,
+  "sha256": "1e3295388005e3104fc6473d743622c42c45f5dd4e54b1706be4935680bb16b8",
   "fotos_nuevas": [
    "scc-hotel-workspace-1.jpg",
    "scc-surgery-table-1.jpg"
@@ -1200,8 +1200,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8327__foot-ankle-stem-cell-therapy.html",
-  "bytes": 66046,
-  "sha256": "7e612c1f3bbf39380b24b7a575fbebbb7aeb2d588adaf4ef900d43b53fcfb895",
+  "bytes": 66296,
+  "sha256": "1321f68a6c799bfdd8f6b43eae9d9a336437f3db62fb768c5a4190015127e738",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
@@ -1259,8 +1259,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
-  "bytes": 65685,
-  "sha256": "75022bd6c99d8360cb23d42f73c6550b4596027ead090c5c1f6608f7fb7b4305",
+  "bytes": 65935,
+  "sha256": "b06e85cadbc5622978f15ae89be108ca36dcbf8ba5935c0546eb5d878c0db4f0",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
@@ -1301,8 +1301,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8307__knee-stem-cell-therapy.html",
-  "bytes": 64426,
-  "sha256": "627b70557bfc9692079d9c5b392c9d95b204798f068f4028aac8b6a9f1329ab6",
+  "bytes": 64639,
+  "sha256": "28824c37ebb3bbdef2326030be855e220233508cbf868b911f42ca8d4c0c6df7",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1341,8 +1341,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/634__medellin.html",
-  "bytes": 37883,
-  "sha256": "bed66a605bec424a66c4c269b47076c6e02ee5eb42a2c6883ff1ce3e5c2f6bbc",
+  "bytes": 38104,
+  "sha256": "cd231955399e8b7589fb7b77d0c68caa63a854b26ec402d0c62222de54326ea0",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1360,8 +1360,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
-  "bytes": 62918,
-  "sha256": "41c4273bc18ae799014fd27444dbd0c73bb8611b84a3beb3f154e61f926113e9",
+  "bytes": 63186,
+  "sha256": "72b2e0a4c74d1c9ce469c162e5dbedf5a228da35d2495afb6e53d93d9b1257cf",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1423,8 +1423,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
-  "bytes": 61565,
-  "sha256": "c21b14d33ab56fc23c3a79c5998a7a733ae7c828954345572b221117ec96ec42",
+  "bytes": 61827,
+  "sha256": "8446a67ed224e8636b0dde49ada8be38662cc64c7f7e877ef1605d8b156f2d98",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1445,8 +1445,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/582__our-stem-cells.html",
-  "bytes": 52946,
-  "sha256": "2f4e3c9156ccd3a550b3beaa6888e8ca2e3b872389716480d7e729b75fca4493",
+  "bytes": 53145,
+  "sha256": "c9632c56d6e1b903d1bcb41ecc000fa2467bb90559bcf319e178c975bea81193",
   "fotos_nuevas": [
    "scc-syringe-1.jpg"
   ],
@@ -1555,8 +1555,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8329__sports-injury-stem-cell-therapy.html",
-  "bytes": 63226,
-  "sha256": "ff6cd6709ce3e88a187fc42ad23fd0d523feb42ac771c26f16d696ac62e752cf",
+  "bytes": 63496,
+  "sha256": "1a5c429e40a58a1588c7cd742728052bfb24bdf280c494bcd31f04c8ecfb0a49",
   "fotos_nuevas": [
    "scc-reyes-nacional-1.jpg",
    "scc-reyes-nacional-2.jpg"
@@ -1577,8 +1577,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8339__stroke-stem-cell-therapy.html",
-  "bytes": 61286,
-  "sha256": "739671534c28af5fa6dd7c2f9f3a16dfa68713c2ba71b45830010ea4f23ee6aa",
+  "bytes": 61548,
+  "sha256": "660bbe37281df72464bcce9b91ec984e99dd250ca83391734ce8465a4bc95bcf",
   "fotos_nuevas": [
    "scc-brain-half-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1599,8 +1599,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 42329,
-  "sha256": "cfd51381065dd153c0afed4062f32f4a99ef1be7a5b3450caedae0f0540d9370",
+  "bytes": 42575,
+  "sha256": "486f897492d3c71a4418cc95e4bd10ba1596bd7d3cd7c672799b0ecd1140db89",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -1825,8 +1825,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
-  "bytes": 63486,
-  "sha256": "8e5d59282665bd19d31c30311fc08148e870be55b1734b55cd280316d78f2a98",
+  "bytes": 63760,
+  "sha256": "e81b4736e12e0f587c37ddca8dc49258194187e45532f2d024523db5b70c5515",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1866,8 +1866,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8322__your-journey.html",
-  "bytes": 48171,
-  "sha256": "065de9161ed4775d2bd4a17f80e45d68c87ccfc06c677f7769b0864c9ad61ed6",
+  "bytes": 48417,
+  "sha256": "5a86aab105da7ba014b5afcb8343e05a5caf03f1b64c86ef83d0a0c505a4f3ff",
   "fotos_nuevas": [
    "scc-or-1.jpg"
   ],
