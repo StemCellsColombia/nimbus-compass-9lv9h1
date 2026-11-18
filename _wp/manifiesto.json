@@ -9,7 +9,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
   "bytes": 72589,
-  "sha256": "034b86407d9826e3f55aabe8769d4c6c97e2cfaebce07b24949a3ff5c7be44c7",
+  "sha256": "e492fc742e54c6cdcfb31f016311bb61973fb744245912fb0e3f25252206c407",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -152,7 +152,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8328__back-neck-pain-stem-cell-therapy.html",
   "bytes": 65147,
-  "sha256": "1bc823fa78c0076d777335d70721f409b809e27d8a00547360a40a806ef4a500",
+  "sha256": "acca1b6bf807f493eaaaf767f31e92ad6f9fa9d12b9519f80f8509d71e9b0673",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -553,7 +553,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8437__es__celulas-madre-espalda-cuello.html",
   "bytes": 66888,
-  "sha256": "053aa2657f253adc8bed94835f0ffde77b3166f10e015b4e004b762a62cc4184",
+  "sha256": "f00c4cc942f6d00a8425252561da5fc26fc8c81b83c1d7b1a0ec381424c4fe3d",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -832,7 +832,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
   "bytes": 74073,
-  "sha256": "7b2364762e866cffe577f6e1160d407b05e584efc3df48dcc6cd1094d83df985",
+  "sha256": "2b0aaf0ae3baf297f5d23094f1b0c988b7666ca5f09b640d0199ee69dc4329fb",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -909,12 +909,12 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
   "bytes": 57910,
-  "sha256": "9fb42bb6e19a96eef131e55058676fe161777bfd3a80e0872ca12c0927573e34",
+  "sha256": "abc759e5256251874a66f04422a4f6a98899e62c1cab8e07f7096191a0f42ea5",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Precios de células madre en Medellín: desde US$1.399 | Stem Cells Colombia",
-   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.399, espalda desde US$5.100, IV desde US$4.000 y el Protocolo de longevidad desde US$6.999."
+   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.399, espalda desde US$4.900, IV desde US$4.000 y el Protocolo de longevidad desde US$6.999."
   },
   "ya_en_kx": false
  },
@@ -1101,7 +1101,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
   "bytes": 56147,
-  "sha256": "0eaff34f9b108db5249bad4b50ccb1ce15211aae9019a8e6fb0eaed59becc899",
+  "sha256": "2d75d36b8a76c736664adbb4498b27f6a5aea3ca5af0f98620827c3582a292cd",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1467,12 +1467,12 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
   "bytes": 57223,
-  "sha256": "eff519fc8ad0b4437762e278464da423b53720d1714edf041159b3dfc13450f8",
+  "sha256": "a598169a8d8c6f7faf5cfc64eee57040bd8d35428942a6e7ee45d47feea220e2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — From $1,399 | Stem Cells Colombia",
-   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,399, back from $5,100, IV from $4,000 and the Longevity Protocol from $6,999."
+   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,399, back from $4,900, IV from $4,000 and the Longevity Protocol from $6,999."
   },
   "ya_en_kx": false
  },
@@ -1848,7 +1848,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
   "bytes": 55465,
-  "sha256": "39a7e1d6611b90b0e5c7d19332b929a44ef036bf4b350369e4e5c684093c25fe",
+  "sha256": "36005a814c264f7cdbac1aa3beaec3bb16a3aa7e93d59f3dd7a7c20d26d9703b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2215,7 +2215,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6185__lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment.html",
   "bytes": 35446,
-  "sha256": "4b4d640f2826598067c3757727727714ebff98281746df8f5896b5591fab1a39",
+  "sha256": "fff575d408e3638051bf5d8d2303200d62e00572d65f3faf12668b24c1c1b781",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2253,7 +2253,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6183__neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape.html",
   "bytes": 35360,
-  "sha256": "9e2560b64469e1114d009f5492a2c36f535114c1d18d5877e2d4607a2a32ad65",
+  "sha256": "a2a6f2694ac184a8879573c84fb6b72c667a9e2ca7cede72621d9ac8cf4b3aed",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2272,7 +2272,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6163__one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications.html",
   "bytes": 35434,
-  "sha256": "74fbf067d0dc6984c7dce1bd53cded48907bacf9e9856ff4ce30f32856452358",
+  "sha256": "bde40fa5c1e47656d595951f6bf4235fe1a9624d97cd2b434955a5a18e169016",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2329,7 +2329,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6181__regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment.html",
   "bytes": 35185,
-  "sha256": "fdef7b90e31b3f4d56e1c8e04e168266871842c5e2d46ba53a72a0e41a0c796b",
+  "sha256": "52c5475e654e4c772c54ef305a02b8cddfbd854d871b7acf3cc2664178e85db9",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2367,7 +2367,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/1261__revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
   "bytes": 35249,
-  "sha256": "36f59ce8f0500b9c2e9fed2b7bca0869ceaa629158f7d5f05502745af80a7ee7",
+  "sha256": "d78190c910c513c0231e86b5c51c4d8676c6fe361ce6217e42aa49b6bb4192e2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2424,7 +2424,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8695__spine-surgery-vs-regenerative-medicine.html",
   "bytes": 33958,
-  "sha256": "56014cb963d1cccaa9d434c74a40e95b1863e0a22873095a45dac789a81947c2",
+  "sha256": "69649999f4ba482325c05fb475e98d672047499b5db735ca5dd6ca941322f862",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2443,7 +2443,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
   "bytes": 34282,
-  "sha256": "c6ccd8ceb20d48452de1b3903d34186311ce7ade110788dfc83ceed06e17dbf2",
+  "sha256": "365269af03b30814ecc5853fada7fd98b7e662746874aa34264c79975db5e8ef",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2614,7 +2614,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6590__the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome.html",
   "bytes": 35542,
-  "sha256": "ebdd9ebb9154f54764f8eedba36864fcc7a6d67b7058e027ac958e1abbfaee31",
+  "sha256": "3e574960c72041d5f7fdf911e52a9ccb2e54f4fb81449c319d462fdede948d90",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2748,7 +2748,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6169__understanding-the-cost-of-stem-cell-treatments-around-the-world.html",
   "bytes": 34619,
-  "sha256": "c27b5c18f13a8672ba79e19d51468eda524a731872d1ab13fb9a97f155b8738e",
+  "sha256": "a961a132918398fdee2b37429f9f1472116f0896bc23688fdbfe6950e2a2fac6",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
