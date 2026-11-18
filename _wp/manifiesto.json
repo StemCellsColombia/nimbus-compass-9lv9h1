@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72680,
-  "sha256": "d741ee3123ba558aff8b61ff43656a10855dfbd9f3164c3a560b2dc8f77c360c",
+  "bytes": 72299,
+  "sha256": "91dcd47a09187faf59805111cfe4149d221edbbfe7e6c644d2c9864553613b31",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -63,7 +63,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8343__anti-aging-stem-cell-therapy.html",
   "bytes": 63263,
-  "sha256": "175cf53cdd848f87e06a27393c9ffe134cdb595b9ac0c147703abc67fbd83ce0",
+  "sha256": "89e6fae21422e0762bf4a518a43ebde07be25159f8d97d6be34779768147fc14",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -101,7 +101,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8330__arthritis-stem-cell-therapy.html",
   "bytes": 63840,
-  "sha256": "859264f1cb77d65d2a74dfd1a7f211c2796bdbae87d3a063fcf46db1caedb1b5",
+  "sha256": "70af55cd16911b7e8107d93d90b969749913aa2fd2e469db557b25d00f46b994",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -152,7 +152,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8328__back-neck-pain-stem-cell-therapy.html",
   "bytes": 64938,
-  "sha256": "a516fc6496a9520b14026bf80dbea90030738797b84142467efa4c1889b28586",
+  "sha256": "197c08e7322937b0133bddcf3ba2559c9abfe5e3bcb484a0334a33292c90b56f",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -173,7 +173,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8344__biohacking-medellin.html",
   "bytes": 66659,
-  "sha256": "e674cee4a9797c8c93cfb7232688fa62827139a14d5aed06eb8070632e8c97fe",
+  "sha256": "4725fe1c7cd2a4347ac523e7dccb7412352abc64e3dae168e7a70f922bc2eb09",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -304,7 +304,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8453__es__biohacking-medellin-es.html",
   "bytes": 68909,
-  "sha256": "116bbdc36a1ceab6f5add2a7d6d06c2d8863f8346472421f26fd293b78bbe205",
+  "sha256": "abc7f19274359a395ed4fc79169a301b6c423226b891c1c426273100af0b50ee",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -366,7 +366,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8452__es__celulas-madre-antienvejecimiento.html",
   "bytes": 64491,
-  "sha256": "c0af0253ea9a9af139224410d25e6e94e50febe990a7c5c24a2b51d94e8c9c03",
+  "sha256": "5db8100f69805d66c20eb949c8531bbe4a308924d5fa9841693b2dcdc6754035",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -385,7 +385,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8439__es__celulas-madre-artritis.html",
   "bytes": 65830,
-  "sha256": "6ab2adf772ac870f1e9ab6e629f298b3d5c791e37ee44152db72ea1218e195f4",
+  "sha256": "4918a7e96f8d60bd796d13532f1b6d53ceda120f236d3880eb9bf47408b29535",
   "fotos_nuevas": [
    "scc-hand-3.jpg"
   ],
@@ -436,7 +436,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8433__es__celulas-madre-cadera.html",
   "bytes": 73619,
-  "sha256": "3609a55ebfd7af4c0b0d7a2bdee83d72a862e27dad23973ea0d7179071095255",
+  "sha256": "833c468346f2890acbf73efe27ed37c8c76fd9b32417596d94457e46db2f731c",
   "fotos_nuevas": [
    "scc-hip-proc-1.jpg"
   ],
@@ -531,7 +531,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8443__es__celulas-madre-esclerosis-multiple.html",
   "bytes": 64269,
-  "sha256": "de589faa4b092b47b0837f052284ff7ed5345131fdbfae951210ca1bdb54b630",
+  "sha256": "335099445339c479baa8d44dd23b3eb10c2d5c62cc880bc6d25d46c14023dd1c",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -553,7 +553,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8437__es__celulas-madre-espalda-cuello.html",
   "bytes": 66679,
-  "sha256": "83eda1f2a1ec111bbd1d849a8878364d9d85643acbdd274d8bdd7a520ae16c5f",
+  "sha256": "18533c2ff6d110defff00af5ddff46dfb7211798867bf8efddf15e90d25ab370",
   "fotos_nuevas": [
    "scc-spine-or-2.jpg"
   ],
@@ -595,7 +595,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8449__es__celulas-madre-lesion-cerebral.html",
   "bytes": 65172,
-  "sha256": "ce36120e3a65d79de9e76a963ad6570e742fc5765a797dfa7961220480f50b68",
+  "sha256": "da1f9ca1f5f784d46598661c772bc1a7ef9d34449ae9f4686f1ed10c753e4fd8",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -638,15 +638,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8435__es__celulas-madre-mano-muneca.html",
-  "bytes": 67791,
-  "sha256": "40dbb83c0a95b7ebd1270577df87300151f4ca616434d7eb2cb82dff1d74d204",
+  "bytes": 67743,
+  "sha256": "84cbacfbd91c071615e2dbd627d4f1448ef9d28223e84eaec9006be8f419b030",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para mano y muñeca en Medellín | Stem Cells Colombia",
-   "descripcion": "Células madre para la muñeca, la mano y el pulgar, guiadas por ecografía en quirófano. Desde US$1.799."
+   "descripcion": "Células madre para la muñeca, la mano y el pulgar, guiadas por ecografía en quirófano. Desde US$1.699."
   },
   "ya_en_kx": false
  },
@@ -660,7 +660,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8447__es__celulas-madre-neurodegenerativas.html",
   "bytes": 62855,
-  "sha256": "14e0dbb5322ba9e16ead606efbb6dc7a2b81d7742e5dfdcc3eb6edcc84b5326d",
+  "sha256": "c4e8750051c322e67c57fb715e02a178da94ee6ec82c07bf9db9287fb04641df",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -682,14 +682,14 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8436__es__celulas-madre-pie-tobillo.html",
   "bytes": 68073,
-  "sha256": "6b59421ff7b290d385045cb5de69065a8dc15837e0ba4711192792656ad95767",
+  "sha256": "b859019786a59a14bae0cbb70ba0c10a4472e4ea1a44a0d5f8be50211bf7578c",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Células madre para pie y tobillo en Medellín | Stem Cells Colombia",
-   "descripcion": "Células madre para el tobillo, la fascitis plantar y el dedo gordo, guiadas por ecografía en quirófano. Desde US$1.399."
+   "descripcion": "Células madre para el tobillo, la fascitis plantar y el dedo gordo, guiadas por ecografía en quirófano. Desde US$1.499."
   },
   "ya_en_kx": false
  },
@@ -741,7 +741,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8446__es__celulas-madre-sistema-nervioso.html",
   "bytes": 75131,
-  "sha256": "52fb9eff560a43026ecee422255baca2bb78c30ff25e80d8e50ef70a0acb7e38",
+  "sha256": "b401caa166bab7c9291fa185816016f718c786cbd3ea9877bbfd7a63c83a435b",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -802,8 +802,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8427__es__equipo.html",
-  "bytes": 42672,
-  "sha256": "7b6c535cc848d2dd9d784bc8c595888ea8afbe3753c14b72b7056717a5369e62",
+  "bytes": 42767,
+  "sha256": "dd6a275c66890c4dd48e67ea0c6f6a0be58477881fade8aa0519eb6a1eeeef12",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74164,
-  "sha256": "9a034517aaa8ab1e985d93d76f1f26fa09f5c88bb37129decbfdc58336d1b54d",
+  "bytes": 74171,
+  "sha256": "7c2ca692dde841051757def2dd24dccb39438cd86c966e3f2c2d1dfa51d07193",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -908,13 +908,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8425__es__precios.html",
-  "bytes": 57880,
-  "sha256": "42f7a1ef2afc646a84e42e627ee5c34650de69868b448ded8fde4f7e4a9182f5",
+  "bytes": 57910,
+  "sha256": "9fb42bb6e19a96eef131e55058676fe161777bfd3a80e0872ca12c0927573e34",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Precios de células madre en Medellín: desde US$1.399 | Stem Cells Colombia",
-   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.199, espalda desde US$4.900, IV desde US$4.000 y el Protocolo de longevidad desde US$6.999."
+   "descripcion": "Precios de células madre en Medellín, y lo que incluye cada uno: rostro desde US$1.399, cabello desde US$1.599, rodilla u hombro desde US$1.999, cadera desde US$2.399, espalda desde US$5.100, IV desde US$4.000 y el Protocolo de longevidad desde US$6.999."
   },
   "ya_en_kx": false
  },
@@ -966,7 +966,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8455__es__rejuvenecimiento-facial.html",
   "bytes": 75381,
-  "sha256": "e392dd1fe8e2d02d81df293746d5c06afb46d67a81ebfca73379c62b0856143f",
+  "sha256": "4ceac840bcf06ba4626a5230d5b02fe8bfff394d91b66a84b5f94251c2ea4094",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -985,7 +985,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8456__es__restauracion-capilar.html",
   "bytes": 67605,
-  "sha256": "54bf50ca2f50a710e76e19d8fba72618b9e907b796a14bb063e867790561b1be",
+  "sha256": "8aa43760ab4bedb4eee0891730f53ed31c0648a0ba8e6fcd1bb8fedd91ebc901",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1100,8 +1100,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8431__es__tratamientos.html",
-  "bytes": 56140,
-  "sha256": "3390178e9b411ad56fe6bd84ae5b5679c58c62915307b3f44027f87b1beecedf",
+  "bytes": 56147,
+  "sha256": "0eaff34f9b108db5249bad4b50ccb1ce15211aae9019a8e6fb0eaed59becc899",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1141,7 +1141,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8346__facial-rejuvenation.html",
   "bytes": 73753,
-  "sha256": "219c81c7f3220dab31d632c6eb5b6b0912f9624a2a61b6e6b215a8c8d6589491",
+  "sha256": "9b49d0e502e0e1ad725ca3f0842a2f9af0a21bd1e96fa4ea5ca5f6279e214bff",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1201,14 +1201,14 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8327__foot-ankle-stem-cell-therapy.html",
   "bytes": 66046,
-  "sha256": "12321f4ee118ac87eb3392d2544170edeac6be47bd800c573552269e9c934111",
+  "sha256": "7e612c1f3bbf39380b24b7a575fbebbb7aeb2d588adaf4ef900d43b53fcfb895",
   "fotos_nuevas": [
    "scc-foot-1.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Foot & Ankle in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cells for the ankle, plantar fasciitis and the big toe, ultrasound-guided in the operating room. From $1,399."
+   "descripcion": "Stem cells for the ankle, plantar fasciitis and the big toe, ultrasound-guided in the operating room. From $1,499."
   },
   "ya_en_kx": false
  },
@@ -1241,7 +1241,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8347__hair-restoration.html",
   "bytes": 66209,
-  "sha256": "a36dd8456b4ec08de0b8594991760b3a0b2f83deef8017a9e309ebd5121d4ea2",
+  "sha256": "a21db780a55d512e8b4319e719668f5dad689ac7450179a2b652219e51758582",
   "fotos_nuevas": [],
   "resenas": true,
   "yoast": {
@@ -1259,15 +1259,15 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8326__hand-wrist-stem-cell-therapy.html",
-  "bytes": 65716,
-  "sha256": "f79b29177a058eb496e257f751d9b6a458bcde92c0884142f0b202346f9edf4a",
+  "bytes": 65685,
+  "sha256": "75022bd6c99d8360cb23d42f73c6550b4596027ead090c5c1f6608f7fb7b4305",
   "fotos_nuevas": [
    "scc-hand-2.jpg"
   ],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy for Hand & Wrist in Medellín | Stem Cells Colombia",
-   "descripcion": "Stem cells for the wrist, the hand and the thumb, ultrasound-guided in the operating room. From $1,799."
+   "descripcion": "Stem cells for the wrist, the hand and the thumb, ultrasound-guided in the operating room. From $1,699."
   },
   "ya_en_kx": false
  },
@@ -1281,7 +1281,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8324__hip-stem-cell-therapy.html",
   "bytes": 71215,
-  "sha256": "05d5133ab82484dcf15f498de8970e5ae7ad191b4badca60c10fb3b3616ce0a8",
+  "sha256": "bebd1b15998c4ca0ea309c4d8cd57828e2d51dfabc7174595e94fc111581bbd9",
   "fotos_nuevas": [
    "scc-hip-proc-1.jpg"
   ],
@@ -1361,7 +1361,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8334__multiple-sclerosis-stem-cell-therapy.html",
   "bytes": 62918,
-  "sha256": "2d62d54aa747618a6f8c472d345c41e4908ba6e99061f2968668aae1b0675d1f",
+  "sha256": "41c4273bc18ae799014fd27444dbd0c73bb8611b84a3beb3f154e61f926113e9",
   "fotos_nuevas": [
    "scc-brain-neurons-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1402,7 +1402,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8337__nervous-system-stem-cell-therapy.html",
   "bytes": 73595,
-  "sha256": "a67ece50bea924e92b1ad81cb516059bf9835f89a132a0f1fc8a2a7303c0a734",
+  "sha256": "1f12b9bd6c93eaf49fffbcb55d51e39c4dd9bde865f4ed6b66319d831066c82b",
   "fotos_nuevas": [
    "scc-intrathecal-4.jpg",
    "scc-or-6.jpg"
@@ -1424,7 +1424,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8338__neurodegenerative-stem-cell-therapy.html",
   "bytes": 61565,
-  "sha256": "c601b4d877863f05bf5ad9f8267ee730d44c6ee14e423caa0f7a8db740123db6",
+  "sha256": "c21b14d33ab56fc23c3a79c5998a7a733ae7c828954345572b221117ec96ec42",
   "fotos_nuevas": [
    "scc-brain-wire-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1466,13 +1466,13 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/489__pricing.html",
-  "bytes": 57201,
-  "sha256": "86bc68df8928a117870a199c91b5bd07c07a381ca837b0fb2b97bda8d7f7cbfd",
+  "bytes": 57223,
+  "sha256": "eff519fc8ad0b4437762e278464da423b53720d1714edf041159b3dfc13450f8",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
    "titulo": "Stem Cell Therapy Pricing in Medellín — From $1,399 | Stem Cells Colombia",
-   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,199, back from $4,900, IV from $4,000 and the Longevity Protocol from $6,999."
+   "descripcion": "Stem cell therapy starting prices in Medellín, and what each one includes: face from $1,399, hair from $1,599, knee or shoulder from $1,999, hip from $2,399, back from $5,100, IV from $4,000 and the Longevity Protocol from $6,999."
   },
   "ya_en_kx": false
  },
@@ -1599,8 +1599,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/625__team.html",
-  "bytes": 42246,
-  "sha256": "9781853095018280661737ec3113f7c92cf8d1572e57d27b570edc9793a708db",
+  "bytes": 42329,
+  "sha256": "cfd51381065dd153c0afed4062f32f4a99ef1be7a5b3450caedae0f0540d9370",
   "fotos_nuevas": [
    "scc-or-7.jpg",
    "team-cabezas-portrait.jpg",
@@ -1733,8 +1733,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/9309__team__dr-luisa-mejia.html",
-  "bytes": 32116,
-  "sha256": "1ae00dd3c33cd24270940b73448dae0052d27f361acf5aa1d38f4970d29c5ddb",
+  "bytes": 32487,
+  "sha256": "2d55e468120b7c69cee5de65b9ae2e156738faecf45734dabee4d19a7459fcae",
   "fotos_nuevas": [
    "team-mejia-portrait.jpg"
   ],
@@ -1826,7 +1826,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8340__traumatic-brain-injury-stem-cell-therapy.html",
   "bytes": 63486,
-  "sha256": "956db376b01e8eb40eed0d1f2a6b2c58aa5c36a5e4c9d3aede7e64ff79638313",
+  "sha256": "8e5d59282665bd19d31c30311fc08148e870be55b1734b55cd280316d78f2a98",
   "fotos_nuevas": [
    "scc-brain-mri-review-1.jpg",
    "team-cabezas-portrait.jpg"
@@ -1847,8 +1847,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/350__treatments.html",
-  "bytes": 55458,
-  "sha256": "543b3a310f143831c3cdd24d446c1cf0181eea54d6a4091918bd9363d98f6696",
+  "bytes": 55465,
+  "sha256": "39a7e1d6611b90b0e5c7d19332b929a44ef036bf4b350369e4e5c684093c25fe",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1987,7 +1987,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8694__alternatives-to-hip-replacement-surgery.html",
   "bytes": 36251,
-  "sha256": "8074a1bf0d7e5adfb8464e3d8681276d3b6591809aa05a477434b0c38f06e1da",
+  "sha256": "edcfbb282d47452dac5b0613da20cde468d67aa7dcac57519641120b0b77e1f4",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2215,7 +2215,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6185__lower-back-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-expanding-the-possibilities-of-treatment.html",
   "bytes": 35446,
-  "sha256": "fff575d408e3638051bf5d8d2303200d62e00572d65f3faf12668b24c1c1b781",
+  "sha256": "4b4d640f2826598067c3757727727714ebff98281746df8f5896b5591fab1a39",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2253,7 +2253,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6183__neck-pain-and-regenerative-medicine-how-mesenchymal-stem-cells-are-changing-the-landscape.html",
   "bytes": 35360,
-  "sha256": "a2a6f2694ac184a8879573c84fb6b72c667a9e2ca7cede72621d9ac8cf4b3aed",
+  "sha256": "9e2560b64469e1114d009f5492a2c36f535114c1d18d5877e2d4607a2a32ad65",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2272,7 +2272,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6163__one-of-the-few-clinics-worldwide-offering-intradiscal-epidural-and-facet-joint-stem-cell-applications.html",
   "bytes": 35434,
-  "sha256": "bde40fa5c1e47656d595951f6bf4235fe1a9624d97cd2b434955a5a18e169016",
+  "sha256": "74fbf067d0dc6984c7dce1bd53cded48907bacf9e9856ff4ce30f32856452358",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2329,7 +2329,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6181__regenerative-medicine-for-spine-pain-how-mesenchymal-stem-cell-therapy-is-transforming-back-pain-treatment.html",
   "bytes": 35185,
-  "sha256": "52c5475e654e4c772c54ef305a02b8cddfbd854d871b7acf3cc2664178e85db9",
+  "sha256": "fdef7b90e31b3f4d56e1c8e04e168266871842c5e2d46ba53a72a0e41a0c796b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2367,7 +2367,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/1261__revolutionizing-treatment-of-herniated-discs-with-umbilical-cord-derived-mesenchymal-stem-cells.html",
   "bytes": 35249,
-  "sha256": "d78190c910c513c0231e86b5c51c4d8676c6fe361ce6217e42aa49b6bb4192e2",
+  "sha256": "36f59ce8f0500b9c2e9fed2b7bca0869ceaa629158f7d5f05502745af80a7ee7",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2405,7 +2405,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6574__sacroiliac-joint-dysfunction-and-regenerative-medicine.html",
   "bytes": 36284,
-  "sha256": "2da192fb02e77b02f858d2e89b2801617d7281af87108188b28a51b1b8242212",
+  "sha256": "d9214a4f4ed8282576684ae52401d5ec21e332d50da7ca63c7323021fc9b618b",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2424,7 +2424,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8695__spine-surgery-vs-regenerative-medicine.html",
   "bytes": 33958,
-  "sha256": "69649999f4ba482325c05fb475e98d672047499b5db735ca5dd6ca941322f862",
+  "sha256": "56014cb963d1cccaa9d434c74a40e95b1863e0a22873095a45dac789a81947c2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2443,7 +2443,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/8697__stem-cell-therapy-colombia-cost.html",
   "bytes": 34282,
-  "sha256": "de4b067303b0e90aa7099f15aa77aa7cc4ba8ffaec897a7567b575322a448d1b",
+  "sha256": "c6ccd8ceb20d48452de1b3903d34186311ce7ade110788dfc83ceed06e17dbf2",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2614,7 +2614,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6590__the-therapeutic-potential-of-umbilical-cord-derived-mesenchymal-stem-cells-for-facet-joint-syndrome.html",
   "bytes": 35542,
-  "sha256": "3e574960c72041d5f7fdf911e52a9ccb2e54f4fb81449c319d462fdede948d90",
+  "sha256": "ebdd9ebb9154f54764f8eedba36864fcc7a6d67b7058e027ac958e1abbfaee31",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -2748,7 +2748,7 @@
   "accion": "reemplazar_main",
   "archivo": "paginas/6169__understanding-the-cost-of-stem-cell-treatments-around-the-world.html",
   "bytes": 34619,
-  "sha256": "5e505296e33027c018af9a9fe961c645555c24759ed7dba60d9307a13b1a9527",
+  "sha256": "c27b5c18f13a8672ba79e19d51468eda524a731872d1ab13fb9a97f155b8738e",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
