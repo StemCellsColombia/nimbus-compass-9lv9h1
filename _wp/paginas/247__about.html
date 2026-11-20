@@ -197,6 +197,10 @@
 #kx .kxe-hv-light .kx-proof b{color:#fff}
 #kx .kxe-hv-light .kx-btn--glass{background:rgba(255,255,255,.08);color:#fff;border:1px solid rgba(255,255,255,.25)}
 #kx .kxe-hv-light .kx-orb,#kx .kxe-hv-light .kx-gridbg{display:none}
+@property --kxe-sxa{syntax:'<angle>';inherits:false;initial-value:0deg}
+#kx .kxe-sx__bar{position:absolute;left:0;right:0;bottom:0;height:3px;background:rgba(255,255,255,.08);opacity:0}
+#kx .kxe-sx__bar i{display:block;height:100%;width:100%;transform-origin:left;transform:scaleX(0);background:linear-gradient(90deg,#7EF0D9,#37C6D0 48%,#6fb3ff)}
+@media (prefers-reduced-motion:reduce){#kx .kxe-sx__fx::before,#kx .kxe-sx__fx::after,#kx .kxe-sx__fx i,#kx .kxe-sx__frame,#kx .kxe-sx__bar i,#kx .kxe-sx__play::before,#kx .kxe-sx__play::after,#kx .kxe-sx__hud i,#kx .kxe-sx__eq u,#kx .kxe-sx__slide.is-on::after{animation:none}}
 </style>
 <script>
 (function(){
@@ -261,5 +265,27 @@ all('.kxe-flip').forEach(function(c){c.addEventListener('click',function(e){if(e
 all('[data-kxe-tick]').forEach(function(l){var c=root.querySelector('[data-kxe-count]'),bs=all('input',l);function u(){var n=bs.filter(function(b){return b.checked}).length;if(c)c.textContent=c.getAttribute('data-kxe-es')?(n+' de '+bs.length+' listos'):(n+' of '+bs.length+' ready')}bs.forEach(function(b){b.addEventListener('change',u)})});
 /* 7. lectura: barra de progreso del post */
 var bar=root.querySelector('[data-kxe-progress]');if(bar){var art=root.querySelector('[data-kxe-article]')||root;window.addEventListener('scroll',function(){var r=art.getBoundingClientRect(),h=r.height-window.innerHeight;bar.style.transform='scaleX('+Math.max(0,Math.min(1,-r.top/(h>0?h:1)))+')'},{passive:true})}
+/* 10. historias del home (kxe-sx): pestañas que rotan solas con barra de progreso; el clic reproduce el video en el marco */
+all('[data-kxe-sx]').forEach(function(w){
+  var tabs=all('[data-kxe-sx-tab]',w),slides=all('[data-kxe-sx-slide]',w),scr=w.querySelector('[data-kxe-sx-screen]'),cnt=w.querySelector('[data-kxe-sx-count]'),i=0,
+      calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches,auto=!calm;
+  if(!tabs.length||!scr)return;
+  function stop(){var f=scr.querySelector('iframe');if(f)f.parentNode.removeChild(f);w.classList.remove('is-playing')}
+  function count(el){var to=+el.getAttribute('data-kxe-n')||0;if(calm||to<2){el.textContent=to;return}var t0=null;
+    function step(t){if(t0===null)t0=t;var p=Math.min(1,(t-t0)/650);el.textContent=Math.max(1,Math.round(to*p));if(p<1)requestAnimationFrame(step)}requestAnimationFrame(step)}
+  function go(n,user){i=(n+tabs.length)%tabs.length;stop();
+    tabs.forEach(function(t,k){var on=k===i;t.classList.toggle('is-on',on);t.setAttribute('aria-selected',on?'true':'false')});
+    slides.forEach(function(s,k){s.classList.toggle('is-on',k===i);s.tabIndex=k===i?0:-1});
+    var n1=tabs[i].querySelector('[data-kxe-n]');if(n1)count(n1);if(cnt)cnt.textContent='0'+(i+1);
+    if(user){auto=false;w.classList.add('is-manual')}}
+  function play(){var id=slides[i].getAttribute('data-kxe-yt');auto=false;w.classList.add('is-manual');w.classList.add('is-playing');stop();w.classList.add('is-playing');
+    var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0';f.allow='autoplay; encrypted-media; picture-in-picture';f.allowFullscreen=true;f.title='Patient video';scr.appendChild(f)}
+  tabs.forEach(function(t,k){t.addEventListener('click',function(){if(k===i){play()}else{go(k,true)}});
+    var b=t.querySelector('.kxe-sx__bar i');if(b)b.addEventListener('animationend',function(){if(auto&&k===i)go(i+1,false)})});
+  slides.forEach(function(s){s.addEventListener('click',play)});
+  if(calm){w.classList.add('is-manual')}
+  else if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){w.classList.toggle('is-live',e.isIntersecting&&auto)})},{threshold:.35}).observe(w)}
+  else{w.classList.add('is-live')}
+  go(0,false)});
 })();
 </script>
