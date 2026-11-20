@@ -8,8 +8,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8198__home.html",
-  "bytes": 72589,
-  "sha256": "e492fc742e54c6cdcfb31f016311bb61973fb744245912fb0e3f25252206c407",
+  "bytes": 72590,
+  "sha256": "f8081c9d37e9b7298e491f5b0f1092fdbcd379a05e8fdc63c900777243475778",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -831,8 +831,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8415__es__inicio.html",
-  "bytes": 74073,
-  "sha256": "2b0aaf0ae3baf297f5d23094f1b0c988b7666ca5f09b640d0199ee69dc4329fb",
+  "bytes": 74069,
+  "sha256": "aeacaa244964440b437ebff2fcde9627a8589b9a2642f7dfa78facdbbd1852c7",
   "fotos_nuevas": [
    "scc-knee-app-1.jpg",
    "scc-or-3.jpg",
@@ -1081,8 +1081,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/8429__es__testimonios.html",
-  "bytes": 32176,
-  "sha256": "510aff3a8ae774b1c3328a65fd8b1aec60134c5cea50b02651f75b7322e957f7",
+  "bytes": 34439,
+  "sha256": "f9bf903f779c5cd4841f1a26283195097f08eb0b642e73de2526ee7e6a0e34da",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
@@ -1806,8 +1806,8 @@
   "plantilla_actual": "elementor_canvas",
   "accion": "reemplazar_main",
   "archivo": "paginas/656__testimonials.html",
-  "bytes": 31836,
-  "sha256": "93e54027dc514ebc08130bc3e881d20a36a16737fd4b4f7d1d40573640f9d65a",
+  "bytes": 33947,
+  "sha256": "e8574868860eb0cb035b7f18fa6e4038f912eba2de1f02bce34919bbb52f9710",
   "fotos_nuevas": [],
   "resenas": false,
   "yoast": {
